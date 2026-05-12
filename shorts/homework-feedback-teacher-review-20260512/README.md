@@ -26,5 +26,5 @@
 - 壓縮包：已用 Python tarfile 讀回驗證包含影片、封面、旁白、字幕、README、manifest、upload kit、教師檢查表、slides、QA sheet 與腳本。
 
 ## 下一個自動推進
-若 YouTube/Google 登入仍未完成：從第二季題庫挑選尚未完成的優先題 6 或 12，製作下一支 storyboard／講義延伸。  
+若 YouTube/Google 登入仍未完成：下一輪改製作第二季優先題 6 長片 storyboard／退件規準講義草稿。  
 若使用者已完成 YouTube/Google 登入：優先上傳第一季首批或本支第二季 Shorts。
