@@ -15,8 +15,9 @@
   "next_auto_push": "choose season-03 priority-03 longform storyboard/45-minute flow handout or priority-04 Shorts storyboard, unless YouTube login is ready for upload",
   "published": {
     "github_pages_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
-    "github_pages_commit": "02e7a09",
-    "verified": "content pushed; cleanup/live verification pending"
+    "github_pages_content_commit": "02e7a09",
+    "github_pages_cleanup_commit": "0d86483",
+    "verified": "index card + MP4 + cover PNG + upload kit + archive HTTP 200; browser title/card verified"
   },
   "mp4": "hypothesis-causal-variable-shorts-35s.mp4",
   "cover": "cover_hypothesis_causal_variable_v1.png",
