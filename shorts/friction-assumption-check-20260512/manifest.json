@@ -2,7 +2,7 @@
   "title": "AI 說「忽略摩擦」時，老師要問的一句話",
   "season": 2,
   "priority": 10,
-  "status": "storyboard_complete",
+  "status": "35s Shorts MP4 + upload kit + teacher checklist complete",
   "created_at": "2026-05-12 08:58 CST",
   "slides": [
     "slides/slide_01.png",
@@ -14,5 +14,16 @@
   "checks": [
     "checks/contact_sheet.png"
   ],
-  "next_auto_push": "expand storyboard into 30–40s Shorts MP4, cover, subtitles, upload kit, and friction-assumption teacher checklist"
+  "next_auto_push": "choose the next unmade season-02 backlog item (priority 6, 11, or 12) or upload completed Shorts after YouTube login is ready",
+  "video": "friction-assumption-check-shorts-35s.mp4",
+  "cover": "cover_friction_assumption_check_v1.png",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "upload_kit": "youtube-upload-kit.md",
+  "teacher_checklist": "friction-assumption-teacher-checklist-v1.md",
+  "qa_sheet": "checks/qa_cover_frames_sheet.png",
+  "archive": "friction-assumption-check-upload-kit-20260512.tar.gz"
 }
