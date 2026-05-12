@@ -1,0 +1,16 @@
+{
+  "title": "讓 AI 幫學生寫假設，但老師要加上哪一句？",
+  "candidate": "season-03-priority-02",
+  "status": "storyboard package v1 complete",
+  "created": "2026-05-13",
+  "dimensions": "1080x1920",
+  "slides": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ],
+  "contact_sheet": "checks/contact_sheet.png",
+  "next_auto_push": "expand storyboard into zh-TW narration/VTT/SRT/35s MP4/cover/upload kit, unless YouTube login is ready for upload"
+}
