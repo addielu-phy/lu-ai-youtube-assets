@@ -32,7 +32,7 @@
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本機 package：`shorts/hypothesis-causal-variable-20260513/`
-- GitHub Pages commit：待同步後回填。
+- GitHub Pages content commit：`02e7a09` 已推送，待 cleanup commit live 驗證後回填最終狀態。
 
 ## 下一個自動推進
 
