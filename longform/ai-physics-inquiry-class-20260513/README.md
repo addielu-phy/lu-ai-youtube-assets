@@ -16,6 +16,12 @@
 - render_storyboard.py
 - ai-physics-inquiry-class-storyboard-kit-20260513.tar.gz
 
+## 穩定連結
+- 手機索引：https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html
+- 本包 README：https://addielu-phy.github.io/lu-ai-youtube-assets/longform/ai-physics-inquiry-class-20260513/README.md
+- storyboard contact sheet：https://addielu-phy.github.io/lu-ai-youtube-assets/longform/ai-physics-inquiry-class-20260513/checks/contact_sheet.png
+- GitHub Pages commit：`20c9768` 已 live 驗證。
+
 ## 已驗證
 - 5 張 storyboard：1920×1080 RGB。
 - contact sheet：1880×1180 RGB。

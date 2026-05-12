@@ -17,5 +17,11 @@
     "README.md",
     "render_storyboard.py"
   ],
-  "next_auto_push": "擴成 4–6 分鐘旁白、SRT/VTT 與 slide-video 草稿；YouTube/Google 登入完成後則優先上傳首批影片。"
+  "next_auto_push": "擴成 4–6 分鐘旁白、SRT/VTT 與 slide-video 草稿；YouTube/Google 登入完成後則優先上傳首批影片。",
+  "github_pages": {
+    "index_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "package_readme_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/longform/ai-physics-inquiry-class-20260513/README.md",
+    "contact_sheet_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/longform/ai-physics-inquiry-class-20260513/checks/contact_sheet.png",
+    "verified_commit": "20c9768"
+  }
 }
