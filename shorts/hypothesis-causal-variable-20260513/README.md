@@ -1,14 +1,17 @@
-# Shorts storyboard｜讓 AI 幫學生寫假設，但老師要加上哪一句？
+# Shorts｜讓 AI 幫學生寫假設，但老師要加上哪一句？
 
-狀態：2026-05-13 每小時雷達自動推進完成 storyboard package v1。  
+狀態：2026-05-13 每小時雷達已把 storyboard 擴成 35 秒本機 Shorts 草稿、封面、字幕與 YouTube upload kit。  
 來源：第三季內容題庫優先題 2。
 
-## 30 秒製作簡報
+## 成果檔案
 
-- 3 秒鉤子：假設不是猜答案，是說清楚變因。
-- 核心觀點：AI 可以協助學生寫假設，但老師要先要求它用「如果我改變＿＿，那麼＿＿會＿＿，因為＿＿」把因果鏈補完整。
-- 對象：國高中自然／物理教師，可用於探究課開頭、變因控制練習、AI 產出退件示範。
-- 最小素材：錯誤假設／修正版對照、變因卡、可複製 prompt。
+- Shorts MP4：`hypothesis-causal-variable-shorts-35s.mp4`
+- 封面：`cover_hypothesis_causal_variable_v1.png`
+- 上傳包：`youtube-upload-kit.md`
+- 旁白：`narration_35s_edge_hsiaoyu.mp3`
+- 字幕：`narration_35s_edge_hsiaoyu.vtt` / `narration_35s_edge_hsiaoyu.srt`
+- QA sheet：`checks/qa_sheet_mp4.png`
+- 壓縮包：`hypothesis-causal-variable-upload-kit-20260513.tar.gz`
 
 ## 圖卡
 
@@ -20,18 +23,18 @@
 
 ## 驗證
 
-- PIL 輸出：5 張 `1080×1920` RGB PNG。
-- Contact sheet：`checks/contact_sheet.png`。
-- 視覺 QA：已檢查繁中主文字可讀、無 tofu 方塊、無裁切、無重疊；contact sheet 排版不擁擠。
+- MP4：1080×1920、25fps、H.264 + AAC、35 秒。
+- PIL：封面、5 張圖卡與 QA 抽幀皆為 RGB 圖檔。
+- 視覺 QA：`checks/qa_sheet_mp4.png` 已用於檢查繁中可讀、無 tofu 方塊、無裁切、無重疊與不過度擁擠。
+- 壓縮包：已用 Python `tarfile` 讀回確認包含 MP4、封面、旁白、字幕、README、manifest、upload kit、slides 與 QA sheet。
 
 ## 穩定發布
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
-- Storyboard README：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/hypothesis-causal-variable-20260513/README.md`
-- QA contact sheet：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/hypothesis-causal-variable-20260513/checks/contact_sheet.png`
-- GitHub Pages commit：`f0a98d1` 已驗證。
+- 本機 package：`shorts/hypothesis-causal-variable-20260513/`
+- GitHub Pages commit：待同步後回填。
 
 ## 下一個自動推進
 
-若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 zh-TW 旁白、VTT/SRT、35 秒 MP4、封面與 upload kit。  
-若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或第三季代表作。
+若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成的 Shorts storyboard／講義延伸。  
+若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或本支第三季 Shorts。

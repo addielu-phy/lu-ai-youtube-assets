@@ -1,7 +1,7 @@
 {
   "title": "讓 AI 幫學生寫假設，但老師要加上哪一句？",
   "candidate": "season-03-priority-02",
-  "status": "storyboard package v1 complete",
+  "status": "35s Shorts MP4 + upload kit complete",
   "created": "2026-05-13",
   "dimensions": "1080x1920",
   "slides": [
@@ -12,10 +12,44 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "next_auto_push": "expand storyboard into zh-TW narration/VTT/SRT/35s MP4/cover/upload kit, unless YouTube login is ready for upload",
+  "next_auto_push": "choose next unfinished season-03 candidate for storyboard/handout, unless YouTube login is ready for upload",
   "published": {
     "github_pages_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "github_pages_commit": "f0a98d1",
     "verified": "index card + README + PNG + archive HTTP 200"
-  }
+  },
+  "mp4": "hypothesis-causal-variable-shorts-35s.mp4",
+  "cover": "cover_hypothesis_causal_variable_v1.png",
+  "upload_kit": "youtube-upload-kit.md",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "qa_sheet": "checks/qa_sheet_mp4.png",
+  "archive": "hypothesis-causal-variable-upload-kit-20260513.tar.gz",
+  "files": [
+    "README.md",
+    "manifest.json",
+    "render_storyboard.py",
+    "build_shorts_mp4_package.py",
+    "youtube-upload-kit.md",
+    "hypothesis-causal-variable-shorts-35s.mp4",
+    "cover_hypothesis_causal_variable_v1.png",
+    "narration_35s.txt",
+    "narration_35s_edge_hsiaoyu.mp3",
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt",
+    "checks/contact_sheet.png",
+    "checks/qa_sheet_mp4.png",
+    "checks/frame_early.png",
+    "checks/frame_mid.png",
+    "checks/frame_late.png",
+    "slides_35s.ffconcat",
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ]
 }
