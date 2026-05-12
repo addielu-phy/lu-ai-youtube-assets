@@ -24,6 +24,13 @@
 - Contact sheet：`checks/contact_sheet.png`。
 - 視覺 QA：已檢查繁中主文字可讀、無 tofu 方塊、無裁切、無重疊；contact sheet 排版不擁擠。
 
+## 穩定發布
+
+- 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
+- Storyboard README：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/hypothesis-causal-variable-20260513/README.md`
+- QA contact sheet：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/hypothesis-causal-variable-20260513/checks/contact_sheet.png`
+- GitHub Pages commit：`f0a98d1` 已驗證。
+
 ## 下一個自動推進
 
 若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 zh-TW 旁白、VTT/SRT、35 秒 MP4、封面與 upload kit。  

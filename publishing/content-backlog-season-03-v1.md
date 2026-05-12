@@ -1,7 +1,7 @@
 # 第三季內容題庫 v1｜AI 教學日常化 × 物理探究
 
 建立時間：2026-05-12 20:22 巡視自動推進  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成，待同步 Pages 驗證）  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證）  
 用途：第二季 12 支候選已大多完成成 Shorts／長片／講義／社群卡後，先備妥下一輪可直接製作的候選池；在 YouTube/Google 登入尚未完成前，讓每小時巡視能繼續推進本機可驗證素材，而不是重複提醒登入卡點。
 
 ## 0. 第三季定位
@@ -42,7 +42,7 @@
 2. **優先題 2｜讓 AI 幫學生寫假設，但老師要加上哪一句？**  
    - 理由：承接「預測句／三鎖變因」，可直接示範 AI 假設產出如何被老師退件與修正。
    - 進度：5 張 9:16 storyboard 圖卡、README、manifest、contact sheet 與壓縮包已完成：`../shorts/hypothesis-causal-variable-20260513/README.md`。
-   - 下一步：同步 GitHub Pages 後，若 YouTube/Google 登入仍未完成，擴成 zh-TW 旁白／VTT/SRT／35 秒 MP4／封面／upload kit。
+   - 下一步：已同步 GitHub Pages commit `f0a98d1`；若 YouTube/Google 登入仍未完成，下一步擴成 zh-TW 旁白／VTT/SRT／35 秒 MP4／封面／upload kit。
 3. **優先題 3｜一堂 45 分鐘 AI 物理探究課怎麼排？**  
    - 理由：把前兩季的檢查表、rubric、exit ticket 串成一支可分享長片與正式教案。
    - 最小產出：5 張 16:9 storyboard + 45 分鐘流程講義草稿。
