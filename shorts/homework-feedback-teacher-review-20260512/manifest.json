@@ -1,7 +1,7 @@
 {
   "title": "AI 幫忙回饋作業，老師不能跳過哪一步？",
   "season_priority": 11,
-  "status": "storyboard_complete_pending_mp4_upload_kit",
+  "status": "35s Shorts MP4 + upload kit + teacher checklist complete",
   "created": "2026-05-12",
   "files": [
     "slides/slide_01.png",
@@ -14,10 +14,21 @@
     "manifest.json",
     "render_storyboard.py"
   ],
-  "next_auto_push": "expand storyboard into 35s Shorts MP4 + zh-TW narration + subtitles + YouTube upload kit + teacher feedback-review checklist",
+  "next_auto_push": "choose the next unmade season-02 backlog item (priority 6 or 12) or upload completed Shorts after YouTube login is ready",
   "verification": {
     "slide_dimensions": "5 slides 1080x1920 RGB",
     "contact_sheet": "1120x1440 RGB",
     "vision_qa": "passed: Traditional Chinese readable, no tofu/cropping/overlap/overcrowding"
-  }
+  },
+  "video": "homework-feedback-teacher-review-shorts-35s.mp4",
+  "cover": "cover_homework_feedback_teacher_review_v1.png",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "upload_kit": "youtube-upload-kit.md",
+  "teacher_checklist": "ai-feedback-review-teacher-checklist-v1.md",
+  "qa_sheet": "checks/qa_cover_frames_sheet.png",
+  "archive": "homework-feedback-teacher-review-upload-kit-20260512.tar.gz"
 }
