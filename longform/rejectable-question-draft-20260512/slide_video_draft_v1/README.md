@@ -1,6 +1,6 @@
 # 可退件題目草稿｜slide-video draft v1
 
-狀態：已由 storyboard 擴成 4–6 分鐘長片本機草稿，並完成長片 upload kit、正式可分享講義與輕量交接包。
+狀態：已由 storyboard 擴成 4–6 分鐘長片本機草稿，並完成長片 upload kit、正式可分享講義、1080×1920 Shorts／社群宣傳卡與輕量交接包。
 
 ## 檔案
 - 影片：`slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1.mp4`
@@ -14,12 +14,15 @@
 - 長片 upload kit：`slide_video_draft_v1/youtube-upload-kit-longform-v1.md`
 - 正式可分享講義：`rejectable-question-draft-shareable-handout-v1.md`
 - 長片上架輕量交接包：`slide_video_draft_v1/rejectable-question-draft-longform-upload-kit-v1-20260512.tar.gz`
+- Shorts／社群宣傳卡：`social-assets/rejectable-question-draft-social-card-v1.png`
+- 社群卡產生腳本／manifest：`render_rejectable_question_social_card_v1.py`、`social-assets/rejectable-question-draft-social-card-v1-manifest.json`
 
 ## 驗證
 - ffprobe：258.672 秒，1920×1080，H.264 + AAC。
 - PIL：5 張原始 storyboard、5 張抽幀與 QA contact sheet 尺寸／模式已寫入 manifest。
 - 視覺 QA：contact sheet 已檢查，五張抽幀繁中可讀、無 tofu／明顯裁切／文字重疊／過度擁擠；縮圖小字略吃力但出版圖卡本身無 QA 問題。
 - Upload kit／正式講義／輕量交接包已讀回驗證。
+- 社群宣傳卡：PIL 驗證 1080×1920 RGB；視覺 QA 確認繁中可讀、無 tofu／裁切／重疊／過度擁擠。
 
 ## 下一個可自動推進項目
-若 YouTube/Google 登入仍未完成，下一輪可為本長片製作 1080×1920 Shorts／社群宣傳卡，或從第二季題庫挑選尚未完成的下一個內容包；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。
+若 YouTube/Google 登入仍未完成，本長片社群宣傳卡已完成；下一輪可開始整理第三季候選題庫，或從既有長片／Shorts 製作跨平台貼文文案包；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。

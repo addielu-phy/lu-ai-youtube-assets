@@ -1,0 +1,19 @@
+{
+  "asset": "/home/adl/youtube-lu-ai-channel/longform/rejectable-question-draft-20260512/social-assets/rejectable-question-draft-social-card-v1.png",
+  "size": [
+    1080,
+    1920
+  ],
+  "mode": "RGB",
+  "purpose": "1080x1920 Shorts cover / community post card derived from rejectable-question-draft shareable handout",
+  "source": "rejectable-question-draft-shareable-handout-v1.md",
+  "text": [
+    "可退件草稿",
+    "好題目不是一次生成",
+    "年級與單元",
+    "只測一件事",
+    "輸出格式"
+  ],
+  "font": "/usr/share/fonts/truetype/wqy/wqy-zenhei.ttc",
+  "created_by": "render_rejectable_question_social_card_v1.py"
+}

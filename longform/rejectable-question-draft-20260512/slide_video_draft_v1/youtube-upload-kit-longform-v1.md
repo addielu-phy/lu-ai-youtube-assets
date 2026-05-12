@@ -63,6 +63,8 @@ D. 錯誤選項沒有對應迷思
 - 旁白：`slide_video_draft_v1/narration_edge_hsiaoyu.mp3`
 - 字幕：`slide_video_draft_v1/narration_edge_hsiaoyu.vtt`、`slide_video_draft_v1/narration_edge_hsiaoyu.srt`
 - QA contact sheet：`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`
+- Shorts／社群宣傳卡：`social-assets/rejectable-question-draft-social-card-v1.png`
+- 社群卡產生腳本／manifest：`render_rejectable_question_social_card_v1.py`、`social-assets/rejectable-question-draft-social-card-v1-manifest.json`
 - 正式講義：`rejectable-question-draft-shareable-handout-v1.md`
 - 輕量交接包：`slide_video_draft_v1/rejectable-question-draft-longform-upload-kit-v1-20260512.tar.gz`
 
@@ -74,4 +76,4 @@ D. 錯誤選項沒有對應迷思
 
 ## 下一個可自動推進
 
-若 YouTube/Google 登入仍未完成，下一輪可從第二季題庫挑選尚未完成的下一個內容包，或為本長片製作 1080×1920 Shorts／社群宣傳卡。
+若 YouTube/Google 登入仍未完成，本長片 1080×1920 Shorts／社群宣傳卡已完成；下一輪可開始整理第三季候選題庫，或從既有長片／Shorts 製作跨平台貼文文案包。
