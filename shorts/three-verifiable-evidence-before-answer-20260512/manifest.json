@@ -54,5 +54,13 @@
     "slides/slide_04.png",
     "slides/slide_05.png"
   ],
-  "teacher_cheatsheet": "three-evidence-question-cheatsheet-v1.md"
+  "teacher_cheatsheet": "three-evidence-question-cheatsheet-v1.md",
+  "github_pages_commit": "8fd55e5",
+  "published_urls": {
+    "index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "mp4": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/three-verifiable-evidence-before-answer-shorts-35s.mp4",
+    "cover": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/cover_three_verifiable_evidence_v1.png",
+    "upload_kit": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/youtube-upload-kit.md",
+    "teacher_cheatsheet": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/three-evidence-question-cheatsheet-v1.md"
+  }
 }

@@ -1,7 +1,7 @@
 # 第三季內容題庫 v1｜AI 教學日常化 × 物理探究
 
 建立時間：2026-05-12 20:22 巡視自動推進  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit，待同步 Pages）  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages commit `8fd55e5`（待本輪 live check））  
 用途：第二季 12 支候選已大多完成成 Shorts／長片／講義／社群卡後，先備妥下一輪可直接製作的候選池；在 YouTube/Google 登入尚未完成前，讓每小時巡視能繼續推進本機可驗證素材，而不是重複提醒登入卡點。
 
 ## 0. 第三季定位
@@ -61,4 +61,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪優先同步本支第三季優先題 1 MP4/upload kit 到 GitHub Pages；同步完成後，改推第三季優先題 2 storyboard 或優先題 3長片 storyboard／45 分鐘流程講義。若使用者已完成登入，改優先上傳第一季首批 Shorts 或本支第三季 Shorts。
+若 YouTube/Google 登入仍未完成，下一輪改推第三季優先題 2 storyboard 或優先題 3 長片 storyboard／45 分鐘流程講義。若使用者已完成登入，改優先上傳第一季首批 Shorts 或本支第三季 Shorts。
