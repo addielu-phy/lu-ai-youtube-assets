@@ -1,0 +1,23 @@
+{
+  "title": "下課前 3 分鐘：讓學生寫 AI 使用反思",
+  "season_priority": 12,
+  "status": "35s Shorts MP4 + upload kit + teacher printable complete",
+  "created": "2026-05-12",
+  "video": "exit-ticket-ai-reflection-shorts-35s.mp4",
+  "cover": "cover_exit_ticket_ai_reflection_v1.png",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "teacher_printable": "exit-ticket-ai-reflection-teacher-printable-v1.md",
+  "upload_kit": "youtube-upload-kit.md",
+  "qa_sheet": "checks/qa_cover_frames_sheet.png",
+  "archive": "exit-ticket-ai-reflection-upload-kit-20260512.tar.gz",
+  "next_auto_push": "season-02 priority 6 longform storyboard/handout or upload completed Shorts after YouTube login is ready",
+  "verification": {
+    "ffprobe": "1080x1920 25fps H.264 + AAC 35.000s",
+    "pil": "slides/cover/qa RGB dimensions verified by build script",
+    "archive": "verified with Python tarfile"
+  }
+}
