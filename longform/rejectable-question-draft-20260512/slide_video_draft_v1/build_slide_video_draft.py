@@ -109,10 +109,10 @@ def write_docs(total):
         'contact_sheet': 'slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png',
         'duration_seconds': round(total,3),
         'verification': verification,
-        'next_auto_push': '若 YouTube 登入仍未完成，建立長片 YouTube upload kit 與正式可分享／Google Docs-ready 退件規準講義；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。'
+        'next_auto_push': '若 YouTube/Google 登入仍未完成，下一輪可為本長片製作 1080×1920 Shorts／社群宣傳卡，或從第二季題庫挑選尚未完成的下一個內容包；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。'
     }
     (OUT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
-    readme=f'''# 可退件題目草稿｜slide-video draft v1\n\n狀態：已由 storyboard 擴成 4–6 分鐘長片本機草稿。\n\n## 檔案\n- 影片：`slide_video_draft_v1/{MP4.name}`\n- 旁白：`slide_video_draft_v1/narration_edge_hsiaoyu.mp3`\n- 旁白全文：`slide_video_draft_v1/narration_zh_tw.txt`\n- 字幕：`slide_video_draft_v1/narration_edge_hsiaoyu.vtt`、`slide_video_draft_v1/narration_edge_hsiaoyu.srt`\n- 抽幀：`slide_video_draft_v1/check_frames/`\n- QA contact sheet：`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`\n- manifest：`slide_video_draft_v1/manifest.json`\n- 本輪交接壓縮包：`slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1-20260512.tar.gz`\n\n## 驗證\n- ffprobe：{total:.3f} 秒，1920×1080，H.264 + AAC。\n- PIL：5 張原始 storyboard、5 張抽幀與 QA contact sheet 尺寸／模式已寫入 manifest。\n- 視覺 QA：待本輪巡視對 contact sheet 做最終檢查。\n\n## 下一個可自動推進項目\n若 YouTube 登入仍未完成，建立長片 YouTube upload kit 與正式可分享／Google Docs-ready 退件規準講義；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。\n'''
+    readme=f'''# 可退件題目草稿｜slide-video draft v1\n\n狀態：已由 storyboard 擴成 4–6 分鐘長片本機草稿，並完成長片 upload kit、正式可分享講義與輕量交接包。\n\n## 檔案\n- 影片：`slide_video_draft_v1/{MP4.name}`\n- 旁白：`slide_video_draft_v1/narration_edge_hsiaoyu.mp3`\n- 旁白全文：`slide_video_draft_v1/narration_zh_tw.txt`\n- 字幕：`slide_video_draft_v1/narration_edge_hsiaoyu.vtt`、`slide_video_draft_v1/narration_edge_hsiaoyu.srt`\n- 抽幀：`slide_video_draft_v1/check_frames/`\n- QA contact sheet：`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`\n- manifest：`slide_video_draft_v1/manifest.json`\n- Slide-video 草稿交接壓縮包：`slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1-20260512.tar.gz`\n- 長片 upload kit：`slide_video_draft_v1/youtube-upload-kit-longform-v1.md`\n- 正式可分享講義：`rejectable-question-draft-shareable-handout-v1.md`\n- 長片上架輕量交接包：`slide_video_draft_v1/rejectable-question-draft-longform-upload-kit-v1-20260512.tar.gz`\n\n## 驗證\n- ffprobe：{total:.3f} 秒，1920×1080，H.264 + AAC。\n- PIL：5 張原始 storyboard、5 張抽幀與 QA contact sheet 尺寸／模式已寫入 manifest。\n- 視覺 QA：contact sheet 已檢查，五張抽幀繁中可讀、無 tofu／明顯裁切／文字重疊／過度擁擠；縮圖小字略吃力但出版圖卡本身無 QA 問題。\n- Upload kit／正式講義／輕量交接包已讀回驗證。\n\n## 下一個可自動推進項目\n若 YouTube/Google 登入仍未完成，下一輪可為本長片製作 1080×1920 Shorts／社群宣傳卡，或從第二季題庫挑選尚未完成的下一個內容包；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。\n'''
     (OUT/'README.md').write_text(readme,encoding='utf-8')
 
 def make_archive():
@@ -120,7 +120,7 @@ def make_archive():
     members = [
         OUT/'README.md', OUT/'manifest.json', OUT/'build_slide_video_draft.py', OUT/'narration_zh_tw.txt', AUDIO,
         OUT/'narration_edge_hsiaoyu.vtt', OUT/'narration_edge_hsiaoyu.srt', OUT/'slides.ffconcat', MP4,
-        OUT/'checks/contact_sheet_slide_video_v1.png', BASE/'README.md', BASE/'manifest.json', BASE/'rejectable-question-draft-rubric-handout-draft-v1.md'
+        OUT/'checks/contact_sheet_slide_video_v1.png', BASE/'README.md', BASE/'manifest.json', BASE/'rejectable-question-draft-rubric-handout-draft-v1.md', BASE/'rejectable-question-draft-shareable-handout-v1.md', OUT/'youtube-upload-kit-longform-v1.md'
     ] + SLIDES + sorted((OUT/'check_frames').glob('frame_*.png'))
     with tarfile.open(archive, 'w:gz') as tar:
         for p in members:
