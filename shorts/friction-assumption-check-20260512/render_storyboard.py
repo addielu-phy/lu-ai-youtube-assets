@@ -68,7 +68,7 @@ for idx in range(5):
 sheet.save(CHECKS/'contact_sheet.png')
 readme = """# 第二季優先題 10｜AI 說「忽略摩擦」時，老師要問的一句話
 
-狀態：本機 Shorts storyboard 包完成；尚未做旁白／MP4／upload kit。
+狀態：storyboard 已完成，且後續 35 秒 Shorts MP4、封面、字幕、YouTube upload kit 與教師檢查表也已完成；此腳本僅用於重生原始 storyboard 圖卡與 contact sheet。
 
 ## 30–40 秒製作簡報
 - 3 秒鉤子：AI 說「忽略摩擦」，先別急著抄。
@@ -89,10 +89,10 @@ readme = """# 第二季優先題 10｜AI 說「忽略摩擦」時，老師要問
 - 壓縮包：`friction-assumption-check-storyboard-kit-20260512.tar.gz`。
 
 ## 下一個可自動推進項目
-若 YouTube/Google 登入仍未完成，下一輪可把本 storyboard 擴成 30–40 秒 Shorts MP4、封面、字幕、YouTube upload kit 與假設檢查表；若已登入，優先上傳第一季首批 Shorts。
+若 YouTube/Google 登入仍未完成，下一輪請從第二季尚未完成優先題 6、11 或 12 挑下一支 storyboard／講義延伸；若已登入，優先上傳第一季首批或本支第二季 Shorts。
 """
 (PKG/'README.md').write_text(readme,encoding='utf-8')
-manifest={'title':'AI 說「忽略摩擦」時，老師要問的一句話','season':2,'priority':10,'status':'storyboard_complete','created_at':'2026-05-12 08:58 CST','slides':[str(p.relative_to(PKG)) for p in sorted(SLIDES.glob('slide_*.png'))],'checks':['checks/contact_sheet.png'],'next_auto_push':'expand storyboard into 30–40s Shorts MP4, cover, subtitles, upload kit, and friction-assumption teacher checklist'}
+manifest={'title':'AI 說「忽略摩擦」時，老師要問的一句話','season':2,'priority':10,'status':'storyboard_complete_mp4_complete','created_at':'2026-05-12 08:58 CST','slides':[str(p.relative_to(PKG)) for p in sorted(SLIDES.glob('slide_*.png'))],'checks':['checks/contact_sheet.png'],'next_auto_push':'choose the next unmade season-02 backlog item (priority 6, 11, or 12) or upload completed Shorts after YouTube login is ready'}
 (PKG/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
 archive=PKG/'friction-assumption-check-storyboard-kit-20260512.tar.gz'
 with tarfile.open(archive,'w:gz') as tar:
