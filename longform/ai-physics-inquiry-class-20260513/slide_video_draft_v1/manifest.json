@@ -99,5 +99,6 @@
       "mode": "RGB"
     }
   },
-  "next_auto_push": "製作正式可分享／Google Docs-ready AI 物理探究課流程講義，並更新輕量上架交接包；若 YouTube/Google 登入完成，優先上傳第一季首批或本支第三季長片草稿。"
+  "next_auto_push": "若 YouTube/Google 登入仍未完成，改推第三季優先題 4「公開前三查」Shorts storyboard；若已完成登入，優先上傳第一季首批或本支第三季長片草稿。",
+  "shareable_handout": "slide_video_draft_v1/ai-physics-inquiry-class-shareable-handout-v1.md"
 }
