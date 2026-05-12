@@ -38,7 +38,7 @@
 - PIL 驗證：5 張圖卡皆為 1920×1080 RGB；contact sheet 為 1880×1180 RGB。
 - 視覺 QA：繁體中文主文字可讀、無 tofu 方塊、無明顯裁切、無文字重疊或過度擁擠。
 - 壓縮包：`rejectable-question-draft-storyboard-kit-20260512.tar.gz` 已用 Python tarfile 讀回確認包含 README、manifest、render script、5 張 slides、contact sheet 與講義草稿。
-- GitHub Pages：storyboard 版已同步到穩定手機索引 `https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`（內容 commit `9f49f43`；README／壓縮包 cleanup commit `b7f0971`），本輪 slide-video 草稿已同步到穩定手機索引（內容 commit `8f50930`；cleanup commit 以 GitHub Pages repo 最終紀錄為準）。
+- GitHub Pages：storyboard 版已同步到穩定手機索引 `https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`（內容 commit `9f49f43`；README／壓縮包 cleanup commit `b7f0971`），本輪 slide-video 草稿已同步到穩定手機索引（內容 commit `8f50930`；cleanup commit `ad2a385`）；長片 upload kit／正式講義已同步到穩定 GitHub Pages（commit `7ebf311`）。
 - Slide-video 驗證：ffprobe 1920×1080、30fps、H.264 yuv420p + AAC、258.672 秒；PIL 驗證抽幀與 contact sheet；視覺 QA 確認繁中可讀、無 tofu／裁切／文字重疊／過度擁擠；壓縮包已用 Python tarfile 讀回確認 23 個項目。
 - Upload kit／正式講義驗證：`youtube-upload-kit-longform-v1.md` 與 `rejectable-question-draft-shareable-handout-v1.md` 已讀回；輕量交接包已用 Python tarfile 讀回確認包含 upload kit、README、manifest、字幕、旁白文字、QA contact sheet 與正式講義。
 
