@@ -55,7 +55,7 @@
 
 - YouTube/Google 登入、頻道建立、實際上傳。
 - 真實課堂案例、學生作品或未公開考題是否可公開。
-- 第二季主線要偏「錯誤診斷」或「AI Agent 工作流」，可等首批發布數據後決定；本機自動推進已完成優先題 1、2、3、4、5、6、7、8、9 的草稿包／storyboard／長片／講義／社群卡，並新增優先題 10、11、12 的 Shorts 成品包。優先題 8 已完成 35 秒 Shorts、upload kit 與「AI 回答證據評分規準」教師可列印講義；優先題 10 已完成 35 秒 Shorts MP4／upload kit／假設檢查表；優先題 11 已完成 35 秒 Shorts MP4／upload kit／「AI 回饋審稿檢查表」；優先題 12 已完成 35 秒 Shorts MP4／upload kit／AI 使用反思 Exit Ticket；優先題 6 已完成長片 storyboard、4 分 19 秒 slide-video 草稿、upload kit、正式講義與 1080×1920 社群宣傳卡。若 YouTube/Google 登入仍未完成，下一步可開始整理第三季候選題庫，或從既有長片／Shorts 製作跨平台貼文文案包。
+- 第二季主線要偏「錯誤診斷」或「AI Agent 工作流」，可等首批發布數據後決定；本機自動推進已完成優先題 1、2、3、4、5、6、7、8、9 的草稿包／storyboard／長片／講義／社群卡，並新增優先題 10、11、12 的 Shorts 成品包。優先題 8 已完成 35 秒 Shorts、upload kit 與「AI 回答證據評分規準」教師可列印講義；優先題 10 已完成 35 秒 Shorts MP4／upload kit／假設檢查表；優先題 11 已完成 35 秒 Shorts MP4／upload kit／「AI 回饋審稿檢查表」；優先題 12 已完成 35 秒 Shorts MP4／upload kit／AI 使用反思 Exit Ticket；優先題 6 已完成長片 storyboard、4 分 19 秒 slide-video 草稿、upload kit、正式講義與 1080×1920 社群宣傳卡。若 YouTube/Google 登入仍未完成，下一步可製作第三季優先題 1「AI 給答案前，先叫它列出三個可驗證證據」的 5 張 Shorts storyboard 圖卡與交接包。
 
 ## 6. 下一個可自動推進項目
 
