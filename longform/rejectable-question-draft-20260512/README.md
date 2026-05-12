@@ -32,6 +32,7 @@
 - PIL 驗證：5 張圖卡皆為 1920×1080 RGB；contact sheet 為 1880×1180 RGB。
 - 視覺 QA：繁體中文主文字可讀、無 tofu 方塊、無明顯裁切、無文字重疊或過度擁擠。
 - 壓縮包：`rejectable-question-draft-storyboard-kit-20260512.tar.gz` 已用 Python tarfile 讀回確認包含 README、manifest、render script、5 張 slides、contact sheet 與講義草稿。
+- GitHub Pages：已同步到穩定手機索引 `https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`（commit `9f49f43`），index／contact sheet／README／壓縮包皆 live 200。
 
 ## 下一個自動推進
 
