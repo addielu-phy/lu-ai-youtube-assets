@@ -22,4 +22,4 @@
 - 壓縮包：Python tarfile 可讀回列出內容，且包含正式講義。
 
 ## 下一個可自動推進項目
-若 YouTube/Google 登入仍未完成，改推第三季優先題 4「公開前三查」Shorts storyboard；若已完成登入，優先上傳第一季首批或本支第三季長片草稿。
+第三季優先題 4「公開前三查」storyboard 已完成；若 YouTube/Google 登入仍未完成，下一輪把該 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁學生作品公開檢查表；若已完成登入，優先上傳第一季首批或本支第三季長片草稿。

@@ -1,0 +1,18 @@
+{
+  "title": "學生作品要放上網前，AI 幫忙檢查哪三件事？",
+  "candidate": "season-03-priority-04",
+  "slug": "public-before-share-check-20260513",
+  "status": "storyboard package v1 complete",
+  "created": "2026-05-13",
+  "dimensions": "1080x1920",
+  "slides": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ],
+  "contact_sheet": "checks/contact_sheet.png",
+  "archive": "public-before-share-check-storyboard-kit-20260513.tar.gz",
+  "next_auto_push": "expand this storyboard into a 35s Shorts MP4/upload kit and a student-work public-sharing checklist if YouTube login is still blocked"
+}
