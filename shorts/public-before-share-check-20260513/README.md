@@ -26,6 +26,12 @@
 - 視覺 QA：已檢查繁中主文字可讀、無 tofu 方塊、無裁切、無重疊；contact sheet 排版不擁擠。
 - 壓縮包：`public-before-share-check-storyboard-kit-20260513.tar.gz` 已用 Python `tarfile` 讀回確認包含 README、manifest、render script、5 張圖卡與 contact sheet。
 
+## 穩定發布
+
+- 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
+- GitHub Pages commit：`2d85910` 已 live 驗證。
+- 公開 README：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/public-before-share-check-20260513/README.md`
+
 ## 下一個自動推進
 
 若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「學生作品公開檢查表」。  

@@ -1,7 +1,7 @@
 # 第三季內容題庫 v1｜AI 教學日常化 × 物理探究
 
 建立時間：2026-05-12 20:22 巡視自動推進  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證；01:21 已擴成 35 秒 MP4/upload kit，content commit `02e7a09`、cleanup commit `0d86483` 已 live 驗證；02:36 第三季優先題 3 長片 storyboard／45 分鐘流程講義已完成，本機 QA 通過，GitHub Pages content commit `20c9768`、cleanup commit `bc9b555` 已 live 驗證；05:08 已完成 slide-video、upload kit 與正式可分享講義，GitHub Pages commit `5583857` 已 live 驗證；06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成，本機 QA 通過，待同步 GitHub Pages 驗證）  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證；01:21 已擴成 35 秒 MP4/upload kit，content commit `02e7a09`、cleanup commit `0d86483` 已 live 驗證；02:36 第三季優先題 3 長片 storyboard／45 分鐘流程講義已完成，本機 QA 通過，GitHub Pages content commit `20c9768`、cleanup commit `bc9b555` 已 live 驗證；05:08 已完成 slide-video、upload kit 與正式可分享講義，GitHub Pages commit `5583857` 已 live 驗證；06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages commit `2d85910` live 驗證）  
 用途：第二季 12 支候選已大多完成成 Shorts／長片／講義／社群卡後，先備妥下一輪可直接製作的候選池；在 YouTube/Google 登入尚未完成前，讓每小時巡視能繼續推進本機可驗證素材，而不是重複提醒登入卡點。
 
 ## 0. 第三季定位
