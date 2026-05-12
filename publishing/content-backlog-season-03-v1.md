@@ -1,7 +1,7 @@
 # 第三季內容題庫 v1｜AI 教學日常化 × 物理探究
 
 建立時間：2026-05-12 20:22 巡視自動推進  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證）  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit，待同步 Pages）  
 用途：第二季 12 支候選已大多完成成 Shorts／長片／講義／社群卡後，先備妥下一輪可直接製作的候選池；在 YouTube/Google 登入尚未完成前，讓每小時巡視能繼續推進本機可驗證素材，而不是重複提醒登入卡點。
 
 ## 0. 第三季定位
@@ -37,8 +37,8 @@
 
 1. **優先題 1｜AI 給答案前，先叫它列出三個可驗證證據**  
    - 理由：可直接承接已完成的「證據評分規準」Shorts 與講義，容易做成下一支 35 秒 Shorts。
-   - 進度：5 張 9:16 storyboard 圖卡與交接包已完成：`../shorts/three-verifiable-evidence-before-answer-20260512/README.md`（Pages commit `dbe57b9` 已驗證）。
-   - 下一步：擴成 35 秒旁白、VTT/SRT、MP4、封面、upload kit 與一頁證據追問小抄。
+   - 進度：35 秒 Shorts MP4、封面、VTT/SRT、YouTube upload kit 與一頁證據追問小抄已完成：`../shorts/three-verifiable-evidence-before-answer-20260512/README.md`。
+   - 下一步：同步 GitHub Pages 後，若 YouTube/Google 登入仍未完成，改推第三季優先題 2 storyboard 或優先題 3 長片 storyboard／45 分鐘流程講義。
 2. **優先題 3｜一堂 45 分鐘 AI 物理探究課怎麼排？**  
    - 理由：把前兩季的檢查表、rubric、exit ticket 串成一支可分享長片與正式教案。
    - 最小產出：5 張 16:9 storyboard + 45 分鐘流程講義草稿。
@@ -61,4 +61,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪優先把第三季優先題 1「AI 給答案前，先叫它列出三個可驗證證據」從 storyboard 擴成 zh-TW 旁白、VTT/SRT、35 秒 MP4、封面與 upload kit；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第二季代表作。
+若 YouTube/Google 登入仍未完成，下一輪優先同步本支第三季優先題 1 MP4/upload kit 到 GitHub Pages；同步完成後，改推第三季優先題 2 storyboard 或優先題 3長片 storyboard／45 分鐘流程講義。若使用者已完成登入，改優先上傳第一季首批 Shorts 或本支第三季 Shorts。

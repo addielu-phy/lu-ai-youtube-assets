@@ -1,14 +1,18 @@
-# Shorts storyboard｜AI 給答案前，先叫它列出三個可驗證證據
+# Shorts｜AI 給答案前，先叫它列出三個可驗證證據
 
-狀態：2026-05-12 每小時雷達自動推進完成 storyboard package v1。  
+狀態：2026-05-12 每小時雷達已把 storyboard 擴成 35 秒本機 Shorts 草稿、封面、字幕與 YouTube upload kit。  
 來源：第三季內容題庫優先題 1。
 
-## 30 秒製作簡報
+## 成果檔案
 
-- 3 秒鉤子：答案先放旁邊，證據在哪？
-- 核心觀點：AI 回答前先列三個可驗證證據，學生才有基準判斷答案是不是只是在「講得很順」。
-- 對象：國高中自然／物理教師，可用於 5 分鐘暖身、AI 解題審稿或證據評分規準延伸活動。
-- 最小素材：5 張 9:16 圖卡、三欄證據卡、老師追問句。
+- Shorts MP4：`three-verifiable-evidence-before-answer-shorts-35s.mp4`
+- 封面：`cover_three_verifiable_evidence_v1.png`
+- 上傳包：`youtube-upload-kit.md`
+- 教師追問小抄：`three-evidence-question-cheatsheet-v1.md`
+- 旁白：`narration_35s_edge_hsiaoyu.mp3`
+- 字幕：`narration_35s_edge_hsiaoyu.vtt` / `narration_35s_edge_hsiaoyu.srt`
+- QA sheet：`checks/qa_sheet_mp4.png`
+- 壓縮包：`three-verifiable-evidence-before-answer-upload-kit-20260512.tar.gz`
 
 ## 圖卡
 
@@ -20,18 +24,19 @@
 
 ## 驗證
 
-- PIL 輸出：5 張 `1080×1920` RGB PNG。
-- Contact sheet：`checks/contact_sheet.png`。
-- 視覺 QA：已檢查繁中主文字可讀、無 tofu 方塊、無裁切、無重疊；contact sheet 排版不擁擠。
+- MP4：1080×1920、25fps、H.264 + AAC、約 35 秒。
+- PIL：封面、5 張圖卡與 QA 抽幀皆為 RGB 圖檔。
+- 視覺 QA：`checks/qa_sheet_mp4.png` 已用於檢查繁中可讀、無 tofu 方塊、無裁切、無重疊與不過度擁擠。
+- 教師追問小抄：已讀回驗證，可直接複製到 Google Docs／課堂講義。
+- 壓縮包：已用 Python `tarfile` 讀回確認包含 MP4、封面、旁白、字幕、README、manifest、upload kit、教師追問小抄、slides 與 QA sheet。
 
 ## 穩定發布
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
-- Storyboard README：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/README.md`
-- QA contact sheet：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/checks/contact_sheet.png`
-- GitHub Pages commit：`dbe57b9` 已驗證。
+- 本機 package：`shorts/three-verifiable-evidence-before-answer-20260512/`
+- GitHub Pages commit：待同步後回填。
 
 ## 下一個自動推進
 
-若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 zh-TW 旁白、VTT/SRT、35 秒 MP4、封面與 upload kit。  
-若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或第二季代表作。
+若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成的 Shorts storyboard／講義延伸。  
+若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或本支第三季 Shorts。

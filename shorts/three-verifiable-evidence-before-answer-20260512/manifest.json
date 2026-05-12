@@ -1,7 +1,7 @@
 {
   "title": "AI 給答案前，先叫它列出三個可驗證證據",
   "candidate": "season-03-priority-01",
-  "status": "storyboard package v1 complete",
+  "status": "35s Shorts MP4 + upload kit complete",
   "created": "2026-05-12",
   "dimensions": "1080x1920",
   "slides": [
@@ -12,11 +12,47 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "next_auto_push": "expand storyboard into zh-TW narration/VTT/SRT/35s MP4/cover/upload kit, unless YouTube login is ready for upload",
+  "next_auto_push": "choose next unfinished season-03 candidate for storyboard/handout, unless YouTube login is ready for upload",
   "github_pages": {
     "index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "readme": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/README.md",
     "contact_sheet": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/checks/contact_sheet.png",
     "verified_commit": "dbe57b9"
-  }
+  },
+  "mp4": "three-verifiable-evidence-before-answer-shorts-35s.mp4",
+  "cover": "cover_three_verifiable_evidence_v1.png",
+  "upload_kit": "youtube-upload-kit.md",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "qa_sheet": "checks/qa_sheet_mp4.png",
+  "archive": "three-verifiable-evidence-before-answer-upload-kit-20260512.tar.gz",
+  "files": [
+    "README.md",
+    "manifest.json",
+    "render_storyboard.py",
+    "build_shorts_mp4_package.py",
+    "youtube-upload-kit.md",
+    "three-verifiable-evidence-before-answer-shorts-35s.mp4",
+    "cover_three_verifiable_evidence_v1.png",
+    "narration_35s.txt",
+    "narration_35s_edge_hsiaoyu.mp3",
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt",
+    "three-evidence-question-cheatsheet-v1.md",
+    "checks/contact_sheet.png",
+    "checks/qa_sheet_mp4.png",
+    "checks/frame_early.png",
+    "checks/frame_mid.png",
+    "checks/frame_late.png",
+    "slides_35s.ffconcat",
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ],
+  "teacher_cheatsheet": "three-evidence-question-cheatsheet-v1.md"
 }
