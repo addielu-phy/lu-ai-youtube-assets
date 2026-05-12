@@ -1,0 +1,23 @@
+{
+  "title": "AI 幫忙回饋作業，老師不能跳過哪一步？",
+  "season_priority": 11,
+  "status": "storyboard_complete_pending_mp4_upload_kit",
+  "created": "2026-05-12",
+  "files": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png",
+    "checks/contact_sheet.png",
+    "README.md",
+    "manifest.json",
+    "render_storyboard.py"
+  ],
+  "next_auto_push": "expand storyboard into 35s Shorts MP4 + zh-TW narration + subtitles + YouTube upload kit + teacher feedback-review checklist",
+  "verification": {
+    "slide_dimensions": "5 slides 1080x1920 RGB",
+    "contact_sheet": "1120x1440 RGB",
+    "vision_qa": "passed: Traditional Chinese readable, no tofu/cropping/overlap/overcrowding"
+  }
+}
