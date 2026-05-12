@@ -12,5 +12,11 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "next_auto_push": "expand storyboard into zh-TW narration/VTT/SRT/35s MP4/cover/upload kit, unless YouTube login is ready for upload"
+  "next_auto_push": "expand storyboard into zh-TW narration/VTT/SRT/35s MP4/cover/upload kit, unless YouTube login is ready for upload",
+  "github_pages": {
+    "index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "readme": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/README.md",
+    "contact_sheet": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/checks/contact_sheet.png",
+    "verified_commit": "dbe57b9"
+  }
 }
