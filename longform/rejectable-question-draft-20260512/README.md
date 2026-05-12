@@ -1,7 +1,7 @@
 # 第二季優先題 6｜我怎麼讓 AI 先產出「可被退件」的題目草稿
 
 建立時間：2026-05-12 每小時巡視自動推進  
-狀態：長片 5–8 分鐘 storyboard 前置包已完成；尚未製作旁白／MP4。
+狀態：長片 storyboard 前置包已完成，並已擴成 4 分 19 秒本機 slide-video 草稿；尚未製作長片 YouTube upload kit／正式可分享講義。
 
 ## 內容定位
 
@@ -18,6 +18,9 @@
 - 可重現腳本：`render_storyboard.py`。
 - Manifest：`manifest.json`。
 - 退件規準講義草稿：`rejectable-question-draft-rubric-handout-draft-v1.md`。
+- Slide-video 草稿：`slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1.mp4`。
+- 旁白／字幕／抽幀 QA：`slide_video_draft_v1/narration_edge_hsiaoyu.mp3`、`slide_video_draft_v1/narration_edge_hsiaoyu.vtt`、`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`。
+- Slide-video 交接壓縮包：`slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1-20260512.tar.gz`。
 
 ## 5 張 storyboard 大綱
 
@@ -32,9 +35,10 @@
 - PIL 驗證：5 張圖卡皆為 1920×1080 RGB；contact sheet 為 1880×1180 RGB。
 - 視覺 QA：繁體中文主文字可讀、無 tofu 方塊、無明顯裁切、無文字重疊或過度擁擠。
 - 壓縮包：`rejectable-question-draft-storyboard-kit-20260512.tar.gz` 已用 Python tarfile 讀回確認包含 README、manifest、render script、5 張 slides、contact sheet 與講義草稿。
-- GitHub Pages：已同步到穩定手機索引 `https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`（commit `9f49f43`），index／contact sheet／README／壓縮包皆 live 200。
+- GitHub Pages：storyboard 版已同步到穩定手機索引 `https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`（內容 commit `9f49f43`；README／壓縮包 cleanup commit `b7f0971`），本輪 slide-video 草稿待同步後更新 commit。
+- Slide-video 驗證：ffprobe 1920×1080、30fps、H.264 yuv420p + AAC、258.672 秒；PIL 驗證抽幀與 contact sheet；視覺 QA 確認繁中可讀、無 tofu／裁切／文字重疊／過度擁擠；壓縮包已用 Python tarfile 讀回確認 23 個項目。
 
 ## 下一個自動推進
 
-若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 4–6 分鐘旁白、SRT/VTT 與 slide-video 草稿。  
+若 YouTube/Google 登入仍未完成：建立長片 YouTube upload kit 與正式可分享／Google Docs-ready 退件規準講義。  
 若使用者已完成登入：優先上傳第一季首批 Shorts／長片或最新穩定 GitHub Pages 索引中的候選影片。

@@ -1,6 +1,6 @@
 {
   "title": "我怎麼讓 AI 先產出「可被退件」的題目草稿",
-  "format": "longform_storyboard_package_v1",
+  "format": "longform_storyboard_plus_slide_video_draft_v1",
   "created": "2026-05-12",
   "dimensions": {
     "slides": "1920x1080",
@@ -15,7 +15,16 @@
     "checks/contact_sheet.png",
     "rejectable-question-draft-rubric-handout-draft-v1.md",
     "README.md",
-    "render_storyboard.py"
+    "render_storyboard.py",
+    "slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1.mp4",
+    "slide_video_draft_v1/narration_edge_hsiaoyu.mp3",
+    "slide_video_draft_v1/narration_edge_hsiaoyu.vtt",
+    "slide_video_draft_v1/narration_edge_hsiaoyu.srt",
+    "slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png",
+    "slide_video_draft_v1/README.md",
+    "slide_video_draft_v1/manifest.json",
+    "slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1-20260512.tar.gz"
   ],
-  "next_auto_push": "擴成 4–6 分鐘旁白、SRT/VTT 與 slide-video 草稿；YouTube/Google 登入完成後則優先上傳首批影片。"
+  "next_auto_push": "建立長片 YouTube upload kit 與正式可分享／Google Docs-ready 退件規準講義；YouTube/Google 登入完成後則優先上傳首批影片。",
+  "slide_video_duration_seconds": 258.672
 }

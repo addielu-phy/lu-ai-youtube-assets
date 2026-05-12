@@ -1,0 +1,102 @@
+{
+  "title": "我怎麼讓 AI 先產出「可被退件」的題目草稿",
+  "slug": "rejectable-question-draft-20260512",
+  "format": "longform slide-video draft v1",
+  "video": "slide_video_draft_v1/rejectable-question-draft-slide-video-draft-v1.mp4",
+  "audio": "slide_video_draft_v1/narration_edge_hsiaoyu.mp3",
+  "narration_text": "slide_video_draft_v1/narration_zh_tw.txt",
+  "subtitles": [
+    "slide_video_draft_v1/narration_edge_hsiaoyu.vtt",
+    "slide_video_draft_v1/narration_edge_hsiaoyu.srt"
+  ],
+  "ffconcat": "slide_video_draft_v1/slides.ffconcat",
+  "check_frames": [
+    "slide_video_draft_v1/check_frames/frame_01.png",
+    "slide_video_draft_v1/check_frames/frame_02.png",
+    "slide_video_draft_v1/check_frames/frame_03.png",
+    "slide_video_draft_v1/check_frames/frame_04.png",
+    "slide_video_draft_v1/check_frames/frame_05.png"
+  ],
+  "contact_sheet": "slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png",
+  "duration_seconds": 258.672,
+  "verification": {
+    "slides/slide_01.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/slide_02.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/slide_03.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/slide_04.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/slide_05.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_01.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_02.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_03.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_04.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_05.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png": {
+      "size": [
+        1600,
+        980
+      ],
+      "mode": "RGB"
+    }
+  },
+  "next_auto_push": "若 YouTube 登入仍未完成，建立長片 YouTube upload kit 與正式可分享／Google Docs-ready 退件規準講義；若已完成登入，優先上傳第一季首批或本支第二季長片草稿。"
+}
