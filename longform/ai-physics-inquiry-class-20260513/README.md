@@ -23,7 +23,7 @@
 - 手機索引：https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html
 - 本包 README：https://addielu-phy.github.io/lu-ai-youtube-assets/longform/ai-physics-inquiry-class-20260513/README.md
 - storyboard contact sheet：https://addielu-phy.github.io/lu-ai-youtube-assets/longform/ai-physics-inquiry-class-20260513/checks/contact_sheet.png
-- GitHub Pages commit：storyboard `20c9768` 已 live 驗證；slide-video 待本輪同步後回填最終 commit。
+- GitHub Pages commit：storyboard `20c9768` 已 live 驗證；slide-video `a37ef97` 已 live 驗證。
 
 ## 已驗證
 - 5 張 storyboard：1920×1080 RGB。
