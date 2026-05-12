@@ -1,0 +1,21 @@
+{
+  "title": "一堂 45 分鐘 AI 物理探究課怎麼排？",
+  "format": "longform_storyboard_package_v1",
+  "created": "2026-05-13",
+  "dimensions": {
+    "slides": "1920x1080",
+    "contact_sheet": "1880x1180"
+  },
+  "assets": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png",
+    "checks/contact_sheet.png",
+    "ai-physics-inquiry-45min-flow-handout-draft-v1.md",
+    "README.md",
+    "render_storyboard.py"
+  ],
+  "next_auto_push": "擴成 4–6 分鐘旁白、SRT/VTT 與 slide-video 草稿；YouTube/Google 登入完成後則優先上傳首批影片。"
+}
