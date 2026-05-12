@@ -1,0 +1,16 @@
+{
+  "title": "AI 給答案前，先叫它列出三個可驗證證據",
+  "candidate": "season-03-priority-01",
+  "status": "storyboard package v1 complete",
+  "created": "2026-05-12",
+  "dimensions": "1080x1920",
+  "slides": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ],
+  "contact_sheet": "checks/contact_sheet.png",
+  "next_auto_push": "expand storyboard into zh-TW narration/VTT/SRT/35s MP4/cover/upload kit, unless YouTube login is ready for upload"
+}
