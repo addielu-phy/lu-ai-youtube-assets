@@ -1,0 +1,18 @@
+{
+  "title": "補救教學題目請 AI 出，但先鎖住哪兩件事？",
+  "candidate": "season-03-priority-08",
+  "slug": "remedial-double-lock-20260513",
+  "status": "storyboard package v1 complete",
+  "created": "2026-05-13 20:32 CST",
+  "dimensions": "1080x1920",
+  "slides": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ],
+  "contact_sheet": "checks/contact_sheet.png",
+  "archive": "remedial-double-lock-storyboard-kit-20260513.tar.gz",
+  "next_auto_push": "expand this storyboard into a 35s Shorts MP4, cover, subtitles, YouTube upload kit, and one-page remedial double-lock teacher checklist unless YouTube login is ready for upload"
+}

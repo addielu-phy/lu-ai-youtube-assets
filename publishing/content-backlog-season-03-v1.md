@@ -62,8 +62,13 @@
 
 7. **優先題 7｜AI 幫忙整理學生迷思，老師先要求它分類而不是建議**  
    - 理由：承接既有「學生迷思」與「AI 回饋審稿」素材，先把 AI Agent 從給建議改成可查證的分類器。
-   - 進度：5 張 Shorts storyboard 圖卡與交接包已完成並發布 GitHub Pages commit `997c4b4`：`../shorts/misconception-classification-first-20260513/README.md`。
-   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁迷思分類 prompt 教師小抄；若已登入，優先上傳第一季首批或第三季代表作。
+   - 進度：35 秒 Shorts MP4、封面、VTT/SRT、YouTube upload kit 與一頁迷思分類 prompt 教師小抄已完成：`../shorts/misconception-classification-first-20260513/README.md`。
+   - 下一步：已接續優先題 8 storyboard；若登入仍未完成，下一輪把優先題 8 擴成 35 秒 Shorts MP4／補救雙鎖教師檢查表。
+
+8. **優先題 8｜補救教學題目請 AI 出，但先鎖住哪兩件事？**  
+   - 理由：承接「先分迷思」與「三鎖變因」，把 AI Agent 從分類結果推進到可退件的補救題設計。
+   - 進度：5 張 Shorts storyboard 圖卡與交接包已完成：`../shorts/remedial-double-lock-20260513/README.md`。
+   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；若已登入，優先上傳第一季首批或第三季代表作。
 
 ## 4. 每支內容的共用檢查欄位
 
@@ -80,4 +85,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 7 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁迷思分類 prompt 教師小抄；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
+若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 8 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
