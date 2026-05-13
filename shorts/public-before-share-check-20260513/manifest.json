@@ -49,5 +49,11 @@
     "slides/slide_03.png",
     "slides/slide_04.png",
     "slides/slide_05.png"
-  ]
+  ],
+  "published": {
+    "github_pages_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "github_pages_content_commit": "3061aca",
+    "github_pages_cleanup_commit": "pending",
+    "verified": "pending live cache-busted verification"
+  }
 }

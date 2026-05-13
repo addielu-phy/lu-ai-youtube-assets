@@ -34,7 +34,7 @@
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本機 package：`shorts/public-before-share-check-20260513/`
-- GitHub Pages：待同步後回填 commit 與 live 驗證。
+- GitHub Pages content commit：`3061aca`（等待 cleanup commit 回填最終 live 驗證）。
 
 ## 下一個自動推進
 
