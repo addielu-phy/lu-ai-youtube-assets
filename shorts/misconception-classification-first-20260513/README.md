@@ -1,6 +1,7 @@
 # Shorts storyboard｜AI 幫忙整理學生迷思，老師先要求它分類而不是建議
 
 狀態：2026-05-13 每小時雷達自動推進完成 storyboard package v1。  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/misconception-classification-first-20260513/README.md`（GitHub Pages commit `997c4b4` 已驗證）。  
 來源：第三季內容題庫優先題 7「先分迷思」。
 
 ## 30 秒製作簡報
