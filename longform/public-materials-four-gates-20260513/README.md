@@ -22,7 +22,7 @@
 
 ## 3. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪把本 storyboard 擴成 4–6 分鐘 zh-TW 旁白、VTT/SRT 字幕、slide-video MP4、YouTube upload kit，並延伸「公開教材四關檢查表」正式可分享講義。
+已完成 slide-video draft、YouTube upload kit 與正式可分享「公開教材四關檢查表」；下一輪若 YouTube/Google 登入仍未完成，改從第三季題庫挑選優先題 7 Shorts storyboard／迷思分類 prompt。
 
 ## 4. 需要使用者操作／判斷
 
@@ -32,6 +32,9 @@
 ## 5. 驗證紀錄
 
 - PIL 驗證：5 張圖卡皆為 1920×1080 RGB。
-- Contact sheet：`checks/contact_sheet.png`，3+2 排版，供手機快速審稿。
-- 壓縮包：`public-materials-four-gates-storyboard-kit-20260513.tar.gz`，已用 Python tarfile 讀回確認。
-- GitHub Pages：commit `5faff3b` 已驗證 index／README／contact sheet／壓縮包皆 HTTP 200，瀏覽器卡片可見且 console 無錯。
+- Storyboard contact sheet：`checks/contact_sheet.png`。
+- Slide-video：`slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1.mp4`，ffprobe 346.440 秒、1920×1080、H.264 + AAC。
+- QA contact sheet：`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`，視覺檢查通過。
+- 正式講義：`slide_video_draft_v1/public-materials-four-gates-shareable-handout-v1.md` 已讀回驗證。
+- 壓縮包：`slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1-20260513.tar.gz` 已用 Python tarfile 讀回確認。
+- GitHub Pages：待同步後回填最終 commit。

@@ -2,7 +2,7 @@
   "slug": "public-materials-four-gates-20260513",
   "created_at": "2026-05-13 14:22 CST",
   "source_backlog": "publishing/content-backlog-season-03-v1.md priority 6",
-  "status": "storyboard_package_complete_and_published_to_github_pages",
+  "status": "slide_video_upload_kit_and_shareable_handout_complete_pending_pages_sync",
   "target_format": "longform 5-8 min slide-video draft",
   "slides": [
     "slides/01_hook_four_gates.png",
@@ -13,7 +13,7 @@
   ],
   "contact_sheet": "checks/contact_sheet.png",
   "archive": "public-materials-four-gates-storyboard-kit-20260513.tar.gz",
-  "next_auto_push": "Expand into 4-6 minute zh-TW narration, VTT/SRT, slide-video MP4, YouTube upload kit, and shareable public-materials four-gates handout.",
+  "next_auto_push": "If YouTube/Google login is still incomplete, choose season 3 priority 7 Shorts storyboard / misconception classification prompt; if login is complete, upload the first batch or a season 3 representative piece.",
   "human_only_blockers": [
     "YouTube/Google login and upload",
     "Approval before using real student work, school materials, unpublished exams, or third-party images"
@@ -23,5 +23,9 @@
     "path": "longform/public-materials-four-gates-20260513/",
     "verified_commit": "5faff3b",
     "verification": "index, README, contact sheet, and archive HTTP 200; browser card visible; console clean"
-  }
+  },
+  "slide_video": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1.mp4",
+  "upload_kit": "slide_video_draft_v1/youtube-upload-kit-longform-v1.md",
+  "shareable_handout": "slide_video_draft_v1/public-materials-four-gates-shareable-handout-v1.md",
+  "slide_video_archive": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1-20260513.tar.gz"
 }

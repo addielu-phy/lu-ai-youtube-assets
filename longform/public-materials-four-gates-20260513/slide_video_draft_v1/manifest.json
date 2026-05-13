@@ -1,0 +1,98 @@
+{
+  "title": "老師用 AI 做公開教材：從來源到標註的檢查流程",
+  "slug": "public-materials-four-gates-20260513",
+  "format": "longform slide-video draft v1",
+  "status": "slide_video_upload_kit_and_shareable_handout_complete",
+  "video": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1.mp4",
+  "audio": "slide_video_draft_v1/narration_edge_hsiaoyu.mp3",
+  "narration_text": "slide_video_draft_v1/narration_zh_tw.txt",
+  "subtitles": [
+    "slide_video_draft_v1/narration_edge_hsiaoyu.vtt",
+    "slide_video_draft_v1/narration_edge_hsiaoyu.srt"
+  ],
+  "upload_kit": "slide_video_draft_v1/youtube-upload-kit-longform-v1.md",
+  "shareable_handout": "slide_video_draft_v1/public-materials-four-gates-shareable-handout-v1.md",
+  "contact_sheet": "slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png",
+  "archive": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1-20260513.tar.gz",
+  "duration_seconds": 346.44,
+  "verification": {
+    "slides/01_hook_four_gates.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/02_source_gate.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/03_license_gate.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/04_privacy_ai_label_gate.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slides/05_classroom_flow.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_01.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_02.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_03.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_04.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/check_frames/frame_05.png": {
+      "size": [
+        1920,
+        1080
+      ],
+      "mode": "RGB"
+    },
+    "slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png": {
+      "size": [
+        1600,
+        980
+      ],
+      "mode": "RGB"
+    }
+  },
+  "next_auto_push": "若 YouTube/Google 登入仍未完成，從第三季題庫挑選優先題 7 Shorts storyboard／迷思分類 prompt；若已完成登入，優先上傳第一季首批或第三季代表作。"
+}
