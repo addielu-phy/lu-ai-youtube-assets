@@ -1,0 +1,18 @@
+{
+  "slug": "image-license-check-before-slide-20260513",
+  "title": "AI 找到的圖，可以直接放簡報嗎？",
+  "season": "第三季",
+  "priority": 5,
+  "status": "storyboard_complete",
+  "created_at": "2026-05-13 11:50 CST",
+  "slides": [
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ],
+  "contact_sheet": "checks/contact_sheet.png",
+  "next_auto_push": "expand storyboard into 35s Shorts MP4, cover, subtitles, YouTube upload kit, and image-license checklist if YouTube login remains blocked",
+  "public_caution": "Do not publish unlicensed images, real student work, or unknown-source screenshots without human confirmation."
+}
