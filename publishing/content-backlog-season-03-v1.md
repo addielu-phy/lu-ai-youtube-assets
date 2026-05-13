@@ -1,7 +1,7 @@
 # 第三季內容題庫 v1｜AI 教學日常化 × 物理探究
 
 建立時間：2026-05-12 20:22 巡視自動推進  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證；01:21 已擴成 35 秒 MP4/upload kit，content commit `02e7a09`、cleanup commit `0d86483` 已 live 驗證；02:36 第三季優先題 3 長片 storyboard／45 分鐘流程講義已完成，本機 QA 通過，GitHub Pages content commit `20c9768`、cleanup commit `bc9b555` 已 live 驗證；05:08 已完成 slide-video、upload kit 與正式可分享講義，GitHub Pages commit `5583857` 已 live 驗證；06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages content commit `2d85910`、cleanup commit `1a0b8a7` live 驗證；11:50 第三季優先題 5「圖能用嗎」storyboard package 已完成並同步 Pages commit `4eb8fa9` live 驗證；13:04 已擴成 35 秒 MP4/upload kit 與圖片授權檢查表，GitHub Pages live 驗證通過）  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證；01:21 已擴成 35 秒 MP4/upload kit，content commit `02e7a09`、cleanup commit `0d86483` 已 live 驗證；02:36 第三季優先題 3 長片 storyboard／45 分鐘流程講義已完成，本機 QA 通過，GitHub Pages content commit `20c9768`、cleanup commit `bc9b555` 已 live 驗證；05:08 已完成 slide-video、upload kit 與正式可分享講義，GitHub Pages commit `5583857` 已 live 驗證；06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages content commit `2d85910`、cleanup commit `1a0b8a7` live 驗證；11:50 第三季優先題 5「圖能用嗎」storyboard package 已完成並同步 Pages commit `4eb8fa9` live 驗證；13:04 已擴成 35 秒 MP4/upload kit 與圖片授權檢查表，GitHub Pages live 驗證通過；14:22 第三季優先題 6 長片 storyboard／公開教材四關流程包已完成，本機 QA 通過，待同步 Pages）  
 用途：第二季 12 支候選已大多完成成 Shorts／長片／講義／社群卡後，先備妥下一輪可直接製作的候選池；在 YouTube/Google 登入尚未完成前，讓每小時巡視能繼續推進本機可驗證素材，而不是重複提醒登入卡點。
 
 ## 0. 第三季定位
@@ -54,10 +54,11 @@
 5. **優先題 5｜AI 找到的圖，可以直接放簡報嗎？**  
    - 理由：補上圖片授權與替代素材檢查，是公開責任主線的下一個低風險 Shorts。
    - 進度：35 秒 Shorts MP4、封面、字幕、YouTube upload kit 與圖片授權檢查表已完成：`../shorts/image-license-check-before-slide-20260513/README.md`。
-   - 下一步：若 YouTube/Google 登入仍未完成，改推第三季優先題 6 長片 storyboard／公開教材四關檢查流程；若已登入，優先上傳第一季首批或本支第三季 Shorts。
+   - 下一步：已接續優先題 6 storyboard；若登入仍未完成，下一輪擴成 slide-video 與正式可分享講義。
 6. **優先題 6｜老師用 AI 做公開教材：從來源到標註的檢查流程**  
    - 理由：補上頻道正式公開前的責任／授權主題，也能延伸成網站或社群貼文。
-   - 最小產出：流程圖卡 + 可分享 checklist + 社群卡。
+   - 進度：5 張 16:9 storyboard 圖卡、README、manifest、contact sheet 與交接壓縮包已完成：`../longform/public-materials-four-gates-20260513/README.md`。
+   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 4–6 分鐘 zh-TW 旁白、VTT/SRT、slide-video MP4、長片 upload kit，並延伸正式可分享「公開教材四關檢查表」；若已登入，優先上傳第一季首批或第三季代表作。
 
 ## 4. 每支內容的共用檢查欄位
 
@@ -74,4 +75,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪改推第三季優先題 6「公開教材四關」長片 storyboard／公開教材檢查流程；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
+若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 6「公開教材四關」storyboard 擴成 4–6 分鐘 slide-video、長片 upload kit 與正式可分享檢查表；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。

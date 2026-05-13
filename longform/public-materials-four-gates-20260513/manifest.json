@@ -1,0 +1,21 @@
+{
+  "slug": "public-materials-four-gates-20260513",
+  "created_at": "2026-05-13 14:22 CST",
+  "source_backlog": "publishing/content-backlog-season-03-v1.md priority 6",
+  "status": "storyboard_package_complete_local",
+  "target_format": "longform 5-8 min slide-video draft",
+  "slides": [
+    "slides/01_hook_four_gates.png",
+    "slides/02_source_gate.png",
+    "slides/03_license_gate.png",
+    "slides/04_privacy_ai_label_gate.png",
+    "slides/05_classroom_flow.png"
+  ],
+  "contact_sheet": "checks/contact_sheet.png",
+  "archive": "public-materials-four-gates-storyboard-kit-20260513.tar.gz",
+  "next_auto_push": "Expand into 4-6 minute zh-TW narration, VTT/SRT, slide-video MP4, YouTube upload kit, and shareable public-materials four-gates handout.",
+  "human_only_blockers": [
+    "YouTube/Google login and upload",
+    "Approval before using real student work, school materials, unpublished exams, or third-party images"
+  ]
+}
