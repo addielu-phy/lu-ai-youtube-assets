@@ -34,7 +34,7 @@
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本機 package：`shorts/image-license-check-before-slide-20260513/`
-- GitHub Pages content commit：`e02165b` 已推送，待本輪 cache-busted live 驗證。
+- GitHub Pages：已同步至穩定 Pages 索引並完成 live 驗證（index／MP4／封面／README／檢查表／壓縮包皆 HTTP 200）。
 
 ## 下一個自動推進
 
