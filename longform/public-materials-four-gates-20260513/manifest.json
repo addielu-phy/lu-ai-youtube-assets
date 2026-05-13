@@ -21,8 +21,8 @@
   "github_pages": {
     "index_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "path": "longform/public-materials-four-gates-20260513/",
-    "verified_commit": "5faff3b",
-    "verification": "index, README, contact sheet, and archive HTTP 200; browser card visible; console clean"
+    "verified_content_commit": "8cdc729",
+    "verification": "index card, MP4, handout, and archive HTTP 200; browser title/card visible; console clean"
   },
   "slide_video": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1.mp4",
   "upload_kit": "slide_video_draft_v1/youtube-upload-kit-longform-v1.md",
