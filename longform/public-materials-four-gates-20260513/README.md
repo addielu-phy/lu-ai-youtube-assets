@@ -1,6 +1,7 @@
 # 公開教材四關｜長片 storyboard package
 
 建立時間：2026-05-13 14:22 巡視自動推進  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`（GitHub Pages commit `5faff3b` 已 live 驗證；本包路徑 `longform/public-materials-four-gates-20260513/`）  
 來源：第三季內容題庫優先題 6「老師用 AI 做公開教材：從來源到標註的檢查流程」  
 目標片長：5–8 分鐘長片草稿  
 核心句：AI 可以幫老師整理公開教材，但分享前要先過「來源、授權、個資、AI 標註」四道門。
@@ -33,3 +34,4 @@
 - PIL 驗證：5 張圖卡皆為 1920×1080 RGB。
 - Contact sheet：`checks/contact_sheet.png`，3+2 排版，供手機快速審稿。
 - 壓縮包：`public-materials-four-gates-storyboard-kit-20260513.tar.gz`，已用 Python tarfile 讀回確認。
+- GitHub Pages：commit `5faff3b` 已驗證 index／README／contact sheet／壓縮包皆 HTTP 200，瀏覽器卡片可見且 console 無錯。

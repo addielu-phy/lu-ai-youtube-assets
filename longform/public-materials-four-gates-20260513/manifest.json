@@ -2,7 +2,7 @@
   "slug": "public-materials-four-gates-20260513",
   "created_at": "2026-05-13 14:22 CST",
   "source_backlog": "publishing/content-backlog-season-03-v1.md priority 6",
-  "status": "storyboard_package_complete_local",
+  "status": "storyboard_package_complete_and_published_to_github_pages",
   "target_format": "longform 5-8 min slide-video draft",
   "slides": [
     "slides/01_hook_four_gates.png",
@@ -17,5 +17,11 @@
   "human_only_blockers": [
     "YouTube/Google login and upload",
     "Approval before using real student work, school materials, unpublished exams, or third-party images"
-  ]
+  ],
+  "github_pages": {
+    "index_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "path": "longform/public-materials-four-gates-20260513/",
+    "verified_commit": "5faff3b",
+    "verification": "index, README, contact sheet, and archive HTTP 200; browser card visible; console clean"
+  }
 }
