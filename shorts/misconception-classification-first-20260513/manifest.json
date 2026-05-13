@@ -26,5 +26,19 @@
   ],
   "upload_kit": "youtube-upload-kit.md",
   "teacher_prompt_sheet": "misconception-classification-prompt-sheet-v1.md",
-  "qa_sheet": "checks/qa_sheet_mp4.png"
+  "qa_sheet": "checks/qa_sheet_mp4.png",
+  "mp4_improved_audio": "misconception-classification-first-shorts-35s-lu-f5tts-v2.mp4",
+  "narration_improved_audio": "narration_35s_lu_f5tts_v2.mp3",
+  "subtitles_improved_audio": [
+    "narration_35s_lu_f5tts_v2.vtt",
+    "narration_35s_lu_f5tts_v2.srt"
+  ],
+  "audio_upgrade_note": "Lu Teacher F5-TTS v2, chunked generation, loudnorm, 35s fitted audio replacing Edge HsiaoYu narration that was longer than the video.",
+  "mp4_recommended": "misconception-classification-first-shorts-35s-lu-f5tts-v4.mp4",
+  "narration_recommended": "narration_35s_lu_f5tts_v4.mp3",
+  "audio_upgrade_recommended": "Lu Teacher F5-TTS v4; use this as recommended release version.",
+  "subtitles_recommended": [
+    "narration_35s_lu_f5tts_v4.vtt",
+    "narration_35s_lu_f5tts_v4.srt"
+  ]
 }

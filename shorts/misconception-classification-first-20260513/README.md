@@ -40,3 +40,30 @@
 
 若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成 storyboard／講義延伸。  
 若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或本支第三季 Shorts。
+
+
+## 音訊升級 v2（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 Edge HsiaoYu 旁白，音訊長度約 44.33 秒但影片只有 35 秒，會被截斷；本版改用盧老師 F5-TTS voice clone、重新濃縮旁白並 loudness normalization。
+- 升級版 MP4：`misconception-classification-first-shorts-35s-lu-f5tts-v2.mp4`
+- 升級版旁白：`narration_35s_lu_f5tts_v2.mp3` / `narration_35s_lu_f5tts_v2.wav`
+- 升級版字幕：`narration_35s_lu_f5tts_v2.vtt` / `narration_35s_lu_f5tts_v2.srt`
+- 音訊處理：F5-TTS chunked generation、短停頓串接、loudnorm I=-16、AAC 192k、35 秒完整輸出。
+
+
+## 音訊升級 v3（推薦版）
+
+- 推薦版 MP4：`misconception-classification-first-shorts-35s-lu-f5tts-v3.mp4`
+- 旁白：`narration_35s_lu_f5tts_v3.mp3` / `narration_35s_lu_f5tts_v3.wav`
+- 字幕：`narration_35s_lu_f5tts_v3.vtt` / `narration_35s_lu_f5tts_v3.srt`
+- 原始 F5 串接長度：27.32 秒；最終輸出：35.00 秒；時間壓縮倍率：1.000。
+- 說明：改用盧老師 F5-TTS voice clone、縮短腳本、分段生成、loudness normalization，避免原 Edge 旁白 44.33 秒被 35 秒影片截斷。
+
+
+## 音訊升級 v4（推薦發布版）
+
+- 推薦發布版 MP4：`misconception-classification-first-shorts-35s-lu-f5tts-v4.mp4`
+- 旁白：`narration_35s_lu_f5tts_v4.mp3` / `narration_35s_lu_f5tts_v4.wav`
+- 字幕：`narration_35s_lu_f5tts_v4.vtt` / `narration_35s_lu_f5tts_v4.srt`
+- 原始 F5 串接長度：40.33 秒；最終輸出：35.00 秒；時間壓縮倍率：1.159。
+- 說明：改用盧老師 F5-TTS voice clone、分段生成、loudness normalization，避免原 Edge 旁白 44.33 秒被 35 秒影片截斷。
