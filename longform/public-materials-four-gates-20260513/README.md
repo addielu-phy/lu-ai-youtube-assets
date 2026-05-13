@@ -37,4 +37,4 @@
 - QA contact sheet：`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`，視覺檢查通過。
 - 正式講義：`slide_video_draft_v1/public-materials-four-gates-shareable-handout-v1.md` 已讀回驗證。
 - 壓縮包：`slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1-20260513.tar.gz` 已用 Python tarfile 讀回確認。
-- GitHub Pages：待同步後回填最終 commit。
+- GitHub Pages：已同步 GitHub Pages 穩定版並 live 驗證。
