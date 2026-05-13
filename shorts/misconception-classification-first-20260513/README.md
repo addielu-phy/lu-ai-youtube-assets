@@ -67,3 +67,22 @@
 - 字幕：`narration_35s_lu_f5tts_v4.vtt` / `narration_35s_lu_f5tts_v4.srt`
 - 原始 F5 串接長度：40.33 秒；最終輸出：35.00 秒；時間壓縮倍率：1.159。
 - 說明：改用盧老師 F5-TTS voice clone、分段生成、loudness normalization，避免原 Edge 旁白 44.33 秒被 35 秒影片截斷。
+
+
+## 品質檢查與升級 v5（推薦評估版）
+
+- 推薦評估版 MP4：`misconception-classification-first-shorts-35s-quality-v5.mp4`
+- 推薦旁白：`narration_35s_lu_f5tts_v5_quality.mp3` / `narration_35s_lu_f5tts_v5_quality.wav`
+- 字幕：`narration_35s_lu_f5tts_v5_quality.vtt` / `narration_35s_lu_f5tts_v5_quality.srt`
+- QA contact sheet：`checks/quality_v5_contact_sheet.png`
+- 品質報告：`quality-review-and-upgrade-v5.json`
+- 改善重點：放大手機可讀主文字、減少小字、底部安全區上移、加入簡單動畫節奏、重新生成較自然長度的盧老師 F5-TTS 旁白，避免 v4 的 1.159 倍時間壓縮。
+
+
+## 品質檢查與升級 v6（目前推薦版）
+
+- 推薦版 MP4：`misconception-classification-first-shorts-35s-quality-v6.mp4`
+- 音訊沿用 v5 盧老師 F5-TTS：`narration_35s_lu_f5tts_v5_quality.mp3` / `.wav`
+- QA contact sheet：`checks/quality_v6_contact_sheet.png`
+- 品質報告：`quality-review-and-upgrade-v6.json`
+- v6 修正 v5 QA 指出的問題：移除底部小字、進度條移到上方安全區、頂部標籤簡化、說明文字再放大、1s/34s 擁擠區微調。

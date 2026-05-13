@@ -1,0 +1,14 @@
+{
+  "version": "quality-v6",
+  "video": "/home/adl/youtube-lu-ai-channel/shorts/misconception-classification-first-20260513/misconception-classification-first-shorts-35s-quality-v6.mp4",
+  "audio_source": "narration_35s_lu_f5tts_v5_quality.wav",
+  "contact_sheet": "/home/adl/youtube-lu-ai-channel/shorts/misconception-classification-first-20260513/checks/quality_v6_contact_sheet.png",
+  "visual_fixes": [
+    "Removed tiny footer text near bottom safe zone",
+    "Moved progress line to upper card area",
+    "Simplified top labels",
+    "Enlarged body text and split examples into short lines",
+    "Slightly reduced icons/chips crowding",
+    "Kept sidecar subtitles only"
+  ]
+}

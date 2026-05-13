@@ -40,5 +40,14 @@
   "subtitles_recommended": [
     "narration_35s_lu_f5tts_v4.vtt",
     "narration_35s_lu_f5tts_v4.srt"
-  ]
+  ],
+  "mp4_quality_recommended": "misconception-classification-first-shorts-35s-quality-v6.mp4",
+  "narration_quality_recommended": "narration_35s_lu_f5tts_v5_quality.mp3",
+  "subtitles_quality_recommended": [
+    "narration_35s_lu_f5tts_v5_quality.vtt",
+    "narration_35s_lu_f5tts_v5_quality.srt"
+  ],
+  "quality_review_report": "quality-review-and-upgrade-v6.json",
+  "quality_contact_sheet": "checks/quality_v6_contact_sheet.png",
+  "quality_upgrade_note": "v6 is the current recommended visual/audio quality version; v5 audio retained, visual safe-zone/readability fixes applied."
 }
