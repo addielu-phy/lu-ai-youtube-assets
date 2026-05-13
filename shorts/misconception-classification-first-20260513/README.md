@@ -34,7 +34,7 @@
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本機 package：`shorts/misconception-classification-first-20260513/`
-- GitHub Pages：待本輪同步後回填最新 commit。
+- GitHub Pages：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/misconception-classification-first-20260513/README.md`（commit `526d6f1` 已 live 驗證）。
 
 ## 下一個自動推進
 
