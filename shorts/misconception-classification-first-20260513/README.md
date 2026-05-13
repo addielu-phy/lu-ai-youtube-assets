@@ -1,16 +1,18 @@
-# Shorts storyboard｜AI 幫忙整理學生迷思，老師先要求它分類而不是建議
+# Shorts｜AI 幫忙整理學生迷思，老師先要求它分類而不是建議
 
-狀態：2026-05-13 每小時雷達自動推進完成 storyboard package v1。  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/misconception-classification-first-20260513/README.md`（GitHub Pages commit `997c4b4` 已驗證）。  
+狀態：2026-05-13 每小時雷達已把 storyboard 擴成 35 秒本機 Shorts 草稿、封面、字幕、YouTube upload kit，並新增「迷思分類 Prompt 教師小抄」。  
 來源：第三季內容題庫優先題 7「先分迷思」。
 
-## 30 秒製作簡報
+## 成果檔案
 
-- 3 秒鉤子：先分類，再補救；不要一開始就開藥。
-- 核心觀點：學生錯答可以先交給 AI 做「概念／程序／表徵」分類，但 AI 必須引用匿名錯答證據，不能直接跳到補救建議。
-- 對象：國高中自然／物理教師，可用於段考後錯答整理、AI Agent 課後回饋包、補救教學分組前置作業。
-- 最小素材：三類迷思卡、匿名學生錯答例、分類 prompt、老師二次確認句。
-- 風險提醒：不使用真實學生姓名、座號、班級、原始手寫影像或未經確認可公開的作答內容；正式發布前需由使用者確認案例可公開性。
+- Shorts MP4：`misconception-classification-first-shorts-35s.mp4`
+- 封面：`cover_misconception_classification_first_v1.png`
+- 上傳包：`youtube-upload-kit.md`
+- 教師小抄：`misconception-classification-prompt-sheet-v1.md`
+- 旁白：`narration_35s_edge_hsiaoyu.mp3`
+- 字幕：`narration_35s_edge_hsiaoyu.vtt` / `narration_35s_edge_hsiaoyu.srt`
+- QA sheet：`checks/qa_sheet_mp4.png`
+- 壓縮包：`misconception-classification-first-upload-kit-20260513.tar.gz`
 
 ## 圖卡
 
@@ -22,12 +24,19 @@
 
 ## 驗證
 
-- PIL 輸出：5 張 `1080×1920` RGB PNG。
-- Contact sheet：`checks/contact_sheet.png`。
-- 視覺 QA：已檢查繁中主文字可讀、無 tofu 方塊、無裁切、無重疊；contact sheet 排版不擁擠。
-- 壓縮包：`misconception-classification-first-storyboard-kit-20260513.tar.gz` 已用 Python `tarfile` 讀回確認包含 README、manifest、render script、5 張圖卡與 contact sheet。
+- MP4：1080×1920、25fps、H.264 + AAC、35 秒。
+- PIL：封面、5 張圖卡與 QA 抽幀皆為 RGB 圖檔。
+- 視覺 QA：`checks/qa_sheet_mp4.png` 用於檢查繁中可讀、無 tofu 方塊、無裁切、無重疊與不過度擁擠。
+- 教師小抄：`misconception-classification-prompt-sheet-v1.md` 已讀回驗證，含三類迷思速表、可複製 prompt、學生錯答整理表與公開隱私提醒。
+- 壓縮包：已用 Python `tarfile` 讀回確認包含 MP4、封面、旁白、字幕、README、manifest、upload kit、教師小抄、slides 與 QA sheet。
+
+## 穩定發布
+
+- 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
+- 本機 package：`shorts/misconception-classification-first-20260513/`
+- GitHub Pages：待本輪同步後回填最新 commit。
 
 ## 下一個自動推進
 
-若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「迷思分類 prompt」教師小抄。  
-若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批或第三季代表作。
+若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成 storyboard／講義延伸。  
+若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或本支第三季 Shorts。

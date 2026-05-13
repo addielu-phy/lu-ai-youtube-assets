@@ -2,7 +2,7 @@
   "title": "AI 幫忙整理學生迷思，老師先要求它分類而不是建議",
   "candidate": "season-03-priority-07",
   "slug": "misconception-classification-first-20260513",
-  "status": "storyboard package v1 complete",
+  "status": "35s Shorts MP4 + upload kit + misconception-classification prompt sheet complete",
   "created": "2026-05-13",
   "dimensions": "1080x1920",
   "slides": [
@@ -13,8 +13,18 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "archive": "misconception-classification-first-storyboard-kit-20260513.tar.gz",
-  "next_auto_push": "expand this storyboard into a 35s Shorts MP4, cover, subtitles, YouTube upload kit, and one-page misconception classification prompt sheet unless YouTube login is ready for upload",
+  "archive": "misconception-classification-first-upload-kit-20260513.tar.gz",
+  "next_auto_push": "choose the next unfinished season-03 candidate for storyboard or handout extension unless YouTube login is ready for upload",
   "github_pages_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/misconception-classification-first-20260513/README.md",
-  "verified_commit": "997c4b4"
+  "verified_commit": "997c4b4",
+  "mp4": "misconception-classification-first-shorts-35s.mp4",
+  "cover": "cover_misconception_classification_first_v1.png",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "upload_kit": "youtube-upload-kit.md",
+  "teacher_prompt_sheet": "misconception-classification-prompt-sheet-v1.md",
+  "qa_sheet": "checks/qa_sheet_mp4.png"
 }
