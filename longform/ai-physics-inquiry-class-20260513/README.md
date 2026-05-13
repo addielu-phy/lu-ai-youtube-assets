@@ -34,4 +34,4 @@
 - slide-video：ffprobe 295.632 秒、1920×1080、H.264 yuv420p、30fps、AAC；抽幀 contact sheet 視覺 QA 通過；正式講義已讀回驗證；交接壓縮包 Python tarfile 可讀回且包含正式講義。
 
 ## 下一個可自動推進項目
-第三季優先題 4「公開前三查」storyboard 已完成；若 YouTube/Google 登入仍未完成，下一輪把該 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁學生作品公開檢查表；若已完成登入，優先上傳第一季首批或本支第三季長片草稿。
+第三季優先題 4「公開前三查」已完成 35 秒 Shorts MP4／公開檢查表；第三季優先題 5「圖能用嗎」storyboard 已完成。若 YouTube/Google 登入仍未完成，下一輪把優先題 5 擴成 35 秒 Shorts MP4／圖片授權檢查表；若已完成登入，優先上傳第一季首批或第三季代表作。

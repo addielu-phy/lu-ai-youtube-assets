@@ -162,7 +162,7 @@ manifest = {
 }
 (PKG/'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding='utf-8')
 
-render_script = Path('/tmp/create_image_license_storyboard.py').read_text(encoding='utf-8')
+render_script = Path(__file__).read_text(encoding='utf-8')
 (PKG/'render_storyboard.py').write_text(render_script, encoding='utf-8')
 
 # verify dimensions
@@ -186,33 +186,3 @@ with tarfile.open(archive, 'r:gz') as tf:
     assert 'image-license-check-before-slide-20260513/checks/contact_sheet.png' in names
     assert len(names) == 9
 
-# update mobile index by prepending card
-index = BASE/'mobile-index'/'index.html'
-html = index.read_text(encoding='utf-8')
-html = re.sub(r'更新：[^<]+<br>', '更新：2026-05-13 11:50<br>', html, count=1)
-card = '''<section class="card"><div class="date">05/13 11:50</div><h2>第三季優先題 5｜圖能用嗎｜Shorts storyboard</h2><div class="links"><a class="btn " href="../shorts/image-license-check-before-slide-20260513/checks/contact_sheet.png">🖼 QA contact sheet</a><a class="btn " href="../shorts/image-license-check-before-slide-20260513/slides/slide_01.png">🖼 slide 01</a><a class="btn " href="../shorts/image-license-check-before-slide-20260513/README.md">📝 README.md</a><a class="btn " href="../shorts/image-license-check-before-slide-20260513/image-license-check-before-slide-storyboard-kit-20260513.tar.gz">📦 壓縮包</a></div></section>'''
-html = html.replace('</p><section class="card">','</p>'+card+'<section class="card">',1)
-index.write_text(html, encoding='utf-8')
-
-# update backlog stale next item and append progress note
-backlog = BASE/'publishing'/'content-backlog-season-03-v1.md'
-btxt = backlog.read_text(encoding='utf-8')
-btxt = btxt.replace('06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages content commit `2d85910`、cleanup commit `1a0b8a7` live 驗證）', '06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages content commit `2d85910`、cleanup commit `1a0b8a7` live 驗證；11:50 第三季優先題 5「圖能用嗎」storyboard package 已完成，本機 QA 通過，待同步 Pages）')
-btxt = btxt.replace('4. **優先題 4｜學生作品要放上網前，AI 幫忙檢查哪三件事？**  \n   - 理由：補上學生作品公開前的責任／授權主題，能直接延伸成 Shorts 與公開檢查表。\n   - 進度：5 張 1080×1920 storyboard 圖卡與交接包已完成：`../shorts/public-before-share-check-20260513/README.md`。\n   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁學生作品公開檢查表。\n5. **優先題 6｜老師用 AI 做公開教材：從來源到標註的檢查流程**', '4. **優先題 4｜學生作品要放上網前，AI 幫忙檢查哪三件事？**  \n   - 理由：補上學生作品公開前的責任／授權主題，能直接延伸成 Shorts 與公開檢查表。\n   - 進度：35 秒 Shorts MP4、封面、字幕、YouTube upload kit 與學生作品公開檢查表已完成：`../shorts/public-before-share-check-20260513/README.md`。\n   - 下一步：已接續優先題 5 storyboard。\n5. **優先題 5｜AI 找到的圖，可以直接放簡報嗎？**  \n   - 理由：補上圖片授權與替代素材檢查，是公開責任主線的下一個低風險 Shorts。\n   - 進度：5 張 1080×1920 storyboard 圖卡與交接包已完成：`../shorts/image-license-check-before-slide-20260513/README.md`。\n   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁圖片授權檢查表。\n6. **優先題 6｜老師用 AI 做公開教材：從來源到標註的檢查流程**')
-btxt = btxt.replace('若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 4「公開前三查」storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁學生作品公開檢查表；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。', '若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 5「圖能用嗎」storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁圖片授權檢查表；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。')
-backlog.write_text(btxt, encoding='utf-8')
-
-progress = BASE/'CHANNEL_PROGRESS.md'
-ptxt = progress.read_text(encoding='utf-8')
-ptxt = ptxt.replace('最後更新：2026-05-13 09:36 巡視自動推進', '最後更新：2026-05-13 11:50 巡視自動推進')
-old='''50. 第三季優先題 4「公開前三查」已由 storyboard 擴成 35 秒本機 Shorts 草稿、封面、字幕、YouTube upload kit 與「學生作品公開檢查表」：`shorts/public-before-share-check-20260513/`，包含 `public-before-share-check-shorts-35s.mp4`、`cover_public_before_share_check_v1.png`、zh-TW HsiaoYu 旁白、VTT/SRT 字幕、`youtube-upload-kit.md`、`student-work-public-checklist-v1.md`、QA sheet、deterministic build script 與壓縮包 `public-before-share-check-upload-kit-20260513.tar.gz`；ffprobe 驗證 1080×1920、25fps、H.264 yuv420p + AAC、35.000 秒，PIL 驗證封面／圖卡／抽幀皆為 RGB，視覺 QA 通過（繁中可讀、無 tofu／裁切／重疊，僅 footer 小字略小但不影響主要訊息），壓縮包已用 Python tarfile 讀回確認包含檢查表。手機索引已改成本支 MP4／封面／QA／upload kit／檢查表連結，已同步到 GitHub Pages content commit `3061aca`、cleanup commit `cbdc6a2`、final metadata sync commit `1aab46e`、final asset refresh commit `2758b0b` 並 live 驗證（index／MP4／封面／README／檢查表／壓縮包皆 HTTP 200，瀏覽器標題與卡片正確、console 無錯）。下一個可自動推進項目：若 YouTube/Google 登入仍未完成，從第三季題庫挑選下一個尚未完成 storyboard／講義延伸；若已登入，優先上傳第一季首批或本支第三季 Shorts。'''
-new=old+'\n51. 第三季優先題 5「AI 找到的圖，可以直接放簡報嗎？」已完成 5 張 1080×1920 Shorts storyboard 圖卡與交接包：`shorts/image-license-check-before-slide-20260513/`，包含 `README.md`、`manifest.json`、deterministic render script、`slides/slide_01.png`–`slide_05.png`、`checks/contact_sheet.png` 與壓縮包 `image-license-check-before-slide-storyboard-kit-20260513.tar.gz`；PIL 驗證 5 張圖卡皆為 1080×1920 RGB，contact sheet 為 1120×1480 RGB，壓縮包已用 Python tarfile 讀回確認 9 個項目。手機索引已加入本 storyboard 的手機可點連結；下一個可自動推進項目：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁圖片授權檢查表；若已登入，優先上傳第一季首批或第三季代表作。'
-if old not in ptxt:
-    raise SystemExit('progress target not found')
-ptxt = ptxt.replace(old,new)
-progress.write_text(ptxt, encoding='utf-8')
-
-print('created', PKG)
-print('archive_members', len(names))
-print('font', font_path)
-print('contact', contact)
