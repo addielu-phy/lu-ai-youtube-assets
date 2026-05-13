@@ -24,6 +24,11 @@
 - QA contact sheet：`checks/contact_sheet.png` 為 1120×1480 RGB，供手機快速檢查繁中可讀、無 tofu、無裁切、無重疊與不過度擁擠。
 - 壓縮包：`image-license-check-before-slide-storyboard-kit-20260513.tar.gz` 已用 Python `tarfile` 讀回確認包含 README、manifest、render script、slides 與 contact sheet。
 
+## 穩定發布
+
+- 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
+- GitHub Pages commit：`4eb8fa9` 已 live 驗證（index／README／contact sheet／壓縮包皆 HTTP 200；瀏覽器標題與卡片正確、console 無錯）。
+
 ## 下一個自動推進
 
 若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「圖片授權檢查表」。  
