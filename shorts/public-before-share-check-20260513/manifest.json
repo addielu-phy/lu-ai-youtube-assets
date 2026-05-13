@@ -2,7 +2,7 @@
   "title": "學生作品要放上網前，AI 幫忙檢查哪三件事？",
   "candidate": "season-03-priority-04",
   "slug": "public-before-share-check-20260513",
-  "status": "storyboard package v1 complete",
+  "status": "35s Shorts MP4 + upload kit + public checklist complete",
   "created": "2026-05-13",
   "dimensions": "1080x1920",
   "slides": [
@@ -13,6 +13,41 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "archive": "public-before-share-check-storyboard-kit-20260513.tar.gz",
-  "next_auto_push": "expand this storyboard into a 35s Shorts MP4/upload kit and a student-work public-sharing checklist if YouTube login is still blocked"
+  "archive": "public-before-share-check-upload-kit-20260513.tar.gz",
+  "next_auto_push": "choose the next unmade season-03 storyboard or handout extension, unless YouTube login is ready for upload",
+  "mp4": "public-before-share-check-shorts-35s.mp4",
+  "cover": "cover_public_before_share_check_v1.png",
+  "upload_kit": "youtube-upload-kit.md",
+  "checklist": "student-work-public-checklist-v1.md",
+  "narration": "narration_35s_edge_hsiaoyu.mp3",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
+  ],
+  "qa_sheet": "checks/qa_sheet_mp4.png",
+  "files": [
+    "README.md",
+    "manifest.json",
+    "render_storyboard.py",
+    "build_public_before_share_shorts_package.py",
+    "youtube-upload-kit.md",
+    "student-work-public-checklist-v1.md",
+    "public-before-share-check-shorts-35s.mp4",
+    "cover_public_before_share_check_v1.png",
+    "narration_35s.txt",
+    "narration_35s_edge_hsiaoyu.mp3",
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt",
+    "checks/contact_sheet.png",
+    "checks/qa_sheet_mp4.png",
+    "checks/frame_early.png",
+    "checks/frame_mid.png",
+    "checks/frame_late.png",
+    "slides_35s.ffconcat",
+    "slides/slide_01.png",
+    "slides/slide_02.png",
+    "slides/slide_03.png",
+    "slides/slide_04.png",
+    "slides/slide_05.png"
+  ]
 }
