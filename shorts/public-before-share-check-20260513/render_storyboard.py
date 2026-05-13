@@ -46,7 +46,7 @@ slides = [
  {'n':'02','tag':'第一查','title':'匿名化：\n別讓人猜出學生是誰','body':['檢查姓名、座號、校名、照片、聲音、檔名與雲端權限。','如果作品裡有同學對話或臉部，也要先遮蔽或換成示意資料。'],'chips':['姓名','照片','權限'],'call':'公開前先把身分線索拿掉'},
  {'n':'03','tag':'第二查','title':'授權來源：\n素材不是找到就能用','body':['圖片、音樂、題目、截圖都要問：來源在哪？授權可不可以？能不能改作？','不確定時，改用自製圖、公開授權素材或只放摘要。'],'chips':['來源','授權','替代'],'call':'AI 找到 ≠ 可以公開'},
  {'n':'04','tag':'第三查','title':'AI 標註：\n說清楚誰做了哪一步','body':['可複製句：','「本作品使用 AI 協助整理草稿／檢查錯字，內容與公開責任由教師確認。」'],'chips':['協助','確認','責任'],'call':'標註不是道歉，是交代流程'},
- {'n':'05','tag':'收尾 CTA','title':'老師的公開閘門','body':['公開前三查：匿名化、授權來源、AI 標註。','下一步可擴成 35 秒 Shorts，並延伸成學生作品公開檢查表。'],'chips':['先查','再修','後公開'],'call':'讓作品被看見，也被保護'}
+ {'n':'05','tag':'收尾 CTA','title':'老師的公開閘門','body':['公開前三查：匿名化、授權來源、AI 標註。','本題已完成 35 秒 Shorts、upload kit 與學生作品公開檢查表。'],'chips':['先查','再修','後公開'],'call':'讓作品被看見，也被保護'}
 ]
 
 def draw_slide(s):
@@ -95,7 +95,7 @@ manifest={
  'slides':[str(p.relative_to(PKG)) for p in paths],
  'contact_sheet':'checks/contact_sheet.png',
  'archive':'public-before-share-check-storyboard-kit-20260513.tar.gz',
- 'next_auto_push':'expand this storyboard into a 35s Shorts MP4/upload kit and a student-work public-sharing checklist if YouTube login is still blocked'
+ 'next_auto_push':'choose the next unmade season-03 storyboard or handout extension, unless YouTube login is ready for upload'
 }
 (PKG/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
 readme='''# Shorts storyboard｜學生作品要放上網前，AI 幫忙檢查哪三件事？
@@ -128,7 +128,7 @@ readme='''# Shorts storyboard｜學生作品要放上網前，AI 幫忙檢查哪
 
 ## 下一個自動推進
 
-若 YouTube/Google 登入仍未完成：把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「學生作品公開檢查表」。  
+若 YouTube/Google 登入仍未完成：本題已完成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit 與「學生作品公開檢查表」；下一輪請改挑第三季題庫下一個尚未完成項目。  
 若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批或第三季代表作。
 '''
 (PKG/'README.md').write_text(readme,encoding='utf-8')

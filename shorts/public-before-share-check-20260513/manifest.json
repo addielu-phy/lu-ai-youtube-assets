@@ -54,6 +54,7 @@
     "github_pages_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "github_pages_content_commit": "3061aca",
     "github_pages_cleanup_commit": "cbdc6a2",
-    "verified": "index card + MP4 + cover PNG + README + checklist + archive HTTP 200; browser title/card verified; latest metadata-only sync may have a newer commit"
+    "github_pages_final_metadata_commit": "1aab46e",
+    "verified": "index card + MP4 + cover PNG + README + checklist + archive HTTP 200; browser title/card verified; QA sheet rerendered to remove stale next-step text before final sync"
   }
 }
