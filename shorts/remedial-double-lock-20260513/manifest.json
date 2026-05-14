@@ -2,17 +2,18 @@
   "title": "補救教學題目請 AI 出，但先鎖住哪兩件事？",
   "candidate": "season-03-priority-08",
   "slug": "remedial-double-lock-20260513",
-  "status": "storyboard package v1 complete",
-  "created": "2026-05-13 20:32 CST",
+  "status": "35s Shorts MP4/upload kit/teacher checklist complete",
+  "updated": "2026-05-14 13:20 CST",
   "dimensions": "1080x1920",
-  "slides": [
-    "slides/slide_01.png",
-    "slides/slide_02.png",
-    "slides/slide_03.png",
-    "slides/slide_04.png",
-    "slides/slide_05.png"
+  "mp4": "remedial-double-lock-shorts-35s.mp4",
+  "cover": "cover_remedial_double_lock_v1.png",
+  "subtitles": [
+    "narration_35s_edge_hsiaoyu.vtt",
+    "narration_35s_edge_hsiaoyu.srt"
   ],
-  "contact_sheet": "checks/contact_sheet.png",
-  "archive": "remedial-double-lock-storyboard-kit-20260513.tar.gz",
-  "next_auto_push": "expand this storyboard into a 35s Shorts MP4, cover, subtitles, YouTube upload kit, and one-page remedial double-lock teacher checklist unless YouTube login is ready for upload"
+  "handout": "remedial-double-lock-teacher-checklist-v1.md",
+  "upload_kit": "youtube-upload-kit.md",
+  "qa_sheet": "checks/qa_sheet_mp4.png",
+  "archive": "remedial-double-lock-upload-kit-20260514.tar.gz",
+  "next_auto_push": "choose the next unfinished season-03 storyboard or handout extension unless YouTube login is ready for upload"
 }
