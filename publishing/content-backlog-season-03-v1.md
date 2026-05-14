@@ -67,8 +67,8 @@
 
 8. **優先題 8｜補救教學題目請 AI 出，但先鎖住哪兩件事？**  
    - 理由：承接「先分迷思」與「三鎖變因」，把 AI Agent 從分類結果推進到可退件的補救題設計。
-   - 進度：5 張 Shorts storyboard 圖卡與交接包已完成並發布 GitHub Pages content commit `b1d412e` live 驗證：`../shorts/remedial-double-lock-20260513/README.md`。
-   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；若已登入，優先上傳第一季首批或第三季代表作。
+   - 進度：35 秒 Shorts MP4／封面／字幕／YouTube upload kit／教師檢查表已完成並發布 GitHub Pages content commit `9486d53`、metadata cleanup commit `59a7e6b` live 驗證：`../shorts/remedial-double-lock-20260513/README.md`。
+   - 狀態更新：已完成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；若 YouTube/Google 登入仍未完成，下一步改挑第三季下一個尚未完成 storyboard／講義延伸；若已登入，優先上傳第一季首批或本支第三季 Shorts。
 
 ## 4. 每支內容的共用檢查欄位
 
