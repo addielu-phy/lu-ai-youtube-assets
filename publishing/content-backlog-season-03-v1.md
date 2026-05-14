@@ -1,7 +1,7 @@
 # 第三季內容題庫 v1｜AI 教學日常化 × 物理探究
 
 建立時間：2026-05-12 20:22 巡視自動推進  
-穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證；01:21 已擴成 35 秒 MP4/upload kit，content commit `02e7a09`、cleanup commit `0d86483` 已 live 驗證；02:36 第三季優先題 3 長片 storyboard／45 分鐘流程講義已完成，本機 QA 通過，GitHub Pages content commit `20c9768`、cleanup commit `bc9b555` 已 live 驗證；05:08 已完成 slide-video、upload kit 與正式可分享講義，GitHub Pages commit `5583857` 已 live 驗證；06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages content commit `2d85910`、cleanup commit `1a0b8a7` live 驗證；11:50 第三季優先題 5「圖能用嗎」storyboard package 已完成並同步 Pages commit `4eb8fa9` live 驗證；13:04 已擴成 35 秒 MP4/upload kit 與圖片授權檢查表，GitHub Pages live 驗證通過；14:22 第三季優先題 6 長片 storyboard／公開教材四關流程包已完成並同步 Pages commit `5faff3b` live 驗證；15:38 已擴成 slide-video、長片 upload kit 與正式可分享檢查表，已同步 GitHub Pages content commit `8cdc729` live 驗證；18:09 第三季優先題 7 Shorts storyboard package 已完成，本機 QA 通過並同步 GitHub Pages commit `997c4b4` live 驗證）  
+穩定發布：`https://addielu-phy.github.io/lu-ai-youtube-assets/publishing/content-backlog-season-03-v1.md`（GitHub Pages commit `9655e49` 已驗證；第三季優先題 1 storyboard 於 2026-05-12 21:36 完成，GitHub Pages commit `dbe57b9` 已驗證；22:58 已擴成 MP4/upload kit 並同步 Pages content commit `8fd55e5`、cleanup commit `7d42b86`，已 live 驗證；2026-05-13 00:09 第三季優先題 2 storyboard package 已完成並同步 Pages commit `f0a98d1` live 驗證；01:21 已擴成 35 秒 MP4/upload kit，content commit `02e7a09`、cleanup commit `0d86483` 已 live 驗證；02:36 第三季優先題 3 長片 storyboard／45 分鐘流程講義已完成，本機 QA 通過，GitHub Pages content commit `20c9768`、cleanup commit `bc9b555` 已 live 驗證；05:08 已完成 slide-video、upload kit 與正式可分享講義，GitHub Pages commit `5583857` 已 live 驗證；06:20 第三季優先題 4「公開前三查」Shorts storyboard package 已完成並同步 Pages content commit `2d85910`、cleanup commit `1a0b8a7` live 驗證；11:50 第三季優先題 5「圖能用嗎」storyboard package 已完成並同步 Pages commit `4eb8fa9` live 驗證；13:04 已擴成 35 秒 MP4/upload kit 與圖片授權檢查表，GitHub Pages live 驗證通過；14:22 第三季優先題 6 長片 storyboard／公開教材四關流程包已完成並同步 Pages commit `5faff3b` live 驗證；15:38 已擴成 slide-video、長片 upload kit 與正式可分享檢查表，已同步 GitHub Pages content commit `8cdc729` live 驗證；18:09 第三季優先題 7 Shorts storyboard package 已完成，本機 QA 通過並同步 GitHub Pages commit `997c4b4` live 驗證；2026-05-14 14:41 第三季優先題 9 長片 storyboard 前置包已完成，本機 QA 通過，待同步 GitHub Pages）  
 用途：第二季 12 支候選已大多完成成 Shorts／長片／講義／社群卡後，先備妥下一輪可直接製作的候選池；在 YouTube/Google 登入尚未完成前，讓每小時巡視能繼續推進本機可驗證素材，而不是重複提醒登入卡點。
 
 ## 0. 第三季定位
@@ -68,7 +68,12 @@
 8. **優先題 8｜補救教學題目請 AI 出，但先鎖住哪兩件事？**  
    - 理由：承接「先分迷思」與「三鎖變因」，把 AI Agent 從分類結果推進到可退件的補救題設計。
    - 進度：35 秒 Shorts MP4／封面／字幕／YouTube upload kit／教師檢查表已完成並發布 GitHub Pages content commit `9486d53`、metadata cleanup commit `59a7e6b` live 驗證：`../shorts/remedial-double-lock-20260513/README.md`。
-   - 狀態更新：已完成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；若 YouTube/Google 登入仍未完成，下一步改挑第三季下一個尚未完成 storyboard／講義延伸；若已登入，優先上傳第一季首批或本支第三季 Shorts。
+   - 狀態更新：已完成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；第 9 題長片 storyboard 已接續完成。
+
+9. **優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？**  
+   - 理由：承接「AI 回饋審稿」與「三色筆審稿」，把課後回饋做成可退件、可審稿、可再利用的 AI Agent 工作流。
+   - 進度：長片 storyboard 前置包已完成：`../longform/ai-agent-feedback-workflow-20260514/README.md`。
+   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 4–6 分鐘旁白、SRT/VTT、slide-video 草稿、長片 upload kit，並延伸正式可分享的「課後回饋包審稿表」；若已登入，優先上傳第一季首批或第三季代表作。
 
 ## 4. 每支內容的共用檢查欄位
 
@@ -85,4 +90,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 8 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「補救雙鎖」教師檢查表；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
+若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 9 長片 storyboard 擴成 4–6 分鐘旁白、SRT/VTT、slide-video 草稿、長片 upload kit，並延伸正式可分享的「課後回饋包審稿表」；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
