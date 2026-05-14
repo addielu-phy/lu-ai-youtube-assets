@@ -21,5 +21,10 @@
   "student_worksheet": "known-unknown-boundary-map-student-worksheet-v1.md",
   "verified": {
     "local": "ffprobe/PIL/QA sheet/tarfile verified in 2026-05-15 scheduled run"
+  },
+  "published": {
+    "stable_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "content_commit": "14d24e5",
+    "verified": "index card plus MP4/cover/upload kit/student worksheet live HTTP 200 on GitHub Pages"
   }
 }

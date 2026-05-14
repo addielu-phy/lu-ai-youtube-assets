@@ -22,6 +22,8 @@
 - 圖卡與封面：PIL 驗證 1080×1920 RGB。
 - QA sheet：`checks/qa_cover_frames_sheet.png`。
 - 交接包：Python tarfile 已讀回確認包含 MP4、封面、字幕、upload kit、學生學習單、圖卡與 QA sheet。
+- GitHub Pages：content commit `14d24e5` 已 live 驗證 index／MP4／封面／upload kit／學生學習單皆 HTTP 200；手機索引卡片與 console 已驗證。
+- 穩定索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`。
 
 ## 下一個自動推進
 若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成的 Shorts storyboard／講義延伸；若已登入，優先上傳第一季首批或本支第三季 Shorts。
