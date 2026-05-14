@@ -72,8 +72,13 @@
 
 9. **優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？**  
    - 理由：承接「AI 回饋審稿」與「三色筆審稿」，把課後回饋做成可退件、可審稿、可再利用的 AI Agent 工作流。
-   - 進度：長片 storyboard 前置包已完成並同步 GitHub Pages content commit `46bb9ce` live 驗證：`../longform/ai-agent-feedback-workflow-20260514/README.md`。
-   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 4–6 分鐘旁白、SRT/VTT、slide-video 草稿、長片 upload kit，並延伸正式可分享的「課後回饋包審稿表」；若已登入，優先上傳第一季首批或第三季代表作。
+   - 進度：4 分 13 秒長片 slide-video、長片 upload kit、正式可分享「課後回饋包審稿表」與 1080×1920 社群宣傳卡已完成：`../longform/ai-agent-feedback-workflow-20260514/README.md`。
+   - 下一步：已接續優先題 10 storyboard；若已登入，優先上傳第一季首批或第三季代表作。
+
+10. **優先題 10｜學生問 AI 之前，先畫一張「我知道／我不知道」圖**  
+   - 理由：承接「邊界條件」與「預測句」，把學生提問 AI 前的責任拆成可視化 T-chart。
+   - 進度：5 張 Shorts storyboard、README、manifest、contact sheet 與交接壓縮包已完成：`../shorts/known-unknown-boundary-map-20260514/README.md`。
+   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「我知道／我不知道」邊界圖學生學習單。
 
 ## 4. 每支內容的共用檢查欄位
 
@@ -90,4 +95,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 9 長片 storyboard 擴成 4–6 分鐘旁白、SRT/VTT、slide-video 草稿、長片 upload kit，並延伸正式可分享的「課後回饋包審稿表」；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
+若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 10 storyboard 擴成 35 秒 Shorts MP4、封面、VTT/SRT、YouTube upload kit，並延伸一頁「我知道／我不知道」邊界圖學生學習單；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
