@@ -1,7 +1,7 @@
 {
   "title": "學生問 AI 之前，先畫一張「我知道／我不知道」圖",
   "candidate": "season-03-priority-10",
-  "status": "storyboard package v1 complete",
+  "status": "35s Shorts MP4/upload kit complete",
   "created": "2026-05-14",
   "dimensions": "1080x1920",
   "slides": [
@@ -12,6 +12,14 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "archive": "known-unknown-boundary-map-storyboard-kit-20260514.tar.gz",
-  "next_auto_push": "expand this storyboard into 35s Shorts MP4, cover, subtitles, YouTube upload kit, and one-page known/unknown boundary-map student worksheet unless YouTube login is ready for upload"
+  "archive": "known-unknown-boundary-map-upload-kit-20260515.tar.gz",
+  "next_auto_push": "choose the next unfinished season-03 candidate for storyboard/handout extension unless YouTube login is ready for upload",
+  "updated": "2026-05-15",
+  "video": "known-unknown-boundary-map-shorts-35s.mp4",
+  "cover": "cover_known_unknown_boundary_map_v1.png",
+  "upload_kit": "youtube-upload-kit.md",
+  "student_worksheet": "known-unknown-boundary-map-student-worksheet-v1.md",
+  "verified": {
+    "local": "ffprobe/PIL/QA sheet/tarfile verified in 2026-05-15 scheduled run"
+  }
 }

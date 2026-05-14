@@ -77,8 +77,8 @@
 
 10. **優先題 10｜學生問 AI 之前，先畫一張「我知道／我不知道」圖**  
    - 理由：承接「邊界條件」與「預測句」，把學生提問 AI 前的責任拆成可視化 T-chart。
-   - 進度：5 張 Shorts storyboard、README、manifest、contact sheet 與交接壓縮包已完成：`../shorts/known-unknown-boundary-map-20260514/README.md`。
-   - 下一步：若 YouTube/Google 登入仍未完成，把本 storyboard 擴成 35 秒 Shorts MP4／封面／字幕／YouTube upload kit，並延伸一頁「我知道／我不知道」邊界圖學生學習單。
+   - 進度：35 秒 Shorts MP4、封面、VTT/SRT、YouTube upload kit 與「我知道／我不知道」邊界圖學生學習單已完成：`../shorts/known-unknown-boundary-map-20260514/README.md`。
+   - 下一步：若 YouTube/Google 登入仍未完成，改推優先題 11「AI 生成的課堂摘要，老師要刪掉哪一種句子？」storyboard／講義延伸。
 
 ## 4. 每支內容的共用檢查欄位
 
@@ -95,4 +95,4 @@
 
 ## 6. 下一個可自動推進項目
 
-若 YouTube/Google 登入仍未完成，下一輪把第三季優先題 10 storyboard 擴成 35 秒 Shorts MP4、封面、VTT/SRT、YouTube upload kit，並延伸一頁「我知道／我不知道」邊界圖學生學習單；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
+若 YouTube/Google 登入仍未完成，下一輪改推第三季優先題 11「AI 生成的課堂摘要，老師要刪掉哪一種句子？」storyboard／講義延伸；若使用者已完成登入，改優先上傳第一季首批 Shorts 或第三季代表作。
