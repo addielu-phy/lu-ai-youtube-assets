@@ -1,7 +1,7 @@
 {
   "title": "第三季優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？",
   "slug": "ai-agent-feedback-workflow-20260514",
-  "status": "slide_video_upload_kit_and_shareable_handout_complete",
+  "status": "slide_video_upload_kit_shareable_handout_and_social_card_complete",
   "created_at": "2026-05-14 hourly radar",
   "format": "longform_storyboard_1920x1080",
   "assets": [
@@ -14,9 +14,11 @@
   "checks": [
     "checks/contact_sheet.png"
   ],
-  "next_auto_push": "If YouTube/Google login is still incomplete, choose next unfinished season 3 candidate or derivative card; if login is complete, upload first batch or season 3 representative piece.",
+  "next_auto_push": "If YouTube/Google login is still incomplete, choose the next unfinished season 3 candidate (recommended: priority 10 Shorts storyboard/handout extension); if login is complete, upload first batch or season 3 representative piece.",
   "slide_video": "slide_video_draft_v1/ai-agent-feedback-workflow-slide-video-draft-v1.mp4",
   "upload_kit": "slide_video_draft_v1/youtube-upload-kit-longform-v1.md",
   "shareable_handout": "slide_video_draft_v1/feedback-package-review-shareable-handout-v1.md",
-  "slide_video_archive": "slide_video_draft_v1/ai-agent-feedback-workflow-longform-upload-kit-v1-20260514.tar.gz"
+  "slide_video_archive": "slide_video_draft_v1/ai-agent-feedback-workflow-longform-upload-kit-v1-20260514.tar.gz",
+  "social_card": "social-assets/ai-agent-feedback-workflow-social-card-v1.png",
+  "social_card_manifest": "social-assets/ai-agent-feedback-workflow-social-card-v1.manifest.json"
 }

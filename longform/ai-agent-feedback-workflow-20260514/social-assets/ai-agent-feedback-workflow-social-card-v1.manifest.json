@@ -1,0 +1,19 @@
+{
+  "asset": "social-assets/ai-agent-feedback-workflow-social-card-v1.png",
+  "render_script": "social-assets/render_feedback_social_card_v1.py",
+  "size": [
+    1080,
+    1920
+  ],
+  "mode": "RGB",
+  "source_handout": "slide_video_draft_v1/feedback-package-review-shareable-handout-v1.md",
+  "purpose": "vertical Shorts/community card derived from the shareable handout",
+  "text": [
+    "回饋可以加速",
+    "責任不能外包",
+    "匿名輸入",
+    "AI 草稿",
+    "3 色筆審稿",
+    "下節課再用"
+  ]
+}

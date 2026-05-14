@@ -130,11 +130,11 @@ def write_docs(vtotal):
     verification={}
     for p in SLIDES+sorted((OUT/'check_frames').glob('frame_*.png'))+[OUT/'checks/contact_sheet_slide_video_v1.png']:
         im=Image.open(p); verification[str(p.relative_to(BASE))]={'size':list(im.size),'mode':im.mode}
-    manifest={'title':TITLE,'slug':SLUG,'format':'longform slide-video draft v1','status':'slide_video_upload_kit_and_shareable_handout_complete','video':str(MP4.relative_to(BASE)),'audio':str(AUDIO.relative_to(BASE)),'narration_text':'slide_video_draft_v1/narration_zh_tw.txt','subtitles':['slide_video_draft_v1/narration_edge_hsiaoyu.vtt','slide_video_draft_v1/narration_edge_hsiaoyu.srt'],'upload_kit':'slide_video_draft_v1/youtube-upload-kit-longform-v1.md','shareable_handout':str(HANDOUT.relative_to(BASE)),'contact_sheet':'slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png','archive':str(ARCHIVE.relative_to(BASE)),'duration_seconds':round(vtotal,3),'verification':verification,'next_auto_push':'If YouTube/Google login is still incomplete, choose the next unfinished season 3 candidate or create a derivative Shorts/community card from this handout; if login is complete, upload the first batch or a season 3 representative piece.'}
+    manifest={'title':TITLE,'slug':SLUG,'format':'longform slide-video draft v1','status':'slide_video_upload_kit_shareable_handout_and_social_card_complete','video':str(MP4.relative_to(BASE)),'audio':str(AUDIO.relative_to(BASE)),'narration_text':'slide_video_draft_v1/narration_zh_tw.txt','subtitles':['slide_video_draft_v1/narration_edge_hsiaoyu.vtt','slide_video_draft_v1/narration_edge_hsiaoyu.srt'],'upload_kit':'slide_video_draft_v1/youtube-upload-kit-longform-v1.md','shareable_handout':str(HANDOUT.relative_to(BASE)),'contact_sheet':'slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png','archive':str(ARCHIVE.relative_to(BASE)),'duration_seconds':round(vtotal,3),'verification':verification,'next_auto_push':'If YouTube/Google login is still incomplete, choose the next unfinished season 3 candidate (recommended: priority 10 Shorts storyboard/handout extension); if login is complete, upload the first batch or a season 3 representative piece.'}
     (OUT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2),encoding='utf-8')
     (OUT/'README.md').write_text(f'''# AI Agent 課後回饋包｜slide-video draft v1
 
-狀態：已由 5 張 storyboard 擴成長片本機草稿，並完成 zh-TW 旁白、VTT/SRT 字幕、抽幀 QA、YouTube upload kit、正式可分享／Google Docs-ready 講義與交接壓縮包。
+狀態：已由 5 張 storyboard 擴成長片本機草稿，並完成 zh-TW 旁白、VTT/SRT 字幕、抽幀 QA、YouTube upload kit、正式可分享／Google Docs-ready 講義、1080×1920 社群宣傳卡與交接壓縮包。
 
 ## 檔案
 - 影片：`slide_video_draft_v1/{MP4.name}`
@@ -145,19 +145,20 @@ def write_docs(vtotal):
 - 長片 upload kit：`slide_video_draft_v1/youtube-upload-kit-longform-v1.md`
 - 正式講義：`slide_video_draft_v1/feedback-package-review-shareable-handout-v1.md`
 - 交接壓縮包：`slide_video_draft_v1/{ARCHIVE.name}`
+- 社群宣傳卡：`../social-assets/ai-agent-feedback-workflow-social-card-v1.png`
 
 ## 驗證
 - ffprobe：{vtotal:.3f} 秒，1920×1080，H.264 + AAC。
 - PIL：原始 storyboard、抽幀與 QA contact sheet 尺寸／模式已寫入 manifest。
-- 正式講義已讀回產生，壓縮包用 Python tarfile 可讀回列出內容。
+- 正式講義已讀回產生，社群宣傳卡 PIL/視覺 QA 通過（1080×1920 RGB、繁中可讀、無 tofu／裁切／重疊／過度擁擠），壓縮包用 Python tarfile 可讀回列出內容。
 
 ## 下一個可自動推進項目
-若 YouTube/Google 登入仍未完成，從第三季題庫挑選下一個尚未完成候選，或把本講義延伸成 Shorts／社群卡；若已完成登入，優先上傳第一季首批或第三季代表作。
+若 YouTube/Google 登入仍未完成，從第三季題庫挑選下一個尚未完成候選（建議第三季優先題 10 Shorts storyboard／講義延伸）；若已完成登入，優先上傳第一季首批或第三季代表作。
 ''',encoding='utf-8')
     parent=BASE/'README.md'
     parent.write_text(f'''# 第三季優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？
 
-狀態：長片 slide-video 草稿 v1、YouTube upload kit、正式可分享講義與交接包已完成（2026-05-14 巡視自動推進）。
+狀態：長片 slide-video 草稿 v1、YouTube upload kit、正式可分享講義、1080×1920 社群宣傳卡與交接包已完成（2026-05-14 巡視自動推進）。
 
 ## 製作定位
 - 格式：5–7 分鐘長片候選，已由 5 張 16:9 storyboard 擴成 slide-video 草稿。
@@ -173,6 +174,7 @@ def write_docs(vtotal):
 - 正式講義：`slide_video_draft_v1/feedback-package-review-shareable-handout-v1.md`
 - QA contact sheet：`slide_video_draft_v1/checks/contact_sheet_slide_video_v1.png`
 - 交接包：`slide_video_draft_v1/{ARCHIVE.name}`
+- 社群宣傳卡：`social-assets/ai-agent-feedback-workflow-social-card-v1.png`
 
 ## 5 張 storyboard
 1. Hook：AI 不是代寫評語，而是進入審稿線。
@@ -185,13 +187,13 @@ def write_docs(vtotal):
 - ffprobe：{vtotal:.3f} 秒，1920×1080，H.264 + AAC。
 - PIL：5 張原始 storyboard、5 張抽幀與 QA contact sheet 尺寸／模式已寫入 manifest。
 - 正式講義：已產生 `feedback-package-review-shareable-handout-v1.md`。
-- 壓縮包：Python tarfile 可讀回列出內容。
+- 壓縮包：Python tarfile 可讀回列出內容；社群宣傳卡 PIL/視覺 QA 通過（1080×1920 RGB、繁中可讀、無 tofu／裁切／重疊／過度擁擠）。
 
 ## 下一個可自動推進項目
-若 YouTube/Google 登入仍未完成，從第三季題庫挑選下一個尚未完成候選，或把本講義延伸成 Shorts／社群卡；若已完成登入，優先上傳第一季首批或第三季代表作。
+若 YouTube/Google 登入仍未完成，從第三季題庫挑選下一個尚未完成候選（建議第三季優先題 10 Shorts storyboard／講義延伸）；若已完成登入，優先上傳第一季首批或第三季代表作。
 ''',encoding='utf-8')
     pmanifest=json.loads((BASE/'manifest.json').read_text(encoding='utf-8'))
-    pmanifest.update({'status':'slide_video_upload_kit_and_shareable_handout_complete','slide_video':'slide_video_draft_v1/'+MP4.name,'upload_kit':'slide_video_draft_v1/youtube-upload-kit-longform-v1.md','shareable_handout':'slide_video_draft_v1/feedback-package-review-shareable-handout-v1.md','slide_video_archive':'slide_video_draft_v1/'+ARCHIVE.name,'next_auto_push':'If YouTube/Google login is still incomplete, choose next unfinished season 3 candidate or derivative card; if login is complete, upload first batch or season 3 representative piece.'})
+    pmanifest.update({'status':'slide_video_upload_kit_shareable_handout_and_social_card_complete','slide_video':'slide_video_draft_v1/'+MP4.name,'upload_kit':'slide_video_draft_v1/youtube-upload-kit-longform-v1.md','shareable_handout':'slide_video_draft_v1/feedback-package-review-shareable-handout-v1.md','slide_video_archive':'slide_video_draft_v1/'+ARCHIVE.name,'social_card':'social-assets/ai-agent-feedback-workflow-social-card-v1.png','social_card_manifest':'social-assets/ai-agent-feedback-workflow-social-card-v1.manifest.json','next_auto_push':'If YouTube/Google login is still incomplete, choose the next unfinished season 3 candidate (recommended: priority 10 Shorts storyboard/handout extension); if login is complete, upload first batch or season 3 representative piece.'})
     (BASE/'manifest.json').write_text(json.dumps(pmanifest,ensure_ascii=False,indent=2),encoding='utf-8')
 def make_archive():
     members=[BASE/'README.md',BASE/'manifest.json',OUT/'README.md',OUT/'manifest.json',OUT/'build_slide_video_draft.py',OUT/'narration_zh_tw.txt',AUDIO,OUT/'narration_edge_hsiaoyu.vtt',OUT/'narration_edge_hsiaoyu.srt',OUT/'slides.ffconcat',MP4,OUT/'checks/contact_sheet_slide_video_v1.png',OUT/'youtube-upload-kit-longform-v1.md',HANDOUT,BASE/'ai-agent-feedback-workflow-storyboard-20260514.tar.gz']+SLIDES+sorted((OUT/'check_frames').glob('frame_*.png'))

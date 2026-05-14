@@ -29,3 +29,9 @@
 ## 人工上傳前仍需確認
 - YouTube/Google 登入與頻道權限。
 - 若納入真實學生作品、課堂照片或批改資料，需先完成匿名化與授權確認。
+
+
+## Shorts／社群宣傳卡
+- 圖檔：`../social-assets/ai-agent-feedback-workflow-social-card-v1.png`
+- 建議貼文主文：回饋可以加速，但責任不能外包。用 AI Agent 做課後回饋時，先匿名輸入、再產 AI 草稿，最後由老師用 3 色筆審稿。
+- 圖上主訊息：回饋可以加速／責任不能外包。
