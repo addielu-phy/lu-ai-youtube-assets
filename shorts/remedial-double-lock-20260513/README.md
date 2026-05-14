@@ -20,6 +20,7 @@
 - 壓縮包：已用 Python tarfile 讀回確認包含主檔、封面、旁白、字幕、README、manifest、upload kit、教師檢查表、slides、QA sheet 與腳本。
 
 ## GitHub Pages 穩定連結
+- 發布狀態：已同步並 live 驗證 content commit `9486d53`。
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本包 README：同步後位於 `https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/remedial-double-lock-20260513/README.md`
 - MP4：同步後位於 `https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/remedial-double-lock-20260513/remedial-double-lock-shorts-35s.mp4`

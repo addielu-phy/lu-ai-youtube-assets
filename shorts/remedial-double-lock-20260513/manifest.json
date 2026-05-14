@@ -15,5 +15,11 @@
   "upload_kit": "youtube-upload-kit.md",
   "qa_sheet": "checks/qa_sheet_mp4.png",
   "archive": "remedial-double-lock-upload-kit-20260514.tar.gz",
-  "next_auto_push": "choose the next unfinished season-03 storyboard or handout extension unless YouTube login is ready for upload"
+  "next_auto_push": "choose the next unfinished season-03 storyboard or handout extension unless YouTube login is ready for upload",
+  "github_pages": {
+    "status": "live verified",
+    "content_commit": "9486d53",
+    "index_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
+    "mp4_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/remedial-double-lock-20260513/remedial-double-lock-shorts-35s.mp4"
+  }
 }
