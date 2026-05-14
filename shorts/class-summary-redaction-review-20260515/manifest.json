@@ -1,7 +1,7 @@
 {
   "title": "AI 生成的課堂摘要，老師要刪掉哪一種句子？",
   "candidate": "season-03-priority-11",
-  "status": "storyboard package v1 plus teacher checklist complete",
+  "status": "35s Shorts MP4/upload kit complete",
   "created": "2026-05-15",
   "dimensions": "1080x1920",
   "slides": [
@@ -13,6 +13,13 @@
   ],
   "contact_sheet": "checks/contact_sheet.png",
   "teacher_checklist": "summary-redaction-teacher-checklist-v1.md",
-  "archive": "class-summary-redaction-review-storyboard-kit-20260515.tar.gz",
-  "next_auto_push": "expand this storyboard into 35s Shorts MP4, cover, subtitles, YouTube upload kit, and include the summary redaction teacher checklist unless YouTube login is ready for upload"
+  "archive": "class-summary-redaction-review-upload-kit-20260515.tar.gz",
+  "next_auto_push": "choose the next unfinished season-03 candidate for storyboard/handout extension unless YouTube login is ready for upload",
+  "updated": "2026-05-15",
+  "video": "class-summary-redaction-review-shorts-35s.mp4",
+  "cover": "cover_class_summary_redaction_review_v1.png",
+  "upload_kit": "youtube-upload-kit.md",
+  "verified": {
+    "local": "ffprobe/PIL/QA sheet/tarfile verified in 2026-05-15 scheduled run"
+  }
 }
