@@ -8,14 +8,13 @@
 - 最近已完成 Lu 升級且已上 Pages 的代表作：`shorts/class-summary-redaction-review-20260515/` v2。
 
 ## 建議下一支優先改聲音
-1. `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
-   - 原因：最新、仍標示非 Lu voice；適合接在「摘要先審」v2 後面一部一部處理。
-   - 可能主檔：`parent-message-draft-only-shorts-35s.mp4`
-   - 下一步：用既有 F5-TTS chunked workflow 產生 `*-lu-f5tts-v1.mp4`，更新 README/manifest/mobile-index，穩定同步 GitHub Pages 後再回報。
+1. ✅ `shorts/parent-message-draft-only-20260515/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4`。
+2. 下一支建議：`shorts/known-unknown-boundary-map-20260514/`｜學生問 AI 之前，先畫一張「我知道／我不知道」圖。
 
 ## 待處理候選（前 15 個，最近優先）
-1. `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
-   - MP4：`parent-message-draft-only-shorts-35s.mp4`
+1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
+   - 已完成 Lu 升級：`parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4`
+   - 原 MP4：`parent-message-draft-only-shorts-35s.mp4`
 2. `shorts/known-unknown-boundary-map-20260514/`｜Shorts package｜學生問 AI 之前，先畫一張「我知道／我不知道」圖
    - MP4：`known-unknown-boundary-map-shorts-35s.mp4`
 3. `longform/ai-agent-feedback-workflow-20260514/`｜第三季優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？
