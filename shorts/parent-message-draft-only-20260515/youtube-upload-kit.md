@@ -26,3 +26,9 @@ AI 家長訊息｜第一版只准當草稿
 - 封面：`cover_parent_message_draft_only_v1.png`
 - 字幕：`narration_35s_yunjhe.vtt`
 - 教師審稿表：`parent-message-review-checklist-v1.md`
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4`
+- 原始男聲草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- QA：`checks/qa_lu_f5v1_sheet.png`，已檢查繁中可讀、無 tofu／裁切／重大重疊。
+

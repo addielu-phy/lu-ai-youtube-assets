@@ -1,7 +1,7 @@
 {
   "title": "讓 AI 幫忙寫家長訊息，第一版只准當草稿",
   "candidate": "season-03-priority-12",
-  "status": "35s Shorts MP4, cover, subtitles, upload kit, and teacher checklist complete",
+  "status": "35s Shorts MP4/upload kit complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-15",
   "dimensions": "1080x1920",
   "slides": [
@@ -14,12 +14,25 @@
   "contact_sheet": "checks/contact_sheet.png",
   "teacher_checklist": "parent-message-review-checklist-v1.md",
   "archive": "parent-message-draft-only-upload-kit-20260515.tar.gz",
-  "next_auto_push": "choose the next unfinished season backlog candidate or publish/upload after human YouTube login; do not rebuild this package",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "voice": "zh-TW-YunJheNeural male scratch TTS, pending user voice clone samples",
   "mp4": "parent-message-draft-only-shorts-35s.mp4",
   "cover": "cover_parent_message_draft_only_v1.png",
   "narration": "narration_35s.txt",
   "audio": "narration_35s_yunjhe.mp3",
   "subtitles_vtt": "narration_35s_yunjhe.vtt",
-  "upload_kit": "youtube-upload-kit.md"
+  "upload_kit": "youtube-upload-kit.md",
+  "mp4_lu_voice": "parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW-YunJheNeural male scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4",
+  "qa_lu_voice": "checks/qa_lu_f5v1_sheet.png",
+  "verified": {
+    "local": "ffprobe/PIL/volumedetect/tarfile/vision QA verified in 2026-05-16 scheduled run"
+  }
 }
