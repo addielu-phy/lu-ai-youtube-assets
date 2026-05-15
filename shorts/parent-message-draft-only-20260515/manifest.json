@@ -1,7 +1,7 @@
 {
   "title": "讓 AI 幫忙寫家長訊息，第一版只准當草稿",
   "candidate": "season-03-priority-12",
-  "status": "storyboard package v1 plus teacher review checklist complete",
+  "status": "35s Shorts MP4, cover, subtitles, upload kit, and teacher checklist complete",
   "created": "2026-05-15",
   "dimensions": "1080x1920",
   "slides": [
@@ -13,6 +13,13 @@
   ],
   "contact_sheet": "checks/contact_sheet.png",
   "teacher_checklist": "parent-message-review-checklist-v1.md",
-  "archive": "parent-message-draft-only-storyboard-kit-20260515.tar.gz",
-  "next_auto_push": "expand this storyboard into 35s Shorts MP4, cover, subtitles, YouTube upload kit, and include the parent-message review checklist unless YouTube login is ready for upload"
+  "archive": "parent-message-draft-only-upload-kit-20260515.tar.gz",
+  "next_auto_push": "choose the next unfinished season backlog candidate or publish/upload after human YouTube login; do not rebuild this package",
+  "voice": "zh-TW-YunJheNeural male scratch TTS, pending user voice clone samples",
+  "mp4": "parent-message-draft-only-shorts-35s.mp4",
+  "cover": "cover_parent_message_draft_only_v1.png",
+  "narration": "narration_35s.txt",
+  "audio": "narration_35s_yunjhe.mp3",
+  "subtitles_vtt": "narration_35s_yunjhe.vtt",
+  "upload_kit": "youtube-upload-kit.md"
 }
