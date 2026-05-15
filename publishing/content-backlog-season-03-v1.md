@@ -87,7 +87,7 @@
 
 12. **優先題 12｜讓 AI 幫忙寫家長訊息，第一版只准當草稿**  
    - 理由：承接「AI 回饋審稿」與「可退件草稿」，把家長溝通也放進事實、語氣、隱私三關審稿。
-   - 進度：35 秒 Shorts MP4、封面、VTT、YouTube upload kit 與家長訊息三關教師審稿表已完成：`../shorts/parent-message-draft-only-20260515/README.md`。本版先改用 zh-TW YunJhe 男聲草稿旁白，避免沿用女聲 TTS；使用者本人聲音仍待 voice-clone 樣本/工具。
+   - 進度：35 秒 Shorts MP4、封面、VTT、YouTube upload kit 與家長訊息三關教師審稿表已完成：`../shorts/parent-message-draft-only-20260515/README.md`。本版先改用 zh-TW YunJhe 男聲草稿旁白，避免沿用女聲 TTS；使用者本人聲音仍待 voice-clone 樣本/工具。GitHub Pages commit `ec86565` 已 live 驗證。
    - 下一步：若 YouTube/Google 登入仍未完成，改挑下一個尚未完成候選或做頻道素材聲音替換盤點；若已登入，優先上傳第一季首批或第三季代表作。
 
 ## 4. 每支內容的共用檢查欄位
