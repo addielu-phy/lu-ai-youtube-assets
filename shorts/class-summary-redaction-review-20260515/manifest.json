@@ -1,7 +1,7 @@
 {
   "title": "AI 生成的課堂摘要，老師要刪掉哪一種句子？",
   "candidate": "season-03-priority-11",
-  "status": "35s Shorts MP4/upload kit complete",
+  "status": "35s Shorts MP4/upload kit complete; Lu Teacher F5-TTS v2 voice upgrade ready",
   "created": "2026-05-15",
   "dimensions": "1080x1920",
   "slides": [
@@ -14,12 +14,21 @@
   "contact_sheet": "checks/contact_sheet.png",
   "teacher_checklist": "summary-redaction-teacher-checklist-v1.md",
   "archive": "class-summary-redaction-review-upload-kit-20260515.tar.gz",
-  "next_auto_push": "choose the next unfinished season-03 candidate for storyboard/handout extension unless YouTube login is ready for upload",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for older HsiaoYu packages",
   "updated": "2026-05-15",
   "video": "class-summary-redaction-review-shorts-35s.mp4",
   "cover": "cover_class_summary_redaction_review_v1.png",
   "upload_kit": "youtube-upload-kit.md",
   "verified": {
     "local": "ffprobe/PIL/QA sheet/tarfile verified in 2026-05-15 scheduled run"
-  }
+  },
+  "mp4_lu_voice": "class-summary-redaction-review-shorts-35s-lu-f5tts-v2.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v2",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v2.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v2.vtt",
+    "narration_35s_lu_f5tts_v2.srt"
+  ],
+  "voice_upgrade_note": "Original package used Edge zh-TW-HsiaoYuNeural; v2 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "class-summary-redaction-review-shorts-35s-lu-f5tts-v2.mp4"
 }

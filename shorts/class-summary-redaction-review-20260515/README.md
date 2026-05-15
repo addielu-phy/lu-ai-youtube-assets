@@ -25,3 +25,21 @@
 
 ## 下一個自動推進
 若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成的 Shorts storyboard／講義延伸；若已登入，優先上傳第一季首批或本支第三季 Shorts。
+
+
+## 音訊升級 v1（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 Edge HsiaoYu 女聲旁白；本版改用盧老師 F5-TTS voice clone。
+- 升級版 MP4：`class-summary-redaction-review-shorts-35s-lu-f5tts-v1.mp4`
+- 升級版旁白：`narration_35s_lu_f5tts_v1.mp3` / `narration_35s_lu_f5tts_v1.wav`
+- 升級版字幕：`narration_35s_lu_f5tts_v1.vtt` / `narration_35s_lu_f5tts_v1.srt`
+- 音訊處理：F5-TTS chunked generation、0.22 秒短停頓、loudnorm I=-16、AAC 192k、35 秒完整輸出。
+
+
+## 音訊升級 v2（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 Edge HsiaoYu 女聲旁白；本版改用盧老師 F5-TTS voice clone。
+- 升級版 MP4：`class-summary-redaction-review-shorts-35s-lu-f5tts-v2.mp4`
+- 升級版旁白：`narration_35s_lu_f5tts_v2.mp3` / `narration_35s_lu_f5tts_v2.wav`
+- 升級版字幕：`narration_35s_lu_f5tts_v2.vtt` / `narration_35s_lu_f5tts_v2.srt`
+- 音訊處理：F5-TTS chunked generation、0.22 秒短停頓、loudnorm I=-16、AAC 192k、35 秒完整輸出。
