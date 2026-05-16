@@ -64,5 +64,8 @@
   "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
   "recommended_video": "image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4",
   "archive_lu_voice": "image-license-check-before-slide-lu-f5tts-v1-kit-20260517.tar.gz",
-  "next_queue_item": "shorts/public-before-share-check-20260513/"
+  "next_queue_item": "shorts/public-before-share-check-20260513/",
+  "lu_voice_github_pages_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/image-license-check-before-slide-20260513/image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4",
+  "lu_voice_content_commit": "6ebdbec",
+  "lu_voice_verified_at": "2026-05-17 07:16 CST live verified"
 }

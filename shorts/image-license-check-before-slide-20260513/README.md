@@ -49,4 +49,6 @@
 - 升級版字幕：`narration_35s_lu_f5tts_v1.vtt` / `narration_35s_lu_f5tts_v1.srt`
 - QA sheet：`checks/qa_lu_f5v1_sheet.png`
 - 音訊處理：F5-TTS chunked generation、0.22 秒短停頓、loudnorm I=-16、AAC 192k、35 秒完整輸出。
+- Lu voice 穩定連結：`https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/image-license-check-before-slide-20260513/image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`
+- Lu voice GitHub Pages content commit：`6ebdbec`（已 live 驗證 index／MP4／QA／upload kit／queue／交接包）。
 
