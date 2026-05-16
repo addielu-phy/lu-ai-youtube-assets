@@ -1,7 +1,7 @@
 {
   "title": "學生問 AI 之前，先畫一張「我知道／我不知道」圖",
   "candidate": "season-03-priority-10",
-  "status": "35s Shorts MP4/upload kit complete",
+  "status": "35s Shorts MP4/upload kit complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-14",
   "dimensions": "1080x1920",
   "slides": [
@@ -13,7 +13,7 @@
   ],
   "contact_sheet": "checks/contact_sheet.png",
   "archive": "known-unknown-boundary-map-upload-kit-20260515.tar.gz",
-  "next_auto_push": "choose the next unfinished season-03 candidate for storyboard/handout extension unless YouTube login is ready for upload",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "updated": "2026-05-15",
   "video": "known-unknown-boundary-map-shorts-35s.mp4",
   "cover": "cover_known_unknown_boundary_map_v1.png",
@@ -26,5 +26,14 @@
     "stable_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "content_commit": "14d24e5",
     "verified": "index card plus MP4/cover/upload kit/student worksheet live HTTP 200 on GitHub Pages"
-  }
+  },
+  "mp4_lu_voice": "known-unknown-boundary-map-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "known-unknown-boundary-map-shorts-35s-lu-f5tts-v1.mp4"
 }
