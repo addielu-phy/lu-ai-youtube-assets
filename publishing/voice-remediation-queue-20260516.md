@@ -10,7 +10,8 @@
 ## 建議下一支優先改聲音
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4`。
 2. ✅ `shorts/known-unknown-boundary-map-20260514/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`known-unknown-boundary-map-shorts-35s-lu-f5tts-v1.mp4`。
-3. 下一支建議：`longform/ai-agent-feedback-workflow-20260514/`｜一個 AI Agent 怎麼幫老師做課後回饋包？
+3. ✅ `longform/ai-agent-feedback-workflow-20260514/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4`。
+4. 下一支建議：`shorts/remedial-double-lock-20260513/`｜補救教學題目請 AI 出，但先鎖住哪兩件事？
 
 ## 待處理候選（前 15 個，最近優先）
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
@@ -19,8 +20,9 @@
 2. ✅ `shorts/known-unknown-boundary-map-20260514/`｜Shorts package｜學生問 AI 之前，先畫一張「我知道／我不知道」圖
    - 已完成 Lu 升級：`known-unknown-boundary-map-shorts-35s-lu-f5tts-v1.mp4`
    - 原 MP4：`known-unknown-boundary-map-shorts-35s.mp4`
-3. `longform/ai-agent-feedback-workflow-20260514/`｜第三季優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？
-   - MP4：`ai-agent-feedback-workflow-slide-video-draft-v1.mp4`
+3. ✅ `longform/ai-agent-feedback-workflow-20260514/`｜第三季優先題 9｜一個 AI Agent 怎麼幫老師做課後回饋包？
+   - 已完成 Lu 升級：`ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4`
+   - 原 MP4：`ai-agent-feedback-workflow-slide-video-draft-v1.mp4`
 4. `shorts/remedial-double-lock-20260513/`｜Shorts｜補救教學題目請 AI 出，但先鎖住哪兩件事？
    - MP4：`remedial-double-lock-shorts-35s.mp4`
 5. `longform/public-materials-four-gates-20260513/`｜公開教材四關｜長片 storyboard package
