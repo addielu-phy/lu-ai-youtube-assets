@@ -102,7 +102,16 @@
       "vision_qa": "Traditional Chinese readable; no tofu/cropping/overlap/overcrowding"
     }
   },
-  "next_auto_push": "If YouTube/Google login is still incomplete, choose the next unfinished season 3 candidate (recommended: priority 10 Shorts storyboard/handout extension); if login is complete, upload the first batch or a season 3 representative piece.",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "social_card": "social-assets/ai-agent-feedback-workflow-social-card-v1.png",
-  "social_card_manifest": "social-assets/ai-agent-feedback-workflow-social-card-v1.manifest.json"
+  "social_card_manifest": "social-assets/ai-agent-feedback-workflow-social-card-v1.manifest.json",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "recommended_video": "ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4",
+  "mp4_lu_voice": "ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4",
+  "narration_lu_voice": "narration_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_lu_f5tts_v1.vtt",
+    "narration_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone."
 }

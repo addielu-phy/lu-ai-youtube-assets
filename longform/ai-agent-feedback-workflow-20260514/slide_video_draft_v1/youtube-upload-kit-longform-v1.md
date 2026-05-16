@@ -35,3 +35,9 @@
 - 圖檔：`../social-assets/ai-agent-feedback-workflow-social-card-v1.png`
 - 建議貼文主文：回饋可以加速，但責任不能外包。用 AI Agent 做課後回饋時，先匿名輸入、再產 AI 草稿，最後由老師用 3 色筆審稿。
 - 圖上主訊息：回饋可以加速／責任不能外包。
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4`
+- 原 Edge HsiaoYu 草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- 升級版字幕：`narration_lu_f5tts_v1.vtt`、`narration_lu_f5tts_v1.srt`
+

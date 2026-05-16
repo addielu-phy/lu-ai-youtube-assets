@@ -20,3 +20,13 @@
 
 ## 下一個可自動推進項目
 若 YouTube/Google 登入仍未完成，從第三季題庫挑選下一個尚未完成候選（建議第三季優先題 10 Shorts storyboard／講義延伸）；若已完成登入，優先上傳第一季首批或第三季代表作。
+
+## 音訊升級 v1（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 zh-TW Edge HsiaoYu 草稿旁白；本版改用 Lu Teacher F5-TTS voice clone。
+- 推薦版 MP4：`ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4`
+- Lu 旁白：`narration_lu_f5tts_v1.mp3` / `lu_f5tts_upgrade_v1/narration_lu_f5tts_loudnorm.wav`
+- Lu 字幕：`narration_lu_f5tts_v1.vtt` / `narration_lu_f5tts_v1.srt`
+- QA sheet：`checks/contact_sheet_lu_f5tts_v1.png`
+- 音訊處理：F5-TTS chunked generation、0.35 秒段落短停頓、loudnorm I=-16、AAC 192k。
+
