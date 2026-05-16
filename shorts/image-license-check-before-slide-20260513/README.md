@@ -38,5 +38,15 @@
 
 ## 下一個自動推進
 
-若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成 storyboard／講義延伸。  
-若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或本支第三季 Shorts。
+若 YouTube/Google 登入仍未完成：依 voice remediation queue 改處理 `shorts/public-before-share-check-20260513/`，或上傳本支 Lu Teacher 旁白版。  
+若使用者已完成 YouTube/Google 登入：優先上傳本支 Lu voice 版本或第一季首批 Shorts。
+
+## 音訊升級 v1（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 zh-TW Edge HsiaoYu 女聲草稿；本版改用盧老師 F5-TTS voice clone。
+- 推薦版 MP4：`image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`
+- 升級版旁白：`narration_35s_lu_f5tts_v1.mp3` / `narration_35s_lu_f5tts_v1.wav`
+- 升級版字幕：`narration_35s_lu_f5tts_v1.vtt` / `narration_35s_lu_f5tts_v1.srt`
+- QA sheet：`checks/qa_lu_f5v1_sheet.png`
+- 音訊處理：F5-TTS chunked generation、0.22 秒短停頓、loudnorm I=-16、AAC 192k、35 秒完整輸出。
+

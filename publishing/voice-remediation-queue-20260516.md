@@ -13,7 +13,8 @@
 3. ✅ `longform/ai-agent-feedback-workflow-20260514/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4`。
 4. ✅ `shorts/remedial-double-lock-20260513/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`remedial-double-lock-shorts-35s-lu-f5tts-v1.mp4`。
 5. ✅ `longform/public-materials-four-gates-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`public-materials-four-gates-slide-video-draft-lu-f5tts-v1.mp4`。
-6. 下一支建議：`shorts/image-license-check-before-slide-20260513/`｜AI 找到的圖，可以直接放簡報嗎？｜Shorts
+6. ✅ `shorts/image-license-check-before-slide-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`。
+7. 下一支建議：`shorts/public-before-share-check-20260513/`｜學生作品要放上網前，AI 幫忙檢查哪三件事？｜Shorts
 
 ## 待處理候選（前 15 個，最近優先）
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
@@ -31,9 +32,10 @@
 5. ✅ `longform/public-materials-four-gates-20260513/`｜公開教材四關｜長片 storyboard package
    - 已完成 Lu 升級：`public-materials-four-gates-slide-video-draft-lu-f5tts-v1.mp4`
    - 原 MP4：`public-materials-four-gates-slide-video-draft-v1.mp4`
-6. `shorts/image-license-check-before-slide-20260513/`｜Shorts｜AI 找到的圖，可以直接放簡報嗎？
-   - MP4：`image-license-check-before-slide-shorts-35s.mp4`
-7. `shorts/public-before-share-check-20260513/`｜Shorts｜學生作品要放上網前，AI 幫忙檢查哪三件事？
+6. ✅ `shorts/image-license-check-before-slide-20260513/`｜Shorts｜AI 找到的圖，可以直接放簡報嗎？
+   - 已完成 Lu 升級：`image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`
+   - 原 MP4：`image-license-check-before-slide-shorts-35s.mp4`
+7. 下一支待處理：`shorts/public-before-share-check-20260513/`｜Shorts｜學生作品要放上網前，AI 幫忙檢查哪三件事？
    - MP4：`public-before-share-check-shorts-35s.mp4`
 8. `longform/ai-physics-inquiry-class-20260513/`｜長片 storyboard｜一堂 45 分鐘 AI 物理探究課怎麼排？
    - MP4：`ai-physics-inquiry-class-slide-video-draft-v1.mp4`
