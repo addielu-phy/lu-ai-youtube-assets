@@ -2,7 +2,7 @@
   "title": "補救教學題目請 AI 出，但先鎖住哪兩件事？",
   "candidate": "season-03-priority-08",
   "slug": "remedial-double-lock-20260513",
-  "status": "35s Shorts MP4/upload kit/teacher checklist complete",
+  "status": "35s Shorts MP4/upload kit/teacher checklist complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "updated": "2026-05-14 13:20 CST",
   "dimensions": "1080x1920",
   "mp4": "remedial-double-lock-shorts-35s.mp4",
@@ -15,11 +15,20 @@
   "upload_kit": "youtube-upload-kit.md",
   "qa_sheet": "checks/qa_sheet_mp4.png",
   "archive": "remedial-double-lock-upload-kit-20260514.tar.gz",
-  "next_auto_push": "choose the next unfinished season-03 storyboard or handout extension unless YouTube login is ready for upload",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "github_pages": {
     "status": "live verified",
     "content_commit": "9486d53",
     "index_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "mp4_url": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/remedial-double-lock-20260513/remedial-double-lock-shorts-35s.mp4"
-  }
+  },
+  "mp4_lu_voice": "remedial-double-lock-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "remedial-double-lock-shorts-35s-lu-f5tts-v1.mp4"
 }
