@@ -2,7 +2,7 @@
   "title": "老師用 AI 做公開教材：從來源到標註的檢查流程",
   "slug": "public-materials-four-gates-20260513",
   "format": "longform slide-video draft v1",
-  "status": "slide_video_upload_kit_and_shareable_handout_complete",
+  "status": "slide_video_upload_kit_and_shareable_handout_complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "video": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-v1.mp4",
   "audio": "slide_video_draft_v1/narration_edge_hsiaoyu.mp3",
   "narration_text": "slide_video_draft_v1/narration_zh_tw.txt",
@@ -94,5 +94,15 @@
       "mode": "RGB"
     }
   },
-  "next_auto_push": "若 YouTube/Google 登入仍未完成，從第三季題庫挑選優先題 7 Shorts storyboard／迷思分類 prompt；若已完成登入，優先上傳第一季首批或第三季代表作。"
+  "next_auto_push": "Continue voice remediation queue with shorts/image-license-check-before-slide-20260513, or upload Lu voice versions after YouTube/Google login.",
+  "recommended_video": "slide_video_draft_v1/public-materials-four-gates-slide-video-draft-lu-f5tts-v1.mp4",
+  "audio_source_lu_voice": "Lu Teacher F5-TTS voice clone v1",
+  "lu_voice_audio": "slide_video_draft_v1/narration_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "slide_video_draft_v1/narration_lu_f5tts_v1.vtt",
+    "slide_video_draft_v1/narration_lu_f5tts_v1.srt"
+  ],
+  "lu_voice_contact_sheet": "slide_video_draft_v1/checks/contact_sheet_lu_f5tts_v1.png",
+  "lu_voice_duration_seconds": 277.217,
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces narration with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, and rebuilt slide-video."
 }

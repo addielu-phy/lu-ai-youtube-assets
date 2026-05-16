@@ -29,3 +29,9 @@
 ## 人工上傳前仍需確認
 - YouTube/Google 登入與頻道權限。
 - 若放入真實學生作品、課堂照片、未公開考題或第三方圖片，需使用者確認授權與匿名化。
+
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`public-materials-four-gates-slide-video-draft-lu-f5tts-v1.mp4`
+- 原始 Edge HsiaoYu 草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- 升級版字幕：`narration_lu_f5tts_v1.vtt`、`narration_lu_f5tts_v1.srt`
