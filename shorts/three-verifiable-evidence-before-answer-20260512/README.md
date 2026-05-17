@@ -6,13 +6,17 @@
 ## 成果檔案
 
 - Shorts MP4：`three-verifiable-evidence-before-answer-shorts-35s.mp4`
+- 推薦 Lu 旁白版：`three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4`
 - 封面：`cover_three_verifiable_evidence_v1.png`
 - 上傳包：`youtube-upload-kit.md`
 - 教師追問小抄：`three-evidence-question-cheatsheet-v1.md`
-- 旁白：`narration_35s_edge_hsiaoyu.mp3`
+- 原旁白：`narration_35s_edge_hsiaoyu.mp3`
+- Lu 旁白：`narration_35s_lu_f5tts_v1.mp3` / `narration_35s_lu_f5tts_v1.wav`
 - 字幕：`narration_35s_edge_hsiaoyu.vtt` / `narration_35s_edge_hsiaoyu.srt`
 - QA sheet：`checks/qa_sheet_mp4.png`
+- Lu QA sheet：`checks/qa_lu_f5v1_sheet.png`
 - 壓縮包：`three-verifiable-evidence-before-answer-upload-kit-20260512.tar.gz`
+- Lu 交接包：`three-verifiable-evidence-before-answer-lu-f5tts-v1-kit-20260518.tar.gz`
 
 ## 圖卡
 
@@ -34,9 +38,19 @@
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本機 package：`shorts/three-verifiable-evidence-before-answer-20260512/`
-- GitHub Pages commit：`8fd55e5` 已驗證待本輪 live check。
+- GitHub Pages commit：content commit `8fd55e5`、cleanup commit `7d42b86` 已 live 驗證。
 
 ## 下一個自動推進
 
 若 YouTube/Google 登入仍未完成：從第三季題庫挑選下一個尚未完成的 Shorts storyboard／講義延伸。  
 若使用者已完成 YouTube/Google 登入：優先上傳已完成的第一季首批 Shorts 或本支第三季 Shorts。
+
+## 音訊升級 v1（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 zh-TW Edge HsiaoYu 女聲草稿；本版改用盧老師 F5-TTS voice clone。
+- 推薦版 MP4：`three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4`
+- 升級版旁白：`narration_35s_lu_f5tts_v1.mp3` / `narration_35s_lu_f5tts_v1.wav`
+- 升級版字幕：`narration_35s_lu_f5tts_v1.vtt` / `narration_35s_lu_f5tts_v1.srt`
+- QA sheet：`checks/qa_lu_f5v1_sheet.png`
+- 音訊處理：F5-TTS chunked generation、0.22 秒短停頓、loudnorm I=-16、AAC 192k、35 秒完整輸出。
+

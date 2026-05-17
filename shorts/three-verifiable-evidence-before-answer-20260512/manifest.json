@@ -1,7 +1,7 @@
 {
   "title": "AI 給答案前，先叫它列出三個可驗證證據",
   "candidate": "season-03-priority-01",
-  "status": "35s Shorts MP4 + upload kit complete",
+  "status": "35s Shorts MP4/upload kit complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-12",
   "dimensions": "1080x1920",
   "slides": [
@@ -12,7 +12,7 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "next_auto_push": "choose next unfinished season-03 candidate for storyboard/handout, unless YouTube login is ready for upload",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "github_pages": {
     "index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "readme": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/README.md",
@@ -62,5 +62,16 @@
     "cover": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/cover_three_verifiable_evidence_v1.png",
     "upload_kit": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/youtube-upload-kit.md",
     "teacher_cheatsheet": "https://addielu-phy.github.io/lu-ai-youtube-assets/shorts/three-verifiable-evidence-before-answer-20260512/three-evidence-question-cheatsheet-v1.md"
-  }
+  },
+  "github_pages_cleanup_commit": "7d42b86",
+  "live_verified": "2026-05-12 22:58",
+  "mp4_lu_voice": "three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4"
 }
