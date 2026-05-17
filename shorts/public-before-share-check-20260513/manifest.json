@@ -2,7 +2,7 @@
   "title": "學生作品要放上網前，AI 幫忙檢查哪三件事？",
   "candidate": "season-03-priority-04",
   "slug": "public-before-share-check-20260513",
-  "status": "35s Shorts MP4 + upload kit + public checklist complete",
+  "status": "35s Shorts MP4/upload kit/public checklist complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-13",
   "dimensions": "1080x1920",
   "slides": [
@@ -14,7 +14,7 @@
   ],
   "contact_sheet": "checks/contact_sheet.png",
   "archive": "public-before-share-check-upload-kit-20260513.tar.gz",
-  "next_auto_push": "choose the next unmade season-03 storyboard or handout extension, unless YouTube login is ready for upload",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "mp4": "public-before-share-check-shorts-35s.mp4",
   "cover": "cover_public_before_share_check_v1.png",
   "upload_kit": "youtube-upload-kit.md",
@@ -56,5 +56,14 @@
     "github_pages_cleanup_commit": "cbdc6a2",
     "github_pages_final_metadata_commit": "1aab46e",
     "verified": "index card + MP4 + cover PNG + README + checklist + archive HTTP 200; browser title/card verified; QA sheet rerendered to remove stale next-step text before final sync"
-  }
+  },
+  "mp4_lu_voice": "public-before-share-check-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "public-before-share-check-shorts-35s-lu-f5tts-v1.mp4"
 }
