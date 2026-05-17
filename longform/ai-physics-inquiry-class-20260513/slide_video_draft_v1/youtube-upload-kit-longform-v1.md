@@ -35,3 +35,9 @@
 ## 人工上傳前仍需確認
 - YouTube/Google 登入與頻道權限。
 - 若使用真實學生作品、照片或未公開題目，需先匿名化並確認授權。
+
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4`
+- 原始 Edge HsiaoYu 草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- 升級版字幕：`narration_lu_f5tts_v1.vtt`、`narration_lu_f5tts_v1.srt`

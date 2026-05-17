@@ -1,6 +1,6 @@
 # YouTube 頻道製作進度總表
 
-最後更新：2026-05-17 10:40 三小時雷達自動推進
+最後更新：2026-05-17 20:17 三小時雷達自動推進
 
 ## 目前最接近上線的內容
 
@@ -127,3 +127,4 @@
 69. 第三季優先題 6「公開教材四關」長片已完成盧老師 F5-TTS voice clone v1 旁白升級版：`longform/public-materials-four-gates-20260513/slide_video_draft_v1/public-materials-four-gates-slide-video-draft-lu-f5tts-v1.mp4`，並重打包 `public-materials-four-gates-lu-f5tts-v1-kit-20260517.tar.gz`；ffprobe 驗證 1920×1080、30fps、H.264 + AAC、277.217 秒，QA contact sheet 視覺檢查確認繁中可讀、無 tofu／裁切／重疊／過度擁擠，交接包已用 Python tarfile 讀回確認 26 個項目。手機索引已新增本支 Lu voice 版本，並已同步 GitHub Pages commit `e49cfe9` live 驗證（index／MP4／QA PNG／upload kit／交接包皆 HTTP 200，瀏覽器卡片正確且 console 無錯）；下一個可自動推進項目：依 voice remediation queue 改處理 `shorts/image-license-check-before-slide-20260513/`，或若已登入 YouTube/Google，優先上傳 Lu voice 版本。
 70. 第三季優先題 5「AI 找到的圖，可以直接放簡報嗎？」已完成盧老師 F5-TTS voice clone v1 旁白升級版：`shorts/image-license-check-before-slide-20260513/image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`；ffprobe 驗證 1080×1920、25fps、H.264 + AAC、35.000 秒，旁白 loudnorm mean_volume 約 -17.3 dB，QA sheet 視覺檢查確認繁中可讀、無 tofu／裁切／重疊／過度擁擠，交接包已用 Python tarfile 讀回確認 26 個項目。手機索引已新增本支 Lu voice 版本，並已同步 GitHub Pages content commit `6ebdbec` live 驗證（index／MP4／QA PNG／upload kit／voice queue／交接包皆 HTTP 200，瀏覽器卡片正確且 console 無錯）；下一個可自動推進項目已由第 71 項接續完成；若已登入 YouTube/Google，優先上傳 Lu voice 版本。
 71. 第三季優先題 4「公開前三查」已完成盧老師 F5-TTS voice clone v1 旁白升級版：`shorts/public-before-share-check-20260513/public-before-share-check-shorts-35s-lu-f5tts-v1.mp4`；ffprobe 驗證 1080×1920、25fps、H.264 + AAC、35.000 秒，旁白 loudnorm mean_volume 約 -16.5 dB，tempo 僅約 1.009x，QA sheet 視覺檢查確認繁中可讀、無 tofu／裁切／重疊，交接包 `public-before-share-check-lu-f5tts-v1-kit-20260517.tar.gz` 已用 Python tarfile 讀回確認 26 個項目；手機索引已同步到 GitHub Pages commit `7b1a9c1` 並 live 驗證 index／MP4／QA PNG／upload kit／voice queue／交接包皆 HTTP 200，瀏覽器卡片正確且 console 無錯。下一個可自動推進項目：依 voice remediation queue 改處理 `longform/ai-physics-inquiry-class-20260513/`，或若已登入 YouTube/Google，優先上傳 Lu voice 版本。
+72. 第三季優先題 3「AI 物理探究課」已完成盧老師 F5-TTS voice clone v1 旁白升級版：`longform/ai-physics-inquiry-class-20260513/slide_video_draft_v1/ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4`；ffprobe 驗證 1920×1080、30fps、H.264 + AAC、241.633 秒，QA contact sheet 視覺檢查確認繁中可讀、無 tofu／裁切／重疊／過度擁擠，交接包 `ai-physics-inquiry-class-lu-f5tts-v1-kit-20260517.tar.gz` 已用 Python tarfile 讀回確認 26 個項目。下一個可自動推進項目：依 voice remediation queue 改處理 `shorts/hypothesis-causal-variable-20260513/`，或若已登入 YouTube/Google，優先上傳 Lu voice 版本。

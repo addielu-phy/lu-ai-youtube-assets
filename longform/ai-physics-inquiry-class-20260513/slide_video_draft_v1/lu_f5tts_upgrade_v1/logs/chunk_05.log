@@ -1,0 +1,32 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+/home/adl/youtube-lu-ai-channel/voice-lab/free-local-tts/f5env/lib/python3.11/site-packages/torchaudio/_backend/utils.py:213: UserWarning: In 2.9, this function's implementation will be changed to use torchaudio.load_with_torchcodec` under the hood. Some parameters like ``normalize``, ``format``, ``buffer_size``, and ``backend`` will be ignored. We recommend that you port your code to rely directly on TorchCodec's decoder instead: https://docs.pytorch.org/torchcodec/stable/generated/torchcodec.decoders.AudioDecoder.html#torchcodec.decoders.AudioDecoder.
+  warnings.warn(
+/home/adl/youtube-lu-ai-channel/voice-lab/free-local-tts/f5env/lib/python3.11/site-packages/torchaudio/_backend/ffmpeg.py:88: UserWarning: torio.io._streaming_media_decoder.StreamingMediaDecoder has been deprecated. This deprecation is part of a large refactoring effort to transition TorchAudio into a maintenance phase. The decoding and encoding capabilities of PyTorch for both audio and video are being consolidated into TorchCodec. Please see https://github.com/pytorch/audio/issues/3902 for more information. It will be removed from the 2.9 release. 
+  s = torchaudio.io.StreamReader(src, format, None, buffer_size)
+Download Vocos from huggingface charactr/vocos-mel-24khz
+Using F5TTS_v1_Base...
+
+vocab :  /home/adl/youtube-lu-ai-channel/voice-lab/free-local-tts/f5env/lib/python3.11/site-packages/f5_tts/infer/examples/vocab.txt
+token :  custom
+model :  /home/adl/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_v1_Base/model_1250000.safetensors 
+
+Voice: main
+ref_audio  /home/adl/video-projects/episode-1-ai-agent-uses/f5tts-ref-alt/ref_alt.wav
+Converting audio...
+Using custom reference text...
+
+ref_text   最理想的狀態，是清楚、穩定、自然，像是在對一位願意聽你說話的人慢慢解釋。
+ref_audio_ /tmp/tmprblkshnp.wav 
+
+
+No voice tag found, using main.
+Voice: main
+gen_text 0 三十到四十分鐘，進入同儕三問與 AI 自評。三問很簡單：第一，變因是否清楚？第二，證據是否足夠？第三，
+gen_text 1 結論是否超出資料？學生可以把自己的初稿交給 AI，請它用這三問找最弱的一格，但老師的規則要說清楚：
+gen_text 2 AI 只能指出流程問題，不能代寫結論。如果 AI 說得太滿，例如直接宣稱某個理論一定成立，
+gen_text 3 學生要把它改回「目前資料支持」或「目前資料尚不能判斷」。
+
+
+Generating audio in 4 batches...
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:06<00:19,  6.43s/it]100%|██████████| 4/4 [00:06<00:00,  1.61s/it]
+/home/adl/youtube-lu-ai-channel/longform/ai-physics-inquiry-class-20260513/slide_video_draft_v1/lu_f5tts_upgrade_v1/chunks_wav/chunk_05.wav

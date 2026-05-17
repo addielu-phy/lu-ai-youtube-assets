@@ -99,6 +99,17 @@
       "mode": "RGB"
     }
   },
-  "next_auto_push": "第三季優先題 4「公開前三查」已完成 35 秒 Shorts MP4／公開檢查表；第三季優先題 5「圖能用嗎」storyboard 已完成。若 YouTube/Google 登入仍未完成，下一輪把優先題 5 擴成 35 秒 Shorts MP4／圖片授權檢查表；若已完成登入，優先上傳第一季首批或第三季代表作。",
-  "shareable_handout": "slide_video_draft_v1/ai-physics-inquiry-class-shareable-handout-v1.md"
+  "next_auto_push": "Continue voice remediation queue with shorts/hypothesis-causal-variable-20260513, or upload Lu voice versions after YouTube/Google login.",
+  "shareable_handout": "slide_video_draft_v1/ai-physics-inquiry-class-shareable-handout-v1.md",
+  "status": "slide_video_upload_kit_and_shareable_handout_complete; Lu Teacher F5-TTS v1 voice upgrade ready",
+  "recommended_video": "slide_video_draft_v1/ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4",
+  "audio_source_lu_voice": "Lu Teacher F5-TTS voice clone v1",
+  "lu_voice_audio": "slide_video_draft_v1/narration_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "slide_video_draft_v1/narration_lu_f5tts_v1.vtt",
+    "slide_video_draft_v1/narration_lu_f5tts_v1.srt"
+  ],
+  "lu_voice_contact_sheet": "slide_video_draft_v1/checks/contact_sheet_lu_f5tts_v1.png",
+  "lu_voice_duration_seconds": 241.633,
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces narration with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, and rebuilt slide-video."
 }
