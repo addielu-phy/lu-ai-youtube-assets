@@ -1,0 +1,44 @@
+{
+  "title": "每日一題｜分科物理題解｜114 分科物理第 11 題：光電效應波長改變 Lu Teacher slide-video draft v1",
+  "created": "2026-05-17",
+  "status": "local_private_lu_teacher_slide_video_draft_v1_complete_not_published",
+  "source_note": "採題目摘要與自繪光電效應能量柱圖，不重製完整題文；公開前需老師確認大考中心題文引用方式與來源標註。",
+  "answer": "C；K_blue > 4K/3",
+  "mp4": "114-physics-q11-photoelectric-wavelength-change-slide-video-lu-teacher-v1.mp4",
+  "silent_mp4": "114-physics-q11-photoelectric-wavelength-change-slide-video-silent-v1.mp4",
+  "audio_mp3": "narration-lu-teacher-f5tts-v1.mp3",
+  "cover": "cover-1080x1920.png",
+  "subtitles": [
+    "subtitles-lu-teacher-v1.srt",
+    "subtitles-lu-teacher-v1.vtt"
+  ],
+  "duration_seconds": 88,
+  "audio_source": "Lu Teacher voice clone via F5-TTS v1 Base; chunks in lu_teacher_voice_v1/chunks_wav",
+  "voice_workflow": "F5-TTS v1 Base + Lu Teacher neutral reference voice, chunked generation, loudnorm, fitted to 88s",
+  "verification": {
+    "ffprobe": {
+      "programs": [],
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1080,
+          "height": 1920
+        },
+        {
+          "index": 1,
+          "codec_name": "aac",
+          "codec_type": "audio"
+        }
+      ],
+      "format": {
+        "duration": "88.000000"
+      }
+    },
+    "raw_audio_duration_seconds": 97.083,
+    "tempo_ratio_if_used": 1.103843,
+    "qa_contact_sheet": "qa-contact-sheet-lu-voice-v1.png"
+  },
+  "next_auto_push": "不要重做第 11 題 brief/storyboard/MP4/upload kit/封面；下一輪若仍無 YouTube 登入與公開題文授權確認，改選下一題候選（優先 114 分科物理第 12 題或下一個可安全摘要題）製作內部 brief。"
+}
