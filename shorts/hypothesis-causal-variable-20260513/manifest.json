@@ -1,7 +1,7 @@
 {
   "title": "讓 AI 幫學生寫假設，但老師要加上哪一句？",
   "candidate": "season-03-priority-02",
-  "status": "35s Shorts MP4 + upload kit complete",
+  "status": "35s Shorts MP4/upload kit complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-13",
   "dimensions": "1080x1920",
   "slides": [
@@ -12,7 +12,7 @@
     "slides/slide_05.png"
   ],
   "contact_sheet": "checks/contact_sheet.png",
-  "next_auto_push": "choose season-03 priority-03 longform storyboard/45-minute flow handout or priority-04 Shorts storyboard, unless YouTube login is ready for upload",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "published": {
     "github_pages_index": "https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html",
     "github_pages_content_commit": "02e7a09",
@@ -52,5 +52,14 @@
     "slides/slide_03.png",
     "slides/slide_04.png",
     "slides/slide_05.png"
-  ]
+  ],
+  "mp4_lu_voice": "hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4"
 }

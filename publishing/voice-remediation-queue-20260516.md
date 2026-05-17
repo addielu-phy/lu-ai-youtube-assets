@@ -16,7 +16,8 @@
 6. ✅ `shorts/image-license-check-before-slide-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`。
 7. ✅ `shorts/public-before-share-check-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`public-before-share-check-shorts-35s-lu-f5tts-v1.mp4`。
 8. ✅ `longform/ai-physics-inquiry-class-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4`。
-9. 下一支建議：`shorts/hypothesis-causal-variable-20260513/`｜讓 AI 幫學生寫假設，但老師要加上哪一句？｜Shorts
+9. ✅ `shorts/hypothesis-causal-variable-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`。
+10. 下一支建議：`shorts/three-verifiable-evidence-before-answer-20260512/`｜AI 給答案前，先叫它列出三個可驗證證據｜Shorts
 
 ## 待處理候選（前 15 個，最近優先）
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
@@ -43,9 +44,10 @@
 8. ✅ `longform/ai-physics-inquiry-class-20260513/`｜長片 storyboard｜一堂 45 分鐘 AI 物理探究課怎麼排？
    - 已完成 Lu 升級：`ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4`
    - 原 MP4：`ai-physics-inquiry-class-slide-video-draft-v1.mp4`
-9. 下一支待處理：`shorts/hypothesis-causal-variable-20260513/`｜Shorts｜讓 AI 幫學生寫假設，但老師要加上哪一句？
-   - MP4：`hypothesis-causal-variable-shorts-35s.mp4`
-10. `shorts/three-verifiable-evidence-before-answer-20260512/`｜Shorts｜AI 給答案前，先叫它列出三個可驗證證據
+9. ✅ `shorts/hypothesis-causal-variable-20260513/`｜Shorts｜讓 AI 幫學生寫假設，但老師要加上哪一句？
+   - 已完成 Lu 升級：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`
+   - 原 MP4：`hypothesis-causal-variable-shorts-35s.mp4`
+10. 下一支待處理：`shorts/three-verifiable-evidence-before-answer-20260512/`｜Shorts｜AI 給答案前，先叫它列出三個可驗證證據
    - MP4：`three-verifiable-evidence-before-answer-shorts-35s.mp4`
 11. `longform/rejectable-question-draft-20260512/`｜第二季優先題 6｜我怎麼讓 AI 先產出「可被退件」的題目草稿
    - MP4：`rejectable-question-draft-slide-video-draft-v1.mp4`

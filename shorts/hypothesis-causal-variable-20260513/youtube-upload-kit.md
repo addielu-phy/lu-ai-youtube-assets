@@ -23,3 +23,9 @@
 
 ## 人工操作卡點
 YouTube 上傳、頻道選擇、公開／排程與留言置頂仍需使用者登入 Google / YouTube 後操作。
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`
+- 原始 Edge HsiaoYu 草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- 升級版字幕：`narration_35s_lu_f5tts_v1.vtt`、`narration_35s_lu_f5tts_v1.srt`
+
