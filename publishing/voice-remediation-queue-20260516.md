@@ -18,7 +18,7 @@
 8. ✅ `longform/ai-physics-inquiry-class-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4`。
 9. ✅ `shorts/hypothesis-causal-variable-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `e488a8c`：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`。
 10. ✅ `shorts/three-verifiable-evidence-before-answer-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1：`three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4`。
-11. ✅ `longform/rejectable-question-draft-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1：`rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`。
+11. ✅ `longform/rejectable-question-draft-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `7345f9d`：`rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`。
 
 ## 待處理候選（前 15 個，最近優先）
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
