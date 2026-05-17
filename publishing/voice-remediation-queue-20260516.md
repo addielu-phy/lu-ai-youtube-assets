@@ -16,7 +16,7 @@
 6. ✅ `shorts/image-license-check-before-slide-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`image-license-check-before-slide-shorts-35s-lu-f5tts-v1.mp4`。
 7. ✅ `shorts/public-before-share-check-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`public-before-share-check-shorts-35s-lu-f5tts-v1.mp4`。
 8. ✅ `longform/ai-physics-inquiry-class-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`ai-physics-inquiry-class-slide-video-draft-lu-f5tts-v1.mp4`。
-9. ✅ `shorts/hypothesis-causal-variable-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`。
+9. ✅ `shorts/hypothesis-causal-variable-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `e488a8c`：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`。
 10. 下一支建議：`shorts/three-verifiable-evidence-before-answer-20260512/`｜AI 給答案前，先叫它列出三個可驗證證據｜Shorts
 
 ## 待處理候選（前 15 個，最近優先）
