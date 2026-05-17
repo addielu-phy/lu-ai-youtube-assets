@@ -1,0 +1,31 @@
+/home/adl/youtube-lu-ai-channel/voice-lab/free-local-tts/f5env/lib/python3.11/site-packages/torchaudio/_backend/utils.py:213: UserWarning: In 2.9, this function's implementation will be changed to use torchaudio.load_with_torchcodec` under the hood. Some parameters like ``normalize``, ``format``, ``buffer_size``, and ``backend`` will be ignored. We recommend that you port your code to rely directly on TorchCodec's decoder instead: https://docs.pytorch.org/torchcodec/stable/generated/torchcodec.decoders.AudioDecoder.html#torchcodec.decoders.AudioDecoder.
+  warnings.warn(
+/home/adl/youtube-lu-ai-channel/voice-lab/free-local-tts/f5env/lib/python3.11/site-packages/torchaudio/_backend/ffmpeg.py:88: UserWarning: torio.io._streaming_media_decoder.StreamingMediaDecoder has been deprecated. This deprecation is part of a large refactoring effort to transition TorchAudio into a maintenance phase. The decoding and encoding capabilities of PyTorch for both audio and video are being consolidated into TorchCodec. Please see https://github.com/pytorch/audio/issues/3902 for more information. It will be removed from the 2.9 release. 
+  s = torchaudio.io.StreamReader(src, format, None, buffer_size)
+Download Vocos from huggingface charactr/vocos-mel-24khz
+Using F5TTS_v1_Base...
+
+vocab :  /home/adl/youtube-lu-ai-channel/voice-lab/free-local-tts/f5env/lib/python3.11/site-packages/f5_tts/infer/examples/vocab.txt
+token :  custom
+model :  /home/adl/.cache/huggingface/hub/models--SWivid--F5-TTS/snapshots/84e5a410d9cead4de2f847e7c9369a6440bdfaca/F5TTS_v1_Base/model_1250000.safetensors 
+
+Voice: main
+ref_audio  /home/adl/video-projects/episode-1-ai-agent-uses/f5tts-ref-alt/ref_alt.wav
+Converting audio...
+Using custom reference text...
+
+ref_text   最理想的狀態，是清楚、穩定、自然，像是在對一位願意聽你說話的人慢慢解釋。
+ref_audio_ /tmp/tmpk6u4birq.wav 
+
+
+No voice tag found, using main.
+Voice: main
+gen_text 0 第一步，是在 prompt 裡放三個硬限制。第一個硬限制是年級與單元，例如八年級力與運動，或高中電磁感應。
+gen_text 1 第二個硬限制是只測一件事，不要同時測概念、計算、圖像判讀和閱讀理解。第三個硬限制是輸出格式，
+gen_text 2 例如題幹、選項、標準答案、解析、學生常見錯誤、以及老師退件理由欄。這三件事看起來很基本，
+gen_text 3 但它們會把 AI 從自由發揮拉回教學目標。
+
+
+Generating audio in 4 batches...
+  0%|          | 0/4 [00:00<?, ?it/s] 25%|██▌       | 1/4 [00:06<00:19,  6.49s/it]100%|██████████| 4/4 [00:06<00:00,  1.62s/it]
+/home/adl/youtube-lu-ai-channel/longform/rejectable-question-draft-20260512/slide_video_draft_v1/lu_f5tts_upgrade_v1/chunks_wav/chunk_02.wav

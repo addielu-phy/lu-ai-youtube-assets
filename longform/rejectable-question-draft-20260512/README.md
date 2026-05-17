@@ -48,3 +48,13 @@
 ## 下一個自動推進
 
 若 YouTube/Google 登入仍未完成：第三季內容題庫已完成；下一輪可製作第三季優先題 1「AI 給答案前，先叫它列出三個可驗證證據」的 5 張 Shorts storyboard 圖卡與交接包。若使用者已完成登入：優先上傳第一季首批 Shorts／長片或最新穩定 GitHub Pages 索引中的候選影片。
+
+## Lu Teacher F5-TTS 旁白升級 v1
+
+- 推薦版本：`slide_video_draft_v1/rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`
+- 旁白：`slide_video_draft_v1/narration_lu_f5tts_v1.mp3`
+- QA：`slide_video_draft_v1/checks/contact_sheet_lu_f5tts_v1.png`
+- 交接包：`slide_video_draft_v1/rejectable-question-draft-lu-f5tts-v1-kit-20260518.tar.gz`
+- 驗證：1920×1080、215.115 秒、H.264 + AAC；旁白 mean_volume 約 -16.9 dB；視覺 QA 確認繁中可讀、無 tofu／裁切／重疊。
+
+下一步：依 voice remediation queue 改處理 `shorts/exit-ticket-ai-reflection-20260512/`，或登入後上傳 Lu voice 版本。

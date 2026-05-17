@@ -77,3 +77,9 @@ D. 錯誤選項沒有對應迷思
 ## 下一個可自動推進
 
 若 YouTube/Google 登入仍未完成，本長片 1080×1920 Shorts／社群宣傳卡已完成，且第三季內容題庫已完成；下一輪可製作第三季優先題 1「AI 給答案前，先叫它列出三個可驗證證據」的 5 張 Shorts storyboard 圖卡與交接包。
+
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`
+- 原始 Edge HsiaoYu 草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- 升級版字幕：`narration_lu_f5tts_v1.vtt`、`narration_lu_f5tts_v1.srt`
