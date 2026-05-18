@@ -17,3 +17,13 @@
 
 ## 下一個自動推進
 若 YouTube/Google 登入仍未完成：第二季優先題 6 可製作長片 storyboard／講義草稿；若已登入，優先上傳第一季首批或本支第二季 Shorts。
+
+## 音訊升級 v1（Lu Teacher F5-TTS）
+
+- 改善原因：原版使用 zh-TW Edge HsiaoYu 女聲草稿；本版改用盧老師 F5-TTS voice clone。
+- 推薦版 MP4：`exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`
+- 升級版旁白：`narration_35s_lu_f5tts_v1.mp3` / `narration_35s_lu_f5tts_v1.wav`
+- 升級版字幕：`narration_35s_lu_f5tts_v1.vtt` / `narration_35s_lu_f5tts_v1.srt`
+- QA sheet：`checks/qa_lu_f5v1_sheet.png`
+- 音訊處理：F5-TTS chunked generation、0.22 秒短停頓、loudnorm I=-16、AAC 192k、35 秒完整輸出。
+

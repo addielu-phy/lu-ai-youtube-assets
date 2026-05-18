@@ -28,3 +28,9 @@ YouTube 上傳、頻道選擇、封面套用與公開發布仍需使用者登入
 ## 驗證
 - ffprobe：影片為 1080×1920、25fps、H.264 + AAC，長度約 35.000 秒。
 - 視覺 QA：`checks/qa_cover_frames_sheet.png` 用於檢查封面與早／中／晚抽幀。
+## 推薦上傳版本（Lu Teacher voice）
+
+- 推薦影片：`exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`
+- 原始 Edge HsiaoYu 草稿保留作比較；正式上傳優先使用 Lu Teacher F5-TTS v1。
+- 升級版字幕：`narration_35s_lu_f5tts_v1.vtt`、`narration_35s_lu_f5tts_v1.srt`
+

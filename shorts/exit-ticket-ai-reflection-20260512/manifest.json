@@ -1,7 +1,7 @@
 {
   "title": "下課前 3 分鐘：讓學生寫 AI 使用反思",
   "season_priority": 12,
-  "status": "35s Shorts MP4 + upload kit + teacher printable complete",
+  "status": "35s Shorts MP4/upload kit/teacher printable complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-12",
   "video": "exit-ticket-ai-reflection-shorts-35s.mp4",
   "cover": "cover_exit_ticket_ai_reflection_v1.png",
@@ -14,10 +14,19 @@
   "upload_kit": "youtube-upload-kit.md",
   "qa_sheet": "checks/qa_cover_frames_sheet.png",
   "archive": "exit-ticket-ai-reflection-upload-kit-20260512.tar.gz",
-  "next_auto_push": "season-02 priority 6 longform storyboard/handout or upload completed Shorts after YouTube login is ready",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "verification": {
     "ffprobe": "1080x1920 25fps H.264 + AAC 35.000s",
     "pil": "slides/cover/qa RGB dimensions verified by build script",
     "archive": "verified with Python tarfile"
-  }
+  },
+  "mp4_lu_voice": "exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4"
 }

@@ -19,6 +19,7 @@
 9. ✅ `shorts/hypothesis-causal-variable-20260513/`｜已於 2026-05-17 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `e488a8c`：`hypothesis-causal-variable-shorts-35s-lu-f5tts-v1.mp4`。
 10. ✅ `shorts/three-verifiable-evidence-before-answer-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1：`three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4`。
 11. ✅ `longform/rejectable-question-draft-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `7345f9d`：`rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`。
+12. ✅ `shorts/exit-ticket-ai-reflection-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1：`exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`。
 
 ## 待處理候選（前 15 個，最近優先）
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
@@ -54,9 +55,10 @@
 11. ✅ `longform/rejectable-question-draft-20260512/`｜第二季優先題 6｜我怎麼讓 AI 先產出「可被退件」的題目草稿
    - 已完成 Lu 升級：`rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`
    - 原 MP4：`rejectable-question-draft-slide-video-draft-v1.mp4`
-12. 下一支待處理：`shorts/exit-ticket-ai-reflection-20260512/`｜Shorts｜下課前 3 分鐘：讓學生寫 AI 使用反思
-   - MP4：`exit-ticket-ai-reflection-shorts-35s.mp4`
-13. `shorts/homework-feedback-teacher-review-20260512/`｜Shorts｜AI 幫忙回饋作業，老師不能跳過哪一步？
+12. ✅ `shorts/exit-ticket-ai-reflection-20260512/`｜Shorts｜下課前 3 分鐘：讓學生寫 AI 使用反思
+   - 已完成 Lu 升級：`exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`
+   - 原 MP4：`exit-ticket-ai-reflection-shorts-35s.mp4`
+13. 下一支待處理：`shorts/homework-feedback-teacher-review-20260512/`｜Shorts｜AI 幫忙回饋作業，老師不能跳過哪一步？
    - MP4：`homework-feedback-teacher-review-shorts-35s.mp4`
 14. `shorts/friction-assumption-check-20260512/`｜Shorts｜AI 說「忽略摩擦」時，老師要問的一句話
    - MP4：`friction-assumption-check-shorts-35s.mp4`
