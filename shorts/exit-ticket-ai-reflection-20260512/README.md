@@ -16,7 +16,7 @@
 - 壓縮包：已用 Python tarfile 讀回驗證包含影片、封面、字幕、講義、README、manifest、upload kit、slides、QA sheet 與腳本。
 
 ## 下一個自動推進
-若 YouTube/Google 登入仍未完成：第二季優先題 6 可製作長片 storyboard／講義草稿；若已登入，優先上傳第一季首批或本支第二季 Shorts。
+本支已完成 Lu Teacher F5-TTS 旁白升級；若 YouTube/Google 登入仍未完成，依 voice remediation queue 改處理下一支 `shorts/homework-feedback-teacher-review-20260512/`；若已登入，優先上傳 Lu voice 版本。
 
 ## 音訊升級 v1（Lu Teacher F5-TTS）
 
