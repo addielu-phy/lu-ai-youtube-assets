@@ -172,7 +172,7 @@ readme = f"""# Shorts｜AI 給答案前，先叫它列出三個可驗證證據
 
 - 手機索引：`https://addielu-phy.github.io/lu-ai-youtube-assets/mobile-index/index.html`
 - 本機 package：`shorts/three-verifiable-evidence-before-answer-20260512/`
-- GitHub Pages commit：待同步後回填。
+- GitHub Pages commit：`8fd55e5` 已驗證；若重新發布請改填最新 verified/final commit。
 
 ## 下一個自動推進
 
