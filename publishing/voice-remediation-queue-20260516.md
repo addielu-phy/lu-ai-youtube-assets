@@ -3,9 +3,9 @@
 用途：使用者要求「一部一部」把仍是女聲／非本人聲音的影片改成 Lu Teacher voice clone；本檔只做盤點與下一步排序，不批次替換。
 
 ## 本輪結論
-- 已找到仍在 README / upload kit / manifest 標示 Edge HsiaoYu、YunJhe 或 edge TTS 的成果包：38 個。
-- 其中尚未在同包標示 `lu_f5tts` / `lu-f5tts` 升級版：36 個。
-- 最近已完成 Lu 升級且已上 Pages 的代表作：`shorts/class-summary-redaction-review-20260515/` v2。
+- 原始盤點找到仍在 README / upload kit / manifest 標示 Edge HsiaoYu、YunJhe 或 edge TTS 的成果包：38 個。
+- 截至 2026-05-19 20:46 巡視，本清單已標記前 12 個優先包完成 Lu Teacher F5-TTS 升級；另有 2 個包已有 Lu 升級跡象。
+- 最新已完成並抽查 Pages 可開啟的代表作：`shorts/exit-ticket-ai-reflection-20260512/exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`；下一支待處理仍是 `shorts/homework-feedback-teacher-review-20260512/`。
 
 ## 建議下一支優先改聲音
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4`。
