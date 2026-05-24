@@ -4,8 +4,8 @@
 
 ## 本輪結論
 - 原始盤點找到仍在 README / upload kit / manifest 標示 Edge HsiaoYu、YunJhe 或 edge TTS 的成果包：38 個。
-- 截至 2026-05-19 20:46 巡視，本清單已標記前 12 個優先包完成 Lu Teacher F5-TTS 升級；另有 2 個包已有 Lu 升級跡象。
-- 最新已完成並抽查 Pages 可開啟的代表作：`shorts/exit-ticket-ai-reflection-20260512/exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`；下一支待處理仍是 `shorts/homework-feedback-teacher-review-20260512/`。
+- 截至 2026-05-25 01:35 三小時雷達，本清單已標記前 13 個優先包完成 Lu Teacher F5-TTS 升級；另有 2 個包已有 Lu 升級跡象。
+- 最新已完成並本機驗證的代表作：`shorts/homework-feedback-teacher-review-20260512/homework-feedback-teacher-review-shorts-35s-lu-f5tts-v1.mp4`；下一支待處理改為 `shorts/friction-assumption-check-20260512/`。
 
 ## 建議下一支優先改聲音
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜已於 2026-05-16 完成 Lu Teacher F5-TTS v1：`parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4`。
@@ -20,6 +20,7 @@
 10. ✅ `shorts/three-verifiable-evidence-before-answer-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1：`three-verifiable-evidence-before-answer-shorts-35s-lu-f5tts-v1.mp4`。
 11. ✅ `longform/rejectable-question-draft-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `7345f9d`：`rejectable-question-draft-slide-video-draft-lu-f5tts-v1.mp4`。
 12. ✅ `shorts/exit-ticket-ai-reflection-20260512/`｜已於 2026-05-18 完成 Lu Teacher F5-TTS v1 並同步 Pages commit `5a1d14f`：`exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`。
+13. ✅ `shorts/homework-feedback-teacher-review-20260512/`｜已於 2026-05-25 完成 Lu Teacher F5-TTS v1：`homework-feedback-teacher-review-shorts-35s-lu-f5tts-v1.mp4`。
 
 ## 待處理候選（前 15 個，最近優先）
 1. ✅ `shorts/parent-message-draft-only-20260515/`｜Shorts package｜讓 AI 幫忙寫家長訊息，第一版只准當草稿
@@ -58,9 +59,10 @@
 12. ✅ `shorts/exit-ticket-ai-reflection-20260512/`｜Shorts｜下課前 3 分鐘：讓學生寫 AI 使用反思
    - 已完成 Lu 升級：`exit-ticket-ai-reflection-shorts-35s-lu-f5tts-v1.mp4`
    - 原 MP4：`exit-ticket-ai-reflection-shorts-35s.mp4`
-13. 下一支待處理：`shorts/homework-feedback-teacher-review-20260512/`｜Shorts｜AI 幫忙回饋作業，老師不能跳過哪一步？
-   - MP4：`homework-feedback-teacher-review-shorts-35s.mp4`
-14. `shorts/friction-assumption-check-20260512/`｜Shorts｜AI 說「忽略摩擦」時，老師要問的一句話
+13. ✅ `shorts/homework-feedback-teacher-review-20260512/`｜Shorts｜AI 幫忙回饋作業，老師不能跳過哪一步？
+   - 已完成 Lu 升級：`homework-feedback-teacher-review-shorts-35s-lu-f5tts-v1.mp4`
+   - 原 MP4：`homework-feedback-teacher-review-shorts-35s.mp4`
+14. 下一支待處理：`shorts/friction-assumption-check-20260512/`｜Shorts｜AI 說「忽略摩擦」時，老師要問的一句話
    - MP4：`friction-assumption-check-shorts-35s.mp4`
 15. `shorts/evidence-rubric-ai-answer-20260512/`｜第二季優先題 8｜讓學生幫 AI 打分：不是對錯，是證據夠不夠
    - MP4：`evidence-rubric-ai-answer-shorts-35s.mp4`

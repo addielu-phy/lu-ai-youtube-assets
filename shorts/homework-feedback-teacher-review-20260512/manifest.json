@@ -1,7 +1,7 @@
 {
   "title": "AI 幫忙回饋作業，老師不能跳過哪一步？",
   "season_priority": 11,
-  "status": "35s Shorts MP4 + upload kit + teacher checklist complete",
+  "status": "35s Shorts MP4/upload kit/teacher checklist complete; Lu Teacher F5-TTS v1 voice upgrade ready",
   "created": "2026-05-12",
   "files": [
     "slides/slide_01.png",
@@ -14,7 +14,7 @@
     "manifest.json",
     "render_storyboard.py"
   ],
-  "next_auto_push": "choose the next unmade season-02 backlog item (priority 6 or 12) or upload completed Shorts after YouTube login is ready",
+  "next_auto_push": "publish/upload the Lu Teacher voice version if YouTube login is ready; otherwise continue one-by-one voice remediation for the next queue item",
   "verification": {
     "slide_dimensions": "5 slides 1080x1920 RGB",
     "contact_sheet": "1120x1440 RGB",
@@ -30,5 +30,14 @@
   "upload_kit": "youtube-upload-kit.md",
   "teacher_checklist": "ai-feedback-review-teacher-checklist-v1.md",
   "qa_sheet": "checks/qa_cover_frames_sheet.png",
-  "archive": "homework-feedback-teacher-review-upload-kit-20260512.tar.gz"
+  "archive": "homework-feedback-teacher-review-upload-kit-20260512.tar.gz",
+  "mp4_lu_voice": "homework-feedback-teacher-review-shorts-35s-lu-f5tts-v1.mp4",
+  "audio_source": "Lu Teacher F5-TTS voice clone v1",
+  "narration_lu_voice": "narration_35s_lu_f5tts_v1.mp3",
+  "subtitles_lu_voice": [
+    "narration_35s_lu_f5tts_v1.vtt",
+    "narration_35s_lu_f5tts_v1.srt"
+  ],
+  "voice_upgrade_note": "Original package used zh-TW Edge HsiaoYu scratch TTS; v1 replaces audio with Lu Teacher F5-TTS voice clone, chunked generation, loudnorm, fitted to 35s.",
+  "recommended_video": "homework-feedback-teacher-review-shorts-35s-lu-f5tts-v1.mp4"
 }
