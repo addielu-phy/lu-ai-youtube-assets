@@ -1,0 +1,423 @@
+{
+  "generated_at": "20260603-094147",
+  "audio_policy": "Lu Teacher voice clone via F5-TTS; excludes silent/placeholder videos",
+  "count": 47,
+  "items": [
+    {
+      "title": "113分科物理-第7題-電流天平磁力",
+      "year": "113",
+      "q": "7",
+      "kind": "分科物理題解",
+      "size": 2634067,
+      "file": "videos/113-q07-113-physics-q7-current-balance-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "113分科物理-第8題-靜電斥力懸掛小球",
+      "year": "113",
+      "q": "8",
+      "kind": "分科物理題解",
+      "size": 2387198,
+      "file": "videos/113-q08-113-physics-q8-electrostatic-suspended-spheres-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.3
+    },
+    {
+      "title": "113分科物理-第9題-台北101調諧質量阻尼器週期",
+      "year": "113",
+      "q": "9",
+      "kind": "分科物理題解",
+      "size": 2511548,
+      "file": "videos/113-q09-113-physics-q9-tuned-mass-damper-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.4
+    },
+    {
+      "title": "113分科物理-第10題-洞穴滴水漣漪干涉頻率",
+      "year": "113",
+      "q": "10",
+      "kind": "分科物理題解",
+      "size": 2837727,
+      "file": "videos/113-q10-113-physics-q10-cave-drip-ripple-interference-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.7
+    },
+    {
+      "title": "113分科物理-第11題-凸透鏡虛像速度",
+      "year": "113",
+      "q": "11",
+      "kind": "分科物理題解",
+      "size": 2471773,
+      "file": "videos/113-q11-113-physics-q11-convex-lens-virtual-image-speed-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.4
+    },
+    {
+      "title": "113分科物理-第12題-醫療氧氣鋼瓶使用時間",
+      "year": "113",
+      "q": "12",
+      "kind": "分科物理題解",
+      "size": 2702052,
+      "file": "videos/113-q12-113-physics-q12-oxygen-cylinder-supply-time-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "113分科物理-第13題-X射線與量子現象",
+      "year": "113",
+      "q": "13",
+      "kind": "分科物理題解",
+      "size": 3170211,
+      "file": "videos/113-q13-113-physics-q13-xray-quantum-phenomena-slide-video-lu-teacher-v1.mp4",
+      "mb": 3.0
+    },
+    {
+      "title": "113分科物理-第14題-雙狹縫干涉條紋",
+      "year": "113",
+      "q": "14",
+      "kind": "分科物理題解",
+      "size": 2696573,
+      "file": "videos/113-q14-113-physics-q14-double-slit-interference-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "113分科物理-第15題-均勻電場中帶電小球拋射",
+      "year": "113",
+      "q": "15",
+      "kind": "分科物理題解",
+      "size": 2620290,
+      "file": "videos/113-q15-113-physics-q15-uniform-electric-field-projectile-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "113分科物理-第16題-車輛非彈性碰撞速度感測",
+      "year": "113",
+      "q": "16",
+      "kind": "分科物理題解",
+      "size": 2703440,
+      "file": "videos/113-q16-113-physics-q16-vehicle-collision-speed-sensor-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "113分科物理-第17題-高壓輸電與變壓器功率損耗",
+      "year": "113",
+      "q": "17",
+      "kind": "分科物理題解",
+      "size": 2763706,
+      "file": "videos/113-q17-113-physics-q17-high-voltage-transmission-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "113分科物理-第18題-感應電流手掌張合速度偵測器",
+      "year": "113",
+      "q": "18",
+      "kind": "分科物理題解",
+      "size": 2819866,
+      "file": "videos/113-q18-113-physics-q18-hand-grip-induction-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.7
+    },
+    {
+      "title": "113分科物理-第19題-風機功率與風速三次方",
+      "year": "113",
+      "q": "19",
+      "kind": "分科物理題解",
+      "size": 2647719,
+      "file": "videos/113-q19-113-physics-q19-wind-power-cubic-speed-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "113分科物理-第20題-風機額定功率與減碳估算",
+      "year": "113",
+      "q": "20",
+      "kind": "分科物理題解",
+      "size": 2992346,
+      "file": "videos/113-q20-113-physics-q20-wind-rated-energy-carbon-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.9
+    },
+    {
+      "title": "113分科物理-第21題-微波偏振板穿透方向",
+      "year": "113",
+      "q": "21",
+      "kind": "分科物理題解",
+      "size": 2312699,
+      "file": "videos/113-q21-113-physics-q21-microwave-polarizer-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.2
+    },
+    {
+      "title": "113分科物理-第22題-兩片偏振板驗證電磁波為橫波",
+      "year": "113",
+      "q": "22",
+      "kind": "分科物理題解",
+      "size": 2340170,
+      "file": "videos/113-q22-113-physics-q22-two-polarizers-transverse-wave-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.2
+    },
+    {
+      "title": "113分科物理-第23題-兩片偏振板相對強度曲線",
+      "year": "113",
+      "q": "23",
+      "kind": "分科物理題解",
+      "size": 2900462,
+      "file": "videos/113-q23-113-physics-q23-polarizer-relative-intensity-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.8
+    },
+    {
+      "title": "113分科物理-第24題-腳踏車變速齒輪角速度",
+      "year": "113",
+      "q": "24",
+      "kind": "分科物理題解",
+      "size": 3037488,
+      "file": "videos/113-q24-113-physics-q24-bicycle-gear-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.9
+    },
+    {
+      "title": "113分科物理-第25題-腳踏車踏板力矩傳遞",
+      "year": "113",
+      "q": "25",
+      "kind": "分科物理題解",
+      "size": 2673213,
+      "file": "videos/113-q25-113-physics-q25-bicycle-torque-transfer-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "113分科物理-第26題-腳踏車最大驅動力",
+      "year": "113",
+      "q": "26",
+      "kind": "分科物理題解",
+      "size": 2669119,
+      "file": "videos/113-q26-113-physics-q26-bicycle-drive-force-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "114分科物理-第7題-電動車爬坡功率",
+      "year": "114",
+      "q": "7",
+      "kind": "分科物理題解",
+      "size": 1747632,
+      "file": "videos/114-q07-114-physics-q7-ev-hill-power-slide-video-lu-teacher-v1.mp4",
+      "mb": 1.7
+    },
+    {
+      "title": "114分科物理-第8題-磁場中帶電粒子角頻率",
+      "year": "114",
+      "q": "8",
+      "kind": "分科物理題解",
+      "size": 2728661,
+      "file": "videos/114-q08-114-physics-q8-cyclotron-frequency-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "114分科物理-第9題-感應電動勢與運送載台速率",
+      "year": "114",
+      "q": "9",
+      "kind": "分科物理題解",
+      "size": 3121004,
+      "file": "videos/114-q09-114-physics-q9-induced-emf-cart-speed-slide-video-lu-teacher-v1.mp4",
+      "mb": 3.0
+    },
+    {
+      "title": "114分科物理-第10題-單狹縫暗紋重合",
+      "year": "114",
+      "q": "10",
+      "kind": "分科物理題解",
+      "size": 2576885,
+      "file": "videos/114-q10-114-physics-q10-single-slit-dark-fringe-overlap-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "114分科物理-第11題-光電效應波長改變",
+      "year": "114",
+      "q": "11",
+      "kind": "分科物理題解",
+      "size": 2842933,
+      "file": "videos/114-q11-114-physics-q11-photoelectric-wavelength-change-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.7
+    },
+    {
+      "title": "114分科物理-第12題-波耳氫原子能量軌道",
+      "year": "114",
+      "q": "12",
+      "kind": "分科物理題解",
+      "size": 2830809,
+      "file": "videos/114-q12-114-physics-q12-bohr-hydrogen-energy-orbit-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.7
+    },
+    {
+      "title": "114分科物理-第13題-電茶壺加熱功率與能量",
+      "year": "114",
+      "q": "13",
+      "kind": "分科物理題解",
+      "size": 2586477,
+      "file": "videos/114-q13-114-physics-q13-electric-kettle-power-energy-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "114分科物理-第14題-一維碰撞速度關係",
+      "year": "114",
+      "q": "14",
+      "kind": "分科物理題解",
+      "size": 2629393,
+      "file": "videos/114-q14-114-physics-q14-one-dimensional-collision-speed-relation-slide-video-lu-teacher-.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "114分科物理-第15題-疊放木塊摩擦與共同速度",
+      "year": "114",
+      "q": "15",
+      "kind": "分科物理題解",
+      "size": 2662411,
+      "file": "videos/114-q15-114-physics-q15-stacked-blocks-friction-common-speed-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "114分科物理-第16題-簡易電動馬達與安培力",
+      "year": "114",
+      "q": "16",
+      "kind": "分科物理題解",
+      "size": 2562699,
+      "file": "videos/114-q16-114-physics-q16-homopolar-motor-ampere-force-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.4
+    },
+    {
+      "title": "114分科物理-第17題-長直導線旁矩形線圈感應電流",
+      "year": "114",
+      "q": "17",
+      "kind": "分科物理題解",
+      "size": 2402352,
+      "file": "videos/114-q17-114-physics-q17-wire-loop-induced-current-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.3
+    },
+    {
+      "title": "114分科物理-第18題-陰極射線與電子基本粒子",
+      "year": "114",
+      "q": "18",
+      "kind": "分科物理題解",
+      "size": 2822312,
+      "file": "videos/114-q18-114-physics-q18-cathode-ray-electron-basic-particle-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.7
+    },
+    {
+      "title": "114分科物理-第19題-湯匙煞車鎖死滑行距離",
+      "year": "114",
+      "q": "19",
+      "kind": "分科物理題解",
+      "size": 2769911,
+      "file": "videos/114-q19-114-physics-q19-spoon-brake-locked-wheel-stopping-distance-slide-video-lu-teache.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "114分科物理-第20題-湯匙煞車未鎖死煞車距離",
+      "year": "114",
+      "q": "20",
+      "kind": "分科物理題解",
+      "size": 2860636,
+      "file": "videos/114-q20-114-physics-q20-spoon-brake-unlocked-stopping-distance-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.7
+    },
+    {
+      "title": "114分科物理-第21題-等電位線測量與電力線判讀",
+      "year": "114",
+      "q": "21",
+      "kind": "分科物理題解",
+      "size": 2562722,
+      "file": "videos/114-q21-114-physics-q21-equipotential-line-measurement-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.4
+    },
+    {
+      "title": "114分科物理-第22題-等電位線上的電場方向與大小",
+      "year": "114",
+      "q": "22",
+      "kind": "分科物理題解",
+      "size": 2399059,
+      "file": "videos/114-q22-114-physics-q22-equipotential-field-direction-magnitude-slide-video-lu-teacher-v.mp4",
+      "mb": 2.3
+    },
+    {
+      "title": "114分科物理-第23題-等電位線與電力線判讀",
+      "year": "114",
+      "q": "23",
+      "kind": "分科物理題解",
+      "size": 2583972,
+      "file": "videos/114-q23-114-physics-q23-equipotential-line-judgment-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.5
+    },
+    {
+      "title": "114分科物理-第24題-浸潤式曝光波長頻率與速率",
+      "year": "114",
+      "q": "24",
+      "kind": "分科物理題解",
+      "size": 2306431,
+      "file": "videos/114-q24-114-physics-q24-immersion-lithography-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.2
+    },
+    {
+      "title": "114分科物理-第25題-浸潤式曝光水吸收光源選擇",
+      "year": "114",
+      "q": "25",
+      "kind": "分科物理題解",
+      "size": 2487318,
+      "file": "videos/114-q25-114-physics-q25-immersion-lithography-water-absorption-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.4
+    },
+    {
+      "title": "114分科物理-第26題-浸潤式曝光水吸收波長範圍",
+      "year": "114",
+      "q": "26",
+      "kind": "分科物理題解",
+      "size": 2692282,
+      "file": "videos/114-q26-114-physics-q26-immersion-lithography-wavelength-range-slide-video-lu-teacher-v1.mp4",
+      "mb": 2.6
+    },
+    {
+      "title": "ai agent feedback workflow 20260514 / slide_video_draft_v1 / ai agent feedback workflow slide video draft lu f5tts v1.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 8104131,
+      "rel": "longform/ai-agent-feedback-workflow-20260514/slide_video_draft_v1/ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4",
+      "file": "videos/ai-workflow-01-ai-agent-feedback-workflow-slide-video-draft-lu-f5tts-v1.mp4",
+      "mb": 7.7
+    },
+    {
+      "title": "shorts / class summary redaction review 20260515 / class summary redaction review shorts 35s lu f5tts v1.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 1270320,
+      "rel": "shorts/class-summary-redaction-review-20260515/class-summary-redaction-review-shorts-35s-lu-f5tts-v1.mp4",
+      "file": "videos/ai-workflow-02-class-summary-redaction-review-shorts-35s-lu-f5tts-v1.mp4",
+      "mb": 1.2
+    },
+    {
+      "title": "shorts / class summary redaction review 20260515 / class summary redaction review shorts 35s lu f5tts v2.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 1185975,
+      "rel": "shorts/class-summary-redaction-review-20260515/class-summary-redaction-review-shorts-35s-lu-f5tts-v2.mp4",
+      "file": "videos/ai-workflow-03-class-summary-redaction-review-shorts-35s-lu-f5tts-v2.mp4",
+      "mb": 1.1
+    },
+    {
+      "title": "shorts / known unknown boundary map 20260514 / known unknown boundary map shorts 35s lu f5tts v1.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 1264364,
+      "rel": "shorts/known-unknown-boundary-map-20260514/known-unknown-boundary-map-shorts-35s-lu-f5tts-v1.mp4",
+      "file": "videos/ai-workflow-04-known-unknown-boundary-map-shorts-35s-lu-f5tts-v1.mp4",
+      "mb": 1.2
+    },
+    {
+      "title": "shorts / misconception classification first 20260513 / misconception classification first shorts 35s lu f5tts v4.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 1222381,
+      "rel": "shorts/misconception-classification-first-20260513/misconception-classification-first-shorts-35s-lu-f5tts-v4.mp4",
+      "file": "videos/ai-workflow-05-misconception-classification-first-shorts-35s-lu-f5tts-v4.mp4",
+      "mb": 1.2
+    },
+    {
+      "title": "shorts / parent message draft only 20260515 / parent message draft only shorts 35s lu f5tts v1.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 1206563,
+      "rel": "shorts/parent-message-draft-only-20260515/parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4",
+      "file": "videos/ai-workflow-06-parent-message-draft-only-shorts-35s-lu-f5tts-v1.mp4",
+      "mb": 1.2
+    },
+    {
+      "title": "shorts / remedial double lock 20260513 / remedial double lock shorts 35s lu f5tts v1.mp4",
+      "kind": "AI教學/頻道工作流",
+      "size": 1192160,
+      "rel": "shorts/remedial-double-lock-20260513/remedial-double-lock-shorts-35s-lu-f5tts-v1.mp4",
+      "file": "videos/ai-workflow-07-remedial-double-lock-shorts-35s-lu-f5tts-v1.mp4",
+      "mb": 1.1
+    }
+  ]
+}
